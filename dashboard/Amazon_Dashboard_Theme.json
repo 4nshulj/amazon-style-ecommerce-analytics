@@ -1,0 +1,10 @@
+{
+  "name": "Amazon Analytics Dark",
+  "background": "#0f172a",
+  "foreground": "#f1f5f9",
+  "tableAccent": "#3b82f6",
+  "dataColors": ["#3b82f6","#f59e0b","#10b981","#8b5cf6","#ef4444","#06b6d4","#f97316"],
+  "visualStyles": {
+    "*": { "*": { "background": [{"color": {"solid": {"color": "#1e293b"}}}] } }
+  }
+}
