@@ -1,0 +1,15 @@
+seller_id,seller_name,contact_name,email,phone,city,state,country,avg_rating,year_joined
+1,TechVision LLC,Michael Chang,michael@techvision.com,2125550101,New York,NY,USA,4.8,2019
+2,StyleHub Inc,Sarah Williams,sarah@stylehub.com,3105550202,Los Angeles,CA,USA,4.6,2018
+3,HomeEssentials Co,Robert Davis,robert@homeessentials.com,7735550303,Chicago,IL,USA,4.4,2020
+4,BookNest Publishers,Emily Brown,emily@booknest.com,7135550404,Houston,TX,USA,4.9,2017
+5,FitGear Pro,David Martinez,david@fitgearpro.com,6025550505,Phoenix,AZ,USA,4.5,2019
+6,GadgetWorld,Lisa Anderson,lisa@gadgetworld.com,2155550606,Philadelphia,PA,USA,4.3,2018
+7,LuxuryLane,James Wilson,james@luxurylane.com,2105550707,San Antonio,TX,USA,4.7,2016
+8,KidZone Toys,Jennifer Taylor,jennifer@kidzone.com,6195550808,San Diego,CA,USA,4.5,2020
+9,GlowUp Beauty,Amanda Thomas,amanda@glowup.com,2145550909,Dallas,TX,USA,4.6,2019
+10,AutoParts Direct,Christopher Jackson,chris@autoparts.com,4085551010,San Jose,CA,USA,4.2,2018
+11,FreshGrocer,Patricia White,patricia@freshgrocer.com,5125551111,Austin,TX,USA,4.4,2021
+12,PrimeTech Solutions,Kevin Harris,kevin@primetech.com,9045551212,Jacksonville,FL,USA,4.1,2020
+13,TechVision LLC,Michael Chang,michael@techvision.com,2125550101,New York,NY,usa,4.8,2019
+14,Unknown Seller,,,,,,,,

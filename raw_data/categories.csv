@@ -1,0 +1,21 @@
+category_id,category_name,description,parent_cat_id
+1,Electronics,"Gadgets, devices and tech accessories",
+2,Smartphones & Tablets,Mobile phones and tablets,1
+3,Laptops & Computers,"Laptops, desktops and components",1
+4,Audio & Headphones,"Headphones, speakers and audio gear",1
+5,Cameras & Photography,"DSLR, mirrorless and accessories",1
+6,Fashion,"Clothing, shoes and accessories",
+7,Men's Clothing,"Shirts, trousers, suits for men",6
+8,Women's Clothing,"Dresses, tops, skirts for women",6
+9,Footwear,"Shoes, boots, sandals for all",6
+10,Watches & Jewelry,"Watches, rings and necklaces",6
+11,Home & Kitchen,Home goods and kitchen appliances,
+12,Kitchen Appliances,"Blenders, microwaves, coffee makers",11
+13,Furniture,"Sofas, tables, chairs",11
+14,Bedding & Bath,"Sheets, towels, pillows",11
+15,Books,"Fiction, non-fiction, textbooks",
+16,Sports & Outdoors,"Fitness, camping, sports gear",
+17,Toys & Games,Children's toys and board games,
+18,Beauty & Personal Care,"Skincare, haircare, grooming",
+19,Grocery & Gourmet,Food items and beverages,
+20,Automotive,Car accessories and parts,

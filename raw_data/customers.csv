@@ -1,0 +1,501 @@
+customer_id,first_name,last_name,email,phone,city,state,country,age,gender,signup_date,segment,prime_member,total_spent,total_orders
+1,caroline,Anderson,caroline.anderson229@yahoo.com,4410529190,Manchester,ENG,U.S.A,28,Female,2022-04-21,Loyal,Yes,2555.26,48
+2,Ava,Morales,ava.morales945@hotmail.com,(791) 396-2139,Denver,CO,USA,71,Male,10-Nov-2023,Churned,Yes,17545.51,82
+3,Ella,Lee,ella.lee948@aol.com,3722989659,Charlotte,NC,USA,26,Female,"March 21, 2021",VIP,Yes,10710.85,74
+4,Savannah,COOK,savannah.cook113@yahoo.com,+1-211-896-2876,Milwaukee,WI,USA,45,Female,18-Mar-2023,At-Risk,Yes,12692.04,13
+5,Lucy,Sanchez,lucy.sanchez553@icloud.com,(514) 445-1949,Berlin,,Germany,48,Non-binary,04/07/2023,VIP,No,24109.07,69
+6,Penelope,Cruz,penelope.cruz530@hotmail.com,(802) 425-1117,Charlotte,,USA,49,Female,10/27/2023,Loyal,Yes,19615.49,52
+7,Anthony,Turner,anthony.turner690@aol.com,7111908335,San Antonio,TX,USA,72,Non-binary,2020-05-26,VIP,Yes,23159.17,30
+8,Penelope,DAVIS,penelope.davis400@outlook.com,+1-503-422-1958,Tucson,AZ,USA,48,Non-binary,2019-05-05,VIP,Yes,2002.79,23
+9,Penelope,Thomas,penelope.thomas593@icloud.com,(467) 409-6147,Philadelphia,PA,USA,31,Non-binary,2019-01-20,Churned,Yes,9238.18,20
+10,paisley,Cooper,paisley.cooper307@aol.com,4597724331,Dallas,TX,USA,45,male,2021-11-01,,Yes,4039.55,56
+11,Sophia,Myers,sophia.myers855@outlook.com,4929454134,San Jose,CA,USA,69,Female,06/25/2022,New,Yes,19559.66,52
+12,Joseph,Lee,joseph.lee894@gmail.com,4834820954,Charlotte,NC,USA,,Non-binary,"December 20, 2020",New,Yes,4464.2,33
+13,Wyatt,Collins,wyatt.collins395@icloud.com,+1-271-880-6409,Chicago,,USA,60,Female,03-Oct-2023,At-Risk,Yes,10511.16,48
+14,Owen,EVANS,owen.evans294@yahoo.com,+1-953-373-2389,Melbourne,VIC,Australia,66,Female,2022-07-20,VIP,Yes,610.63,31
+15,Grayson,Torres,grayson.torres736@aol.com,,Portland,OR,United Kingdom,47,Non-binary,"February 22, 2024",Loyal,No,15316.31,64
+16,Daniel,Sullivan,daniel.sullivan770@yahoo.com,+1-440-478-6502,Seattle,WA,USA,27,FEMALE,06/15/2019,Churned,No,1556.64,53
+17,Liam,Ortiz,liam.ortiz966@outlook.com,9730374915,Louisville,KY,USA,,Female,"March 01, 2019",Loyal,No,14797.32,84
+18,hazel,White,hazel.white217@hotmail.com,+1-253-558-4673,Louisville,KY,USA,19,Non-binary,03/24/2019,Loyal,Yes,14099.24,27
+19,Lucy,Richardson,lucy.richardson797@yahoo.com,6621369670,San Antonio,TX,USA,,Male,2023-10-08,Returning,Yes,12649.02,43
+20,Nora,Campbell,nora.campbell725@yahoo.com,(751) 993-8921,London,ENG,UK,33,Female,29-Aug-2023,Returning,No,21273.82,23
+21,Grace,Diaz,grace.diaz11@icloud.com,(446) 907-8800,Philadelphia,PA,USA,41,Female,08-Apr-2021,Churned,No,13759.71,45
+22,Amelia,Ross,amelia.ross549@aol.com,6211261115,Columbus,OH,USA,21,Non-binary,01/29/2019,Loyal,No,2564.69,1
+23,Emily,Miller,emily.miller117@gmail.com,+1-321-771-7818,Phoenix,AZ,USA,46,Male,"April 07, 2020",Returning,Yes,1505.76,12
+24,Caleb,Hernandez,sophia.myers855@outlook.com,+1-439-470-4241,Berlin,BE,Germany,22,Male,05-Apr-2020,At-Risk,Yes,23029.81,56
+25,Joseph,Rogers,joseph.rogers613@gmail.com,(890) 789-1339,Oklahoma City,,USA,29,Non-binary,"August 21, 2021",Loyal,No,8699.03,42
+26,Gabriel,Myers,gabriel.myers411@icloud.com,000-000-0000,Philadelphia,PA,USA,31,Male,"June 29, 2022",At-Risk,No,12117.79,3
+27,Daniel,Flores,daniel.flores96@yahoo.com,(710) 933-5781,San Diego,CA,USA,56,Non-binary,"July 24, 2021",Loyal,Yes,19316.88,53
+28,James,Torres,james.torres594@aol.com,(981) 756-7180,San Jose,CA,USA,48,Female,2023-10-20,Loyal,Yes,3156.16,75
+29,Henry,COOPER,henry.cooper148@hotmail.com,4791027186,San Jose,CA,USA,20,f,"July 07, 2022",At-Risk,No,2259.48,12
+30,Abigail,MYERS,abigail.myers333@gmail.com,+1-824-591-4945,Memphis,TN,USA,60,Male,21-Oct-2019,Loyal,No,13664.95,9
+31,Caroline,Parker,caroline.parker310@yahoo.com,N/A,Toronto,ON,Canada,36,Female,"February 08, 2024",Churned,Yes,15522.28,84
+32,eli,Gray,eli.gray35@icloud.com,(379) 405-3165,Dallas,TX,USA,36,Male,"June 10, 2020",Loyal,Yes,18853.79,28
+33,Bella,Campbell,bella.campbell271@icloud.com,(853) 580-2775,Memphis,TN,USA,37,Female,"August 19, 2022",New,Yes,24898.18,14
+34,Grayson,Mitchell,grayson.mitchell969@icloud.com,(830) 617-5583,San Jose,CA,USA,59,male,18-Oct-2023,VIP,No,2291.84,27
+35,John,Young,john.young211@gmail.com,(536) 992-3417,Birmingham,ENG,UK,19,F,09/24/2019,Loyal,Yes,6634.19,16
+36,Julian,Stewart,julian.stewart112@hotmail.com,9058094481,Munich,BY,Germany,23,Male,"November 06, 2022",Returning,Yes,15826.92,70
+37,Chloe,Flores,chloe.flores813@aol.com,5553738511,Birmingham,ENG,UK,48,Male,09/24/2022,Returning,Yes,18614.72,47
+38,Bella,Gomez,bella.gomez363@aol.com,(814) 519-6761,Milwaukee,WI,USA,35,Non-binary,02-Oct-2023,Returning,Yes,15339.33,82
+39,nicholas,Wright,nicholas.wright781@outlook.com,9477405183,,NV,USA,38,Non-binary,18-Jul-2021,New,Yes,1244.06,10
+40,Isaac,Torres,isaac.torres117@outlook.com,(515) 246-4612,Denver,CO,USA,25,Male,21-Apr-2023,Returning,No,13314.56,29
+41,Sophia,PHILLIPS,sophia.phillips20@hotmail.com,3739600515,Oklahoma City,OK,USA,55,Female,2019-06-30,Returning,No,8487.83,42
+42,Audrey,Morgan,audrey.morgan360@aol.com,+1-991-843-9095,San Jose,CA,USA,58,Male,06-Apr-2023,Returning,No,7570.51,35
+43,hazel,Stewart,hazel.stewart294@gmail.com,8226558827,Philadelphia,PA,USA,69,Male,2021-10-23,Returning,Yes,978.55,56
+44,Luke,Mitchell,luke.mitchell794@outlook.com,+1-941-872-3463,Houston,TX,USA,59,Female,21-Sep-2022,Returning,No,16087.33,42
+45,Hunter,Price,hunter.price687@hotmail.com,(984) 697-4145,Los Angeles,CA,USA,67,Non-binary,2021-11-05,Returning,Yes,20783.63,79
+46,Gabriel,Campbell,gabriel.campbell455@icloud.com,9208272919,Albuquerque,NM,USA,69,Non-binary,10/26/2021,At-Risk,No,21852.92,70
+47,Amelia,Torres,amelia.torres461@icloud.com,(557) 227-7797,Milwaukee,WI,USA,71,Male,06-Feb-2021,Loyal,No,17401.8,17
+48,Lucas,Williams,lucas.williams562@aol.com,9039244081,Milwaukee,WI,USA,36,male,05/07/2022,VIP,Yes,16609.28,10
+49,Brooklyn,Rogers,brooklyn.rogers21@hotmail.com,+1-950-872-2698,Chicago,IL,USA,39,Female,2023-03-30,Loyal,No,15793.4,17
+50,chloe,Sanchez,chloe.sanchez43@outlook.com,3228836941,Montreal,QC,Canada,42,Male,"June 13, 2021",Loyal,Yes,23107.76,66
+51,Nora,Richardson,nora.richardson301@outlook.com,3509882812,Oklahoma City,OK,USA,,Female,2020-07-16,Loyal,Yes,21216.73,56
+52,Luke,Campbell,luke.campbell620@yahoo.com,,Memphis,TN,USA,34,Female,2021-10-19,Loyal,No,5004.46,17
+53,Isaac,Lopez,isaac.lopez328@aol.com,(361) 928-3852,Phoenix,AZ,USA,54,Male,2020-04-29,VIP,Yes,1643.7,50
+54,Thomas,TURNER,thomas.turner996@outlook.com,(998) 764-3981,Albuquerque,NM,USA,28,Male,08/30/2023,VIP,Yes,22373.15,10
+55,Mason,Brooks,mason.brooks515@aol.com,+1-229-283-1744,Melbourne,VIC,Australia,19,Female,"June 26, 2020",VIP,Yes,12073.62,51
+56,Isaac,Torres,isaac.torres622@yahoo.com,8506790123,Oklahoma City,OK,USA,42,Non-binary,2021-07-09,Loyal,Yes,18028.21,24
+57,Aurora,Flores,aurora.flores403@icloud.com,7522247263,Indianapolis,IN,USA,43,Male,"January 29, 2023",VIP,Yes,1838.29,64
+58,Anna,Price,anna.price100@hotmail.com,4147818256,El Paso,TX,USA,57,Male,11/29/2021,Loyal,Yes,14843.12,64
+59,Owen,Nguyen,owen.nguyen690@gmail.com,+1-871-994-4728,Melbourne,VIC,Australia,61,f,"September 10, 2021",Returning,No,7842.31,19
+60,Adrian,Nguyen,adrian.nguyen64@aol.com,+1-745-550-9950,Columbus,OH,USA,30,Female,26-Oct-2022,At-Risk,Yes,19279.36,26
+61,Bella,Ross,bella.ross693@icloud.com,(497) 243-5712,Portland,OR,USA,62,Male,18-Feb-2020,Loyal,Yes,6061.45,85
+62,Henry,Turner,henry.cooper148@hotmail.com,(688) 866-4267,Austin,TX,USA,29,Female,2022-08-28,Loyal,Yes,24929.3,50
+63,chloe,Jones,chloe.jones110@outlook.com,+1-315-538-3662,Manchester,ENG,UK,68,Male,2020-06-10,VIP,No,22426.07,54
+64,Emily,Moore,emily.moore7@outlook.com,(940) 786-1187,Albuquerque,NM,USA,63,Male,"August 11, 2021",At-Risk,Yes,5478.22,17
+65,Aubrey,Torres,aubrey.torres776@icloud.com,+1-570-279-2838,Columbus,OH,USA,72,Non-binary,01/24/2024,VIP,No,2273.54,65
+66,Layla,Flores,layla.flores689@outlook.com,(274) 246-7941,Portland,,USA,67,Female,27-Mar-2024,Returning,No,11213.43,48
+67,Brooklyn,Moore,brooklyn.moore183@icloud.com,(505) 674-9920,Dallas,TX,US,,Non-binary,2020-07-18,New,Yes,2522.42,4
+68,ella,Powell,ella.powell553@yahoo.com,(949) 789-6224,Houston,TX,USA,21,Non-binary,"September 14, 2022",Loyal,No,13896.27,6
+69,Audrey,Green,audrey.green308@hotmail.com,(924) 347-8586,Manchester,ENG,UK,23,Female,03/06/2021,Returning,Yes,1288.42,48
+70,Michael,Ortiz,michael.ortiz223@hotmail.com,+1-972-690-4974,El Paso,TX,USA,67,Male,02/23/2020,VIP,Yes,6539.04,65
+71,Easton,Nguyen,easton.nguyen209@outlook.com,(467) 766-7841,Chicago,IL,USA,70,Female,19-Oct-2021,Loyal,No,19874.39,21
+72,Brooklyn,Gray,brooklyn.gray860@gmail.com,+1-717-666-7114,Houston,TX,USA,19,,"September 27, 2022",Returning,1,18054.82,68
+73,Jordan,Collins,jordan.collins110@gmail.com,(473) 606-2294,Indianapolis,IN,USA,72,Male,2020-09-06,Returning,No,1402.87,1
+74,Connor,Nelson,connor.nelson98@icloud.com,(686) 477-1762,Charlotte,NC,USA,unknown,Non-binary,03-Jan-2020,Returning,Yes,4061.26,30
+75,Brooklyn,Nelson,brooklyn.nelson810@aol.com,8894147240,Montreal,QC,Canada,40,Non-binary,"March 02, 2019",Returning,Yes,16516.8,10
+76,Sophia,Hernandez,sophia.hernandez803@aol.com,+1-289-391-8061,Louisville,KY,united states,53,Male,2021-11-15,Churned,Yes,7296.18,49
+77,Ella,Howard,ella.howard174@yahoo.com,5361527572,Seattle,WA,USA,37,Male,"May 01, 2022",Churned,No,20101.91,42
+78,Paisley,Diaz,paisley.diaz971@aol.com,5358554365,Oklahoma City,OK,USA,52,Female,01/17/2021,VIP,0,11540.56,26
+79,Gabriel,Hughes,gabriel.hughes248@outlook.com,000-000-0000,Milwaukee,WI,USA,33,Male,2022-12-07,Loyal,No,16936.8,51
+80,Charlotte,Johnson,charlotte.johnson765@icloud.com,(895) 802-9199,Sydney,NSW,Australia,39,Female,08/26/2019,VIP,No,2440.58,57
+81,Alexander,Williams,alexander.williams694@yahoo.com,5426335013,Indianapolis,IN,USA,45,F,03/21/2021,VIP,No,20218.24,8
+82,Luke,Adams,luke.adams687@hotmail.com,+1-889-922-5873,Oklahoma City,OK,USA,37,Male,23-Jun-2019,Loyal,No,14910.65,73
+83,Nicholas,Gray,nicholas.gray171@hotmail.com,2586412136,Jacksonville,FL,USA,23,F,"November 03, 2022",At-Risk,Yes,13440.22,21
+84,Aurora,Bell,aurora.bell275@icloud.com,(651) 759-4580,Memphis,TN,USA,25,Female,2021-07-10,Loyal,No,15256.55,54
+85,Jackson,Davis,jackson.davis612@icloud.com,(895) 297-3221,Denver,CO,USA,66,Female,26-May-2020,Loyal,No,10355.63,57
+86,Penelope,Morgan,penelope.morgan899@outlook.com,9021586685,Vancouver,,Canada,38,Male,03/22/2020,Loyal,No,19707.59,6
+87,Liam,Thomas,liam.thomas468@gmail.com,5764947017,Milwaukee,WI,USA,58,Male,09/22/2022,VIP,Yes,17592.45,0
+88,Joshua,PRICE,joshua.price352@gmail.com,(291) 948-2678,Milwaukee,WI,USA,54,Male,08/06/2022,Loyal,No,5326.39,19
+89,Sofia,Lopez,sofia.lopez127@icloud.com,+1-815-814-5668,Las Vegas,NV,USA,56,Non-binary,24-Feb-2019,Returning,Yes,19595.04,30
+90,Cameron,Martinez,cameron.martinez370@outlook.com,(682) 988-2195,Sydney,NSW,Australia,50,Female,26-Apr-2024,Returning,Yes,13441.38,19
+91,Jackson,Martin,jackson.martin650@aol.com,(444) 259-5005,Phoenix,AZ,USA,63,Female,09/25/2020,Loyal,Yes,13075.13,33
+92,Joseph,Morales,joseph.morales31@outlook.com,(842) 278-9128,Seattle,WA,USA,61,Male,2021-01-23,VIP,YES,6113.79,60
+93,Noah,Bell,noah.bell672@hotmail.com,+1-889-253-3938,Indianapolis,IN,USA,36,Male,2019-04-05,VIP,Yes,5016.78,72
+94,Aubrey,Cox,aubrey.cox795@yahoo.com,,Manchester,ENG,USA,51,Female,05-Oct-2023,New,Yes,17791.31,11
+95,Gabriel,Long,gabriel.long766@gmail.com,9140142275,Montreal,QC,Canada,35,F,11-Mar-2024,Loyal,Yes,2724.32,13
+96,Andrew,Rivera,andrew.rivera316@hotmail.com,7218474537,San Diego,CA,USA,29,Male,22-Mar-2021,Loyal,Yes,6246.32,59
+97,Isabella,Gutierrez,isabella.gutierrez844@hotmail.com,8199490323,Philadelphia,PA,USA,43,f,"April 14, 2019",Returning,Yes,22707.61,35
+98,Anna,Wood,anna.wood422@icloud.com,5413838650,Philadelphia,PA,USA,29,Male,05-Dec-2020,VIP,y,1464.78,60
+99,Daniel,Gonzalez,daniel.gonzalez547@aol.com,(377) 380-4875,Charlotte,NC,USA,30,Female,12/11/2022,,Yes,1404.2,77
+100,Adrian,Sanchez,adrian.sanchez182@outlook.com,7899527473,San Jose,CA,USA,49,Male,"October 07, 2019",VIP,Yes,19674.79,28
+101,Madelyn,Myers,madelyn.myers2@aol.com,+1-779-306-9129,Portland,OR,USA,23,Male,09-Jun-2019,At-Risk,No,1694.87,32
+102,Isaac,Morales,isaac.morales424@hotmail.com,000-000-0000,Las Vegas,NV,USA,42,Female,03-May-2024,VIP,Yes,8448.76,78
+103,Paisley,Perez,paisley.perez55@gmail.com,3277326067,Fort Worth,TX,USA,36,Non-binary,2019-11-11,Returning,NO,15954.77,10
+104,Julian,Rivera,julian.rivera658@icloud.com,+1-475-777-2009,Memphis,TN,USA,44,Non-binary,28-Sep-2022,New,Yes,10465.8,68
+105,Aiden,Nguyen,aiden.nguyen875@aol.com,3928610987,Sydney,NSW,Australia,70,Female,"June 10, 2019",At-Risk,No,22854.35,8
+106,Grace,Peterson,grace.peterson806@aol.com,+1-776-998-2654,London,ENG,UK,59,Female,"December 08, 2023",Loyal,Yes,10074.35,79
+107,John,Myers,john.myers943@outlook.com,2979069637,Los Angeles,CA,USA,31,Female,2020-07-05,VIP,Yes,12881.74,20
+108,Alice,COOPER,alice.cooper198@yahoo.com,(403) 480-7035,,IN,USA,48,Non-binary,"February 01, 2021",Churned,Yes,18724.03,11
+109,Claire,Gutierrez,claire.gutierrez663@yahoo.com,(985) 898-1145,Seattle,WA,USA,63,Male,03-Apr-2020,Returning,No,6299.97,59
+110,nathan,Wilson,nathan.wilson990@outlook.com,+1-483-467-5895,Berlin,BE,Germany,69,Non-binary,2023-04-17,Churned,No,636.38,63
+111,zoey,Powell,zoey.powell586@yahoo.com,7584294244,Charlotte,NC,USA,39,Male,09/20/2019,VIP,Yes,10511.81,42
+112,amelia,Nguyen,amelia.nguyen595@icloud.com,2647588523,Fort Worth,TX,USA,49,Male,10/21/2019,Loyal,Yes,117.84,35
+113,Daniel,Rivera,daniel.rivera133@icloud.com,+1-214-529-9700,Milwaukee,WI,USA,40,Male,01/09/2019,Returning,Yes,4175.5,5
+114,Cameron,Cooper,cameron.cooper138@outlook.com,(613) 219-4742,Vancouver,BC,Canada,58,Male,2019-09-10,Loyal,Yes,16549.25,83
+115,Isaac,Carter,isaac.carter719@yahoo.com,(476) 837-3247,New York,NY,USA,71,Non-binary,10/16/2021,Churned,Yes,4009.34,70
+116,john,Walker,john.walker929@gmail.com,5885997885,Vancouver,BC,Canada,,Male,2020-06-24,Churned,Yes,2374.96,5
+117,John,Rivera,john.rivera275@aol.com,+1-864-370-2852,El Paso,TX,USA,,Female,05/01/2019,Loyal,No,19479.11,78
+118,Mason,Murphy,mason.murphy422@hotmail.com,+1-546-731-9570,San Francisco,,USA,60,Female,07/15/2019,VIP,Yes,1364.15,82
+119,aurora,Perez,aurora.perez247@outlook.com,8202743969,Houston,TX,USA,19,Male,"October 09, 2020",New,Yes,20647.72,77
+120,Bella,Clark,bella.clark350@outlook.com,000-000-0000,Charlotte,NC,USA,41,F,27-Aug-2023,Loyal,No,18562.77,52
+121,Dylan,Ramirez,dylan.ramirez734@outlook.com,(326) 990-8381,Baltimore,MD,USA,48,Non-binary,"December 22, 2021",Loyal,Yes,18262.37,16
+122,Riley,Rogers,riley.rogers624@aol.com,+1-966-724-5897,Seattle,WA,USA,57,Male,10/29/2023,Loyal,No,24379.49,22
+123,Alexander,Ortiz,alexander.ortiz585@aol.com,(735) 309-1414,Manchester,ENG,UK,62,Male,08/09/2020,VIP,No,2562.0,71
+124,Aiden,Morgan,aiden.morgan295@aol.com,+1-457-407-8259,Louisville,KY,USA,52,Non-binary,14-Dec-2022,VIP,Yes,24586.33,9
+125,Jayden,Garcia,jayden.garcia134@yahoo.com,+1-992-840-5934,,CA,USA,29,m,31-Jan-2022,Loyal,Yes,10085.43,44
+126,Luke,Nguyen,luke.nguyen544@hotmail.com,(857) 828-4994,New York,NY,USA,,Non-binary,01-Mar-2021,Loyal,Yes,22457.04,24
+127,Thomas,Reed,thomas.reed216@aol.com,000-000-0000,Columbus,OH,USA,34,F,2019-03-19,At-Risk,No,15755.43,55
+128,James,GRAY,james.gray764@icloud.com,(902) 508-2417,Phoenix,AZ,USA,43,Non-binary,08/28/2021,Loyal,No,16198.52,1
+129,James,Howard,james.howard970@gmail.com,+1-458-398-2877,Las Vegas,NV,USA,22,Male,"October 12, 2023",At-Risk,No,14514.89,42
+130,carter,Watson,carter.watson498@hotmail.com,2020752792,Nashville,TN,USA,47,Female,03-Oct-2019,At-Risk,Yes,4394.25,77
+131,Andrew,Sanchez,andrew.sanchez79@aol.com,+1-764-466-9904,Los Angeles,CA,USA,32,,08/24/2021,At-Risk,Yes,12760.3,50
+132,Adrian,Price,adrian.price457@yahoo.com,(695) 567-1662,Sydney,NSW,Australia,47,f,29-Mar-2019,Churned,Yes,15839.17,35
+133,Matthew,Carter,matthew.carter670@gmail.com,+1-342-650-3713,Louisville,KY,USA,41,Non-binary,08/10/2022,Returning,No,20279.32,14
+134,Daniel,GRAY,daniel.gray45@yahoo.com,+1-384-729-7642,Austin,TX,USA,60,Male,N/A,VIP,No,21682.56,21
+135,Nathan,Jenkins,nathan.jenkins271@yahoo.com,(587) 594-3166,El Paso,TX,USA,56,Male,"May 25, 2022",VIP,Yes,2329.75,84
+136,Alice,Hughes,alice.hughes380@gmail.com,(590) 558-2600,Milwaukee,WI,USA,18,Male,"August 03, 2020",Returning,No,16363.65,40
+137,Nathan,Allen,nathan.allen579@outlook.com,+1-695-459-6024,Portland,OR,USA,46,Female,2021-03-26,VIP,Yes,20021.34,78
+138,Caroline,Smith,caroline.smith483@icloud.com,(941) 593-7564,Phoenix,AZ,USA,60,Non-binary,2022-08-04,New,Yes,12895.34,29
+139,Paisley,Smith,paisley.smith283@hotmail.com,9413709295,Portland,OR,uk,43,F,04/08/2020,Returning,Yes,1809.65,37
+140,David,Reed,david.reed711@hotmail.com,+1-693-319-5224,Sydney,NSW,Australia,44,Male,06/04/2023,New,Yes,6206.44,11
+141,Lincoln,Thompson,lincoln.thompson916@icloud.com,(471) 411-4755,Fort Worth,TX,USA,66,Non-binary,"September 03, 2019",Loyal,Yes,12308.51,73
+142,Savannah,Scott,savannah.scott132@gmail.com,+1-323-915-9490,Milwaukee,WI,USA,55,Male,N/A,Loyal,Yes,13714.09,30
+143,Emily,Cook,emily.cook771@outlook.com,5496922300,Portland,OR,USA,18,Female,02/06/2020,Loyal,No,12925.17,40
+144,Ryan,Miller,ryan.miller62@yahoo.com,8701652366,Toronto,ON,Canada,59,Non-binary,11/12/2023,At-Risk,No,12761.11,57
+145,Eli,Jackson,eli.jackson951@outlook.com,3346395203,Munich,BY,Germany,51,Female,09-Jul-2020,Loyal,Yes,18194.31,84
+146,Jackson,Perez,jackson.perez960@hotmail.com,6657081410,Los Angeles,CA,USA,28,male,06/26/2021,Churned,No,24374.54,69
+147,Ellie,Bailey,ellie.bailey647@aol.com,7270476542,Sydney,NSW,Australia,66,Female,2019-11-15,Loyal,No,23052.21,61
+148,Cameron,Robinson,cameron.robinson194@hotmail.com,+1-632-840-4924,Milwaukee,WI,USA,65,Non-binary,12-Jul-2023,Returning,Yes,4560.18,37
+149,Ellie,Watson,ellie.watson156@gmail.com,2999913493,Los Angeles,CA,USA,47,Male,"September 30, 2020",Loyal,No,1784.62,60
+150,Jayden,Johnson,jayden.johnson255@hotmail.com,8533242775,Albuquerque,NM,USA,53,Non-binary,2024-04-01,Loyal,Yes,9010.67,6
+151,Caroline,Collins,caroline.collins283@icloud.com,+1-291-454-3583,,IN,USA,59,Female,2022-06-20,Returning,Yes,7918.49,71
+152,Isaac,Morales,isaac.morales367@aol.com,4433965438,Chicago,IL,USA,27,Female,11/12/2023,At-Risk,No,18.0,81
+153,Anna,Campbell,anna.campbell739@gmail.com,+1-530-619-6276,Manchester,ENG,UK,20,Female,09/11/2022,VIP,Yes,16043.79,49
+154,David,Miller,david.miller73@gmail.com,(679) 854-1994,Columbus,OH,USA,71,F,2023-08-14,VIP,No,5775.45,49
+155,Eli,Thompson,eli.thompson765@gmail.com,+1-716-545-3591,Sydney,NSW,Australia,38,Male,26-Jun-2021,Returning,Yes,15210.33,72
+156,Eliana,Allen,jayden.johnson255@hotmail.com,+1-419-522-1355,Denver,CO,USA,47,Male,08/12/2023,At-Risk,Yes,6246.42,32
+157,sofia,Morales,sofia.morales495@yahoo.com,6632025130,Sydney,NSW,Australia,32,Non-binary,2021-05-03,Returning,Yes,1029.56,69
+158,Evelyn,Miller,evelyn.miller995@hotmail.com,3443831341,Sydney,NSW,Australia,26,Female,"June 24, 2019",VIP,No,14283.27,71
+159,Sophia,Wright,sophia.wright947@icloud.com,5305755992,Baltimore,MD,USA,41,Female,04/02/2019,Returning,Yes,6076.21,79
+160,Emma,Baker,alice.cooper198@yahoo.com,+1-884-218-7170,Manchester,ENG,UK,30,Non-binary,12/14/2021,Loyal,Yes,1664.94,84
+161,Charlotte,Williams,charlotte.williams396@yahoo.com,000-000-0000,Montreal,QC,Canada,,Male,11/14/2020,VIP,Yes,6896.96,7
+162,Olivia,Gomez,olivia.gomez350@hotmail.com,+1-786-356-7987,Philadelphia,PA,USA,26,Non-binary,11/05/2020,VIP,Yes,17213.3,67
+163,Thomas,Jackson,thomas.jackson162@outlook.com,+1-623-621-5970,Manchester,ENG,UK,24,Female,03/26/2024,Loyal,Yes,14176.08,29
+164,Lucas,Myers,lucas.myers867@icloud.com,(367) 397-4707,Memphis,TN,USA,22,Female,03/01/2023,Loyal,No,17196.57,58
+165,Lucy,Powell,lucy.powell404@icloud.com,+1-243-451-9498,Sydney,NSW,Australia,46,Female,2019-03-22,At-Risk,No,7360.49,6
+166,Connor,Stewart,connor.stewart185@icloud.com,+1-292-456-6309,Manchester,ENG,UK,63,Female,2023-06-20,Returning,No,18171.85,65
+167,Ava,Jenkins,ava.jenkins893@aol.com,(629) 515-6071,Austin,TX,USA,,Female,20-May-2024,New,No,5946.96,75
+168,cameron,Diaz,cameron.diaz285@icloud.com,(237) 348-1531,Columbus,OH,USA,36,Non-binary,08/12/2019,Loyal,Yes,4435.48,58
+169,Thomas,Hill,thomas.hill840@gmail.com,(481) 537-9635,Birmingham,ENG,UK,62,Non-binary,2022-03-16,At-Risk,Yes,6491.5,73
+170,Ryan,Cook,ryan.cook505@yahoo.com,9462369848,Charlotte,NC,US,unknown,Male,12/17/2020,Returning,Yes,13749.84,0
+171,Ryan,Wood,ryan.wood199@outlook.com,(693) 359-8546,Toronto,ON,Canada,19,Female,07-Sep-2023,Churned,Yes,1655.33,19
+172,Eli,Reed,eli.reed399@yahoo.com,(288) 708-4893,Nashville,TN,USA,46,FEMALE,02/05/2021,VIP,Yes,23090.92,67
+173,Henry,Peterson,henry.peterson742@gmail.com,+1-247-305-9529,London,ENG,United Kingdom,31,Male,01-Oct-2020,At-Risk,Yes,19319.68,85
+174,Emma,Watson,emma.watson556@outlook.com,N/A,Seattle,WA,USA,21,Male,2021-08-22,Loyal,Yes,15736.77,57
+175,Taylor,Ortiz,taylor.ortiz998@hotmail.com,4020979143,Philadelphia,PA,USA,38,Female,11-Jan-2020,Returning,Yes,11966.3,21
+176,Savannah,Wilson,savannah.wilson110@outlook.com,+1-693-593-2082,Phoenix,AZ,USA,39,Non-binary,"April 25, 2022",Loyal,Yes,18484.18,73
+177,Riley,Gomez,riley.gomez316@hotmail.com,+1-342-794-1003,San Antonio,TX,USA,54,Female,02-Nov-2019,Churned,No,7613.75,55
+178,Nathan,Johnson,nathan.johnson868@yahoo.com,+1-488-231-4854,Houston,TX,USA,45,Non-binary,"March 18, 2021",Loyal,Yes,13885.54,46
+179,Aaliyah,TAYLOR,aaliyah.taylor17@yahoo.com,5694327968,Vancouver,BC,Canada,32,Female,"November 09, 2021",New,No,5918.75,64
+180,Noah,Jones,noah.jones116@icloud.com,+1-280-735-2449,Philadelphia,PA,USA,52,Non-binary,2023-02-27,New,Yes,19463.18,60
+181,John,Torres,john.torres302@outlook.com,+1-786-252-5780,Berlin,BE,Germany,22,Male,2019-02-25,Loyal,Yes,355.08,14
+182,Caleb,Stewart,caleb.stewart802@aol.com,5597525665,Jacksonville,FL,USA,71,male,01/26/2023,Returning,No,9968.62,38
+183,Avery,Carter,avery.carter269@yahoo.com,9227898711,,WI,USA,35,Male,04-Jun-2022,Loyal,No,18727.27,75
+184,Emily,Green,savannah.wilson110@outlook.com,+1-834-294-1931,London,ENG,UK,25,Male,2024-01-05,Loyal,No,14151.72,23
+185,Hazel,Reyes,hazel.reyes945@outlook.com,(263) 591-7366,Oklahoma City,OK,USA,29,Female,10/04/2021,VIP,Yes,15349.16,13
+186,Sophia,Martinez,sophia.martinez457@gmail.com,5885302779,San Jose,,USA,18,Female,2021-09-06,Loyal,Yes,23376.05,45
+187,Connor,Lopez,connor.lopez349@gmail.com,+1-309-845-6886,Denver,CO,USA,N/A,Non-binary,06/15/2021,Returning,Yes,16085.19,63
+188,Liam,Jones,liam.jones739@gmail.com,9477759238,Columbus,OH,USA,57,Male,N/A,Loyal,0,1248.95,39
+189,Skylar,Rodriguez,skylar.rodriguez510@icloud.com,(955) 894-7586,Charlotte,NC,USA,25,Male,04/15/2023,Returning,Yes,13835.19,56
+190,Eli,Wood,eli.wood901@hotmail.com,4973656415,New York,NY,USA,63,Female,2020-05-04,Returning,Yes,8696.34,0
+191,Henry,Watson,henry.watson553@icloud.com,2757305041,Columbus,OH,USA,66,f,05-Mar-2020,New,Yes,3951.14,3
+192,Easton,Edwards,easton.edwards204@aol.com,5736133245,Oklahoma City,OK,USA,57,Female,04/22/2019,Churned,No,4853.87,45
+193,nicholas,Kelly,nicholas.kelly873@hotmail.com,+1-766-435-2416,Austin,TX,USA,71,Female,09/28/2021,Returning,Yes,6195.79,55
+194,Evelyn,Howard,evelyn.howard46@gmail.com,4127233070,,QC,Canada,,f,29-Apr-2024,At-Risk,No,21448.05,74
+195,Jeremiah,Evans,jeremiah.evans642@hotmail.com,(540) 743-1535,New York,NY,USA,21,Non-binary,02-Jun-2023,Churned,Yes,9573.87,59
+196,bella,Foster,bella.foster210@yahoo.com,9529822835,Indianapolis,IN,USA,41,Male,28-Oct-2021,VIP,Yes,11754.1,68
+197,Anna,Mitchell,anna.mitchell829@gmail.com,(278) 311-3699,Tucson,AZ,USA,61,Non-binary,2021-12-02,Loyal,No,18442.73,2
+198,Avery,Peterson,avery.peterson352@aol.com,(761) 655-8503,Oklahoma City,OK,USA,21,Female,18-Sep-2021,Loyal,Yes,23103.29,68
+199,Nicholas,Cruz,nicholas.cruz120@gmail.com,(775) 924-1568,Sydney,NSW,Australia,49,Female,2021-12-28,Churned,No,13653.64,64
+200,Chloe,Russell,chloe.russell151@icloud.com,(241) 342-2914,Albuquerque,NM,USA,32,Male,10/30/2020,Returning,No,16926.58,11
+201,Lucy,RICHARDSON,lucy.richardson683@outlook.com,2376233267,Milwaukee,WI,USA,44,Female,"December 02, 2019",Loyal,Yes,7580.78,67
+202,Landon,Carter,landon.carter937@outlook.com,7538202137,Birmingham,ENG,UK,68,Male,"October 08, 2021",At-Risk,No,11813.53,83
+203,Nicholas,Gray,nicholas.gray284@hotmail.com,(646) 464-8799,Phoenix,AZ,USA,62,Female,06-Apr-2022,New,No,15906.18,45
+204,Sophia,Morgan,sophia.morgan784@gmail.com,9238925642,Austin,TX,USA,41,Female,08/14/2023,Loyal,Yes,12584.57,24
+205,Audrey,Reed,audrey.reed822@gmail.com,6892027779,Phoenix,AZ,united states,25,Female,2019-12-19,Loyal,Yes,3133.6,16
+206,alexander,Martinez,alexander.martinez442@gmail.com,+1-883-210-2581,Chicago,IL,USA,40,Male,02/25/2020,At-Risk,Yes,8805.08,64
+207,Benjamin,Gonzalez,benjamin.gonzalez542@yahoo.com,(301) 419-9260,Denver,CO,uk,50,Female,"January 06, 2020",Churned,Yes,12993.19,63
+208,Ava,Hernandez,ava.hernandez291@hotmail.com,+1-271-687-7020,Nashville,TN,USA,60,Male,"October 03, 2021",Returning,Yes,24439.27,21
+209,Cameron,Evans,cameron.evans743@hotmail.com,9158323248,Melbourne,VIC,Australia,58,f,"August 10, 2019",New,No,16952.69,22
+210,Anna,WATSON,anna.watson770@icloud.com,(467) 755-6629,Tucson,AZ,USA,38,Female,2021-05-31,New,Yes,16485.28,38
+211,Victoria,Sanders,victoria.sanders583@aol.com,3680985022,Birmingham,ENG,UK,55,Male,19-Apr-2023,Churned,No,14599.17,80
+212,Lily,Turner,lily.turner254@yahoo.com,6379629640,Melbourne,VIC,Australia,62,Female,"March 09, 2022",Churned,No,8060.53,12
+213,Aria,Cook,aria.cook348@yahoo.com,+1-248-504-7586,Memphis,TN,USA,35,Male,2023-03-02,VIP,Yes,8682.91,9
+214,Nora,Reyes,nora.reyes412@outlook.com,+1-790-711-4489,Tucson,AZ,USA,64,Male,"April 05, 2024",Churned,Yes,3761.82,38
+215,Benjamin,Bennett,benjamin.bennett844@outlook.com,7349753742,San Francisco,CA,USA,35,male,2021-05-14,VIP,Yes,24094.67,62
+216,Wyatt,RICHARDSON,wyatt.richardson979@hotmail.com,(441) 314-9196,Philadelphia,PA,USA,55,Female,02-May-2020,VIP,Yes,3606.95,22
+217,Skylar,Davis,skylar.davis972@gmail.com,+1-515-221-1570,Milwaukee,WI,USA,42,Male,06/25/2023,Churned,No,3051.34,30
+218,Dylan,Allen,dylan.allen775@yahoo.com,5390092441,Austin,TX,USA,70,Male,"March 12, 2024",At-Risk,Yes,10521.76,70
+219,William,Gray,william.gray811@aol.com,+1-986-864-3131,Portland,OR,USA,65,Female,20-Apr-2021,Loyal,Yes,4966.59,53
+220,claire,LEWIS,claire.lewis572@aol.com,8017399116,Charlotte,NC,USA,,Female,2019-12-15,Loyal,No,5078.63,34
+221,Jackson,Diaz,jackson.diaz745@aol.com,5896945119,Jacksonville,FL,USA,63,Female,"September 30, 2019",Loyal,Yes,13925.0,6
+222,Lucy,Cruz,jackson.davis612@icloud.com,4493172294,Munich,BY,Germany,51,Female,2023-12-03,Returning,Yes,12480.27,35
+223,Scarlett,Wood,scarlett.wood530@outlook.com,2228587581,Austin,TX,USA,49,Male,"June 16, 2020",VIP,No,2812.27,18
+224,Emily,Perez,emily.perez577@aol.com,(384) 626-2258,Melbourne,,Australia,55,Male,2020-08-05,Loyal,n,20767.48,84
+225,Caleb,SMITH,caleb.smith638@hotmail.com,5194596665,Sydney,NSW,Australia,72,Female,"December 31, 2019",Returning,No,3853.37,38
+226,Victoria,Price,victoria.price99@outlook.com,5249102562,Vancouver,BC,Canada,61,Female,10-Jul-2019,Loyal,Yes,15738.99,67
+227,Violet,Hill,violet.hill925@outlook.com,+1-622-296-8612,London,ENG,UK,67,f,23-Jul-2023,Loyal,Yes,21072.75,5
+228,Skylar,Ross,skylar.ross639@outlook.com,(465) 889-2742,Jacksonville,FL,USA,65,Non-binary,"September 05, 2022",At-Risk,Yes,9018.22,50
+229,Michael,Anderson,michael.anderson193@gmail.com,(751) 395-2410,San Jose,CA,USA,48,,"December 07, 2019",Loyal,Yes,14235.76,50
+230,Taylor,Collins,taylor.collins755@icloud.com,7290995045,Birmingham,ENG,UK,25,Female,"February 07, 2022",Churned,No,520.17,36
+231,Christopher,Lewis,christopher.lewis944@icloud.com,+1-365-836-4394,Tucson,AZ,USA,28,Non-binary,06/26/2019,Returning,No,7591.3,26
+232,Scarlett,Rivera,scarlett.rivera881@icloud.com,+1-548-563-1764,Phoenix,AZ,USA,46,Female,2020-07-01,Returning,Yes,15241.4,13
+233,Eli,Thomas,eli.thomas161@aol.com,7732095649,Albuquerque,NM,USA,48,Male,04/25/2023,Loyal,Yes,17879.99,53
+234,Landon,Cooper,landon.cooper822@hotmail.com,(898) 570-1487,Baltimore,MD,USA,43,Male,11/23/2020,Loyal,Yes,24443.32,84
+235,Hannah,Long,hannah.long761@outlook.com,+1-410-757-8244,New York,NY,USA,52,Male,08-Apr-2021,Loyal,Yes,7098.2,11
+236,caroline,Lee,caroline.lee553@icloud.com,(261) 581-5255,Nashville,TN,USA,33,Non-binary,2021-07-08,VIP,Yes,8758.43,36
+237,Harper,Sanders,harper.sanders108@outlook.com,2351960400,Fort Worth,TX,USA,51,Female,"June 09, 2019",Loyal,No,24912.79,62
+238,Christopher,Taylor,christopher.taylor992@aol.com,6805063639,London,ENG,UK,41,Male,2019-03-24,New,Yes,19594.81,53
+239,Sofia,White,sofia.white126@icloud.com,9878945641,Chicago,IL,USA,64,Male,"April 09, 2023",Loyal,No,9680.88,50
+240,Isaac,Powell,scarlett.wood530@outlook.com,8772543160,Nashville,TN,USA,52,Female,2021-10-26,At-Risk,Yes,20742.26,74
+241,penelope,Cox,penelope.cox24@outlook.com,(293) 317-2627,,MD,USA,21,Non-binary,"November 12, 2019",Loyal,YES,7450.61,12
+242,jayden,Thomas,jayden.thomas612@icloud.com,(262) 525-8615,Montreal,QC,Canada,55,Male,15-Feb-2024,VIP,Yes,7615.32,52
+243,Ethan,Mitchell,ethan.mitchell252@icloud.com,2002331874,Birmingham,,UK,50,f,12/20/2020,VIP,Yes,2242.88,15
+244,Nora,Clark,nora.clark326@aol.com,(878) 529-6597,San Francisco,CA,USA,N/A,Female,"August 16, 2022",Loyal,Yes,2028.72,83
+245,Aaliyah,Edwards,aaliyah.edwards833@hotmail.com,(208) 327-8580,Las Vegas,NV,USA,70,Non-binary,03-Apr-2023,VIP,No,24182.41,4
+246,Jackson,Smith,jackson.smith406@gmail.com,+1-331-963-2065,Sydney,NSW,Australia,,Male,19-Oct-2023,VIP,No,14002.9,58
+247,Paisley,Miller,paisley.miller865@hotmail.com,7488680575,London,ENG,UK,32,,2020-02-03,VIP,Yes,7770.15,80
+248,Olivia,Cox,olivia.cox861@outlook.com,+1-994-814-8184,Toronto,ON,Canada,20,Female,2021-07-03,Returning,Yes,22977.89,56
+249,charlotte,HUGHES,charlotte.hughes871@hotmail.com,+1-675-638-2659,Munich,BY,Germany,24,f,23-May-2023,Returning,Yes,22609.25,16
+250,Easton,Watson,easton.watson817@gmail.com,5330728529,Nashville,TN,USA,50,Non-binary,01/25/2021,Returning,Yes,16013.87,25
+251,Nicholas,Myers,nicholas.myers340@icloud.com,7237308382,El Paso,TX,USA,70,Male,"July 01, 2022",Returning,Yes,20652.11,0
+252,Alexander,Jackson,alexander.jackson600@outlook.com,(468) 936-3855,Los Angeles,CA,USA,unknown,Female,2023-09-23,Returning,Yes,7626.81,30
+253,Audrey,Watson,audrey.watson67@gmail.com,7345299986,Dallas,TX,USA,68,Male,06/06/2023,VIP,No,5230.94,10
+254,Abigail,Morgan,abigail.morgan770@icloud.com,(911) 694-9106,London,ENG,UK,45,Female,"July 14, 2021",Churned,Yes,3358.26,10
+255,Ava,Morris,ava.morris462@hotmail.com,+1-277-567-2350,Memphis,TN,USA,32,Male,2021-11-16,Churned,Yes,8343.95,42
+256,Grace,Harris,grace.harris876@aol.com,(613) 615-1194,,CA,USA,51,Non-binary,04/09/2020,Loyal,No,8516.49,10
+257,Ellie,Torres,ellie.torres572@gmail.com,+1-629-635-7608,Sydney,NSW,Australia,20,Female,2022-01-06,Churned,Yes,22843.8,73
+258,Dylan,Rodriguez,dylan.rodriguez112@outlook.com,,Albuquerque,NM,USA,32,Male,"May 23, 2019",Returning,Yes,12963.29,21
+259,Alexander,Taylor,alexander.taylor71@hotmail.com,+1-788-517-4325,Columbus,OH,USA,46,Male,2021-07-28,Loyal,Yes,8222.29,72
+260,Hunter,Lopez,hunter.lopez468@outlook.com,(625) 455-3942,Nashville,TN,USA,28,Male,2021-03-16,VIP,Yes,17451.1,27
+261,amelia,Mitchell,amelia.mitchell785@outlook.com,(274) 854-8567,Austin,TX,USA,65,Female,05/28/2020,Returning,No,6057.34,56
+262,Abigail,Williams,abigail.williams128@icloud.com,+1-931-235-9721,Austin,TX,USA,37,M,2019-04-08,,Yes,23220.51,47
+263,Olivia,Johnson,olivia.johnson686@gmail.com,+1-534-530-4105,San Antonio,TX,USA,24,Male,2021-03-20,New,Yes,299.53,27
+264,Paisley,WATSON,paisley.watson224@hotmail.com,+1-814-532-7366,Berlin,BE,Germany,60,M,30-Sep-2019,Loyal,No,9559.28,81
+265,emma,Robinson,emma.robinson128@outlook.com,+1-584-409-1621,Milwaukee,WI,USA,39,Female,"May 09, 2022",New,No,16201.16,36
+266,Aria,YOUNG,aria.young940@aol.com,,Charlotte,NC,USA,53,Female,2024-04-05,Returning,No,7786.57,25
+267,Carter,Howard,carter.howard279@hotmail.com,(717) 824-8101,Memphis,TN,USA,27,Non-binary,04-Apr-2023,At-Risk,Yes,11340.08,48
+268,Taylor,Nguyen,taylor.nguyen5@gmail.com,(960) 582-7292,Memphis,TN,USA,45,Male,03/02/2024,Churned,No,15874.49,47
+269,Hunter,YOUNG,hunter.young833@outlook.com,N/A,Los Angeles,CA,USA,55,Male,"August 12, 2022",VIP,Yes,20743.74,32
+270,Jayden,Cox,jayden.cox898@aol.com,(346) 475-4432,San Antonio,TX,USA,59,Male,"July 18, 2019",Loyal,Yes,17601.18,25
+271,Ryan,RAMIREZ,ryan.ramirez188@yahoo.com,(851) 370-2307,Baltimore,MD,USA,24,M,"April 14, 2022",Loyal,Yes,2421.05,66
+272,Rylee,Wright,rylee.wright346@icloud.com,(445) 569-7528,Memphis,TN,USA,26,Male,"July 24, 2021",VIP,No,18785.99,31
+273,Julian,Morgan,noah.jones116@icloud.com,8013663710,Chicago,IL,USA,,Non-binary,2022-09-10,Loyal,Yes,19621.55,64
+274,Jordan,Bell,jordan.bell918@hotmail.com,2452988831,Toronto,ON,Canada,34,Female,23-Jan-2024,Returning,Yes,15838.7,62
+275,Claire,JENKINS,claire.jenkins352@hotmail.com,+1-497-289-2824,Louisville,KY,USA,26,Male,2022-04-27,Loyal,Yes,1547.12,68
+276,Thomas,Campbell,thomas.campbell130@icloud.com,(671) 523-3370,Melbourne,VIC,Australia,37,Non-binary,2022-05-16,Returning,No,14349.3,80
+277,Jayden,Davis,jayden.davis848@aol.com,7579599630,Charlotte,NC,USA,43,Male,15-May-2021,At-Risk,Yes,17527.72,70
+278,Nathan,Miller,nathan.miller469@aol.com,(414) 423-4205,Dallas,TX,USA,28,Male,"February 10, 2021",Loyal,Yes,2933.67,65
+279,Eli,ROSS,eli.ross247@hotmail.com,5340328400,Berlin,BE,Germany,25,Female,N/A,VIP,Yes,14324.55,73
+280,Skylar,White,skylar.white720@hotmail.com,+1-220-603-9788,Dallas,TX,USA,31,Male,2021-09-27,Loyal,Yes,13868.04,40
+281,Daniel,Lopez,daniel.lopez36@gmail.com,+1-731-500-9750,Montreal,QC,Canada,50,Female,01-Oct-2021,New,Yes,3541.68,27
+282,Lily,Scott,lily.scott77@icloud.com,+1-408-272-5413,Louisville,KY,USA,59,Non-binary,15-Aug-2022,Returning,Yes,24811.22,55
+283,Joseph,Thomas,joseph.thomas417@gmail.com,(431) 480-1161,Philadelphia,PA,USA,69,Female,26-Dec-2019,Churned,Yes,13788.56,77
+284,Landon,Roberts,landon.roberts695@icloud.com,000-000-0000,Portland,OR,CANADA,29,Female,"December 19, 2022",Loyal,Yes,23815.41,66
+285,Victoria,Bennett,victoria.bennett417@outlook.com,5192919296,Philadelphia,PA,USA,50,Non-binary,10/18/2022,Returning,NO,22772.16,0
+286,Ella,Powell,ella.powell902@icloud.com,(982) 736-4687,Chicago,IL,USA,25,Male,05/15/2021,VIP,Yes,7251.62,61
+287,Ryan,Phillips,ryan.phillips956@aol.com,4643682282,Chicago,IL,USA,,Female,"December 29, 2023",Returning,Yes,10267.98,62
+288,Julian,Phillips,julian.phillips914@yahoo.com,5208731800,Seattle,WA,USA,20,Female,"March 24, 2019",Loyal,Yes,2969.81,62
+289,Riley,Russell,riley.russell514@aol.com,000-000-0000,Louisville,KY,USA,36,Male,2021-05-29,Returning,Yes,18231.21,23
+290,Ellie,Young,ellie.young486@aol.com,(805) 844-3436,San Antonio,TX,USA,23,Male,2024-03-17,VIP,No,24503.11,28
+291,Connor,Miller,connor.miller288@outlook.com,2910436665,Indianapolis,IN,US,24,Male,26-Apr-2024,Loyal,No,20250.88,75
+292,Jackson,Ward,jackson.ward134@aol.com,5974994992,San Diego,CA,USA,unknown,Female,04/08/2023,At-Risk,Yes,24378.15,46
+293,Benjamin,Murphy,benjamin.murphy516@gmail.com,(262) 910-4116,Seattle,WA,CANADA,42,Female,"December 05, 2019",VIP,Yes,14297.45,75
+294,Grayson,Rogers,grayson.rogers311@yahoo.com,(498) 240-3427,Seattle,WA,U.S.A,,Non-binary,2023-08-14,Churned,No,22099.66,33
+295,Riley,DAVIS,riley.davis365@yahoo.com,+1-904-591-5216,Seattle,WA,USA,35,Female,"May 22, 2022",Returning,Yes,18245.3,55
+296,Emily,Flores,emily.flores194@icloud.com,+1-273-636-5018,Jacksonville,,USA,69,Male,04/04/2021,Returning,Yes,20664.06,82
+297,Joseph,Jackson,joseph.jackson812@gmail.com,8358378787,San Antonio,TX,USA,25,Male,13-Nov-2019,Returning,Yes,12788.56,53
+298,Anthony,Roberts,anthony.roberts232@aol.com,+1-321-569-2389,San Diego,CA,USA,61,Female,06-Nov-2019,At-Risk,Yes,8709.64,13
+299,Scarlett,Sanders,scarlett.sanders883@yahoo.com,(689) 268-2854,San Jose,CA,USA,45,Female,08-Jan-2020,Returning,No,8336.63,83
+300,Andrew,Reed,andrew.reed236@hotmail.com,3010146530,Baltimore,MD,USA,40,Male,2024-05-15,Loyal,Yes,20881.31,70
+301,Sebastian,Davis,sebastian.davis713@aol.com,(308) 878-2208,Los Angeles,CA,USA,70,Female,2019-06-11,Loyal,Yes,18702.68,38
+302,connor,Myers,connor.myers62@aol.com,4155525720,Jacksonville,,USA,43,FEMALE,07/08/2019,Loyal,Yes,15127.09,9
+303,Connor,Evans,connor.evans823@outlook.com,+1-366-754-2744,Fort Worth,TX,USA,30,Male,23-Jan-2019,Returning,Yes,1121.86,61
+304,Emma,Rivera,emma.rivera513@yahoo.com,,Portland,OR,USA,27,f,2021-09-03,Returning,Yes,22110.05,83
+305,Christopher,Peterson,christopher.peterson536@outlook.com,+1-825-821-2228,Dallas,TX,USA,27,Male,2022-07-09,Returning,No,7842.97,37
+306,Mia,Martinez,mia.martinez265@hotmail.com,+1-493-610-7701,Albuquerque,NM,USA,61,Female,22-Sep-2019,At-Risk,No,1066.89,82
+307,Bella,Johnson,bella.johnson385@yahoo.com,(557) 677-8675,Phoenix,AZ,USA,30,Female,"February 22, 2024",Churned,Yes,12157.38,60
+308,Julian,Jackson,julian.jackson33@icloud.com,+1-223-976-7929,Houston,TX,USA,23,Male,2019-12-27,Loyal,Yes,5352.62,33
+309,Anthony,Baker,anthony.baker204@outlook.com,+1-210-774-4253,Toronto,ON,Canada,70,FEMALE,30-Mar-2022,Loyal,Yes,2840.17,52
+310,Mason,Bennett,mason.bennett100@gmail.com,7195892852,Fort Worth,TX,USA,25,Female,03-Feb-2019,Loyal,Yes,8805.28,69
+311,Matthew,Flores,matthew.flores610@yahoo.com,6275052490,Louisville,KY,USA,50,Non-binary,2019-08-01,At-Risk,Yes,5571.98,58
+312,Amelia,Hall,amelia.hall423@aol.com,,,OR,USA,41,Non-binary,N/A,Loyal,Yes,23979.01,55
+313,Connor,Phillips,connor.phillips592@hotmail.com,+1-927-329-9261,Louisville,KY,USA,28,Male,26-May-2023,Returning,YES,15722.35,75
+314,Lucas,Howard,lucas.howard134@hotmail.com,9414456232,Las Vegas,NV,USA,55,Male,2019-06-19,Loyal,Yes,7061.58,23
+315,Jackson,Phillips,jackson.phillips424@gmail.com,2772262755,Phoenix,AZ,USA,65,Male,2020-12-11,VIP,Yes,575.95,65
+316,Sofia,Brown,sofia.brown746@aol.com,(925) 764-5822,Seattle,WA,USA,24,Non-binary,27-May-2020,Loyal,Yes,23844.05,62
+317,Joseph,Green,joseph.green440@yahoo.com,(234) 723-5146,Memphis,TN,USA,29,Male,23-Aug-2019,,Yes,3625.99,40
+318,John,Ramirez,john.ramirez921@yahoo.com,8760056864,Louisville,KY,USA,35,Female,"February 10, 2020",Loyal,Yes,14779.28,30
+319,Claire,Smith,claire.smith862@hotmail.com,9859146831,Manchester,ENG,UK,21,Female,30-Mar-2021,Loyal,No,24178.81,15
+320,Sebastian,Miller,sebastian.miller331@aol.com,000-000-0000,Charlotte,NC,USA,28,Female,"June 03, 2019",Returning,Yes,18825.87,52
+321,Aiden,Howard,aiden.howard288@outlook.com,9127415677,Toronto,ON,Canada,42,Female,05/04/2019,Churned,Yes,19040.06,65
+322,Grayson,James,grayson.james937@yahoo.com,+1-484-633-3690,Memphis,TN,USA,65,Male,"August 20, 2022",Loyal,Yes,11906.01,67
+323,Lucas,Rivera,lucas.rivera515@hotmail.com,3262745715,Houston,TX,USA,25,Female,2021-11-28,New,Yes,1646.18,12
+324,Penelope,Phillips,penelope.phillips844@aol.com,+1-296-389-9245,Columbus,OH,USA,61,Male,09/03/2021,Churned,Yes,24056.08,85
+325,Scarlett,Martinez,scarlett.martinez10@icloud.com,(312) 246-1284,Toronto,ON,Canada,39,,07-May-2023,Churned,Yes,16585.21,32
+326,Jeremiah,Nelson,jeremiah.nelson878@icloud.com,+1-231-450-8056,Seattle,WA,USA,35,Non-binary,"July 02, 2019",Loyal,Yes,4373.81,44
+327,Grace,Flores,grace.flores719@outlook.com,(555) 495-2805,San Diego,CA,USA,36,Male,12/07/2021,,Yes,7075.43,75
+328,Lily,REYES,lily.reyes142@outlook.com,(288) 930-5434,Montreal,QC,Canada,33,Female,"August 18, 2020",Returning,Yes,14925.97,22
+329,Nathan,Moore,nathan.moore139@hotmail.com,+1-647-298-3270,Nashville,TN,USA,45,Female,03-Oct-2020,Returning,Yes,660.55,53
+330,Ella,Ward,ella.ward557@icloud.com,+1-255-286-1896,Houston,TX,USA,54,Female,2019-08-08,New,Yes,16860.32,6
+331,Aurora,Moore,aurora.moore873@yahoo.com,(838) 904-4288,Nashville,TN,USA,46,M,2020-02-23,At-Risk,Yes,20506.77,69
+332,Caleb,Wood,caleb.wood23@yahoo.com,7538141420,Indianapolis,IN,USA,70,Female,2021-03-12,At-Risk,Yes,9735.73,74
+333,anna,Edwards,anna.edwards986@yahoo.com,4255096841,Tucson,AZ,USA,72,Female,05-Sep-2022,At-Risk,Yes,22904.0,82
+334,Emily,Howard,emily.howard675@icloud.com,(613) 269-1736,Oklahoma City,OK,USA,32,Female,"October 19, 2021",Loyal,No,18895.35,53
+335,noah,Sullivan,noah.sullivan622@aol.com,+1-702-648-5687,Jacksonville,FL,USA,19,Male,11/28/2019,Loyal,Yes,19359.64,72
+336,Madelyn,Morales,madelyn.morales853@yahoo.com,+1-585-272-2280,Toronto,ON,Canada,56,Non-binary,"September 02, 2020",VIP,Yes,23056.83,32
+337,daniel,Torres,daniel.torres874@icloud.com,6230259033,Montreal,QC,Canada,53,Male,2020-02-15,New,Yes,20141.55,72
+338,Noah,Hall,noah.hall613@aol.com,2152901187,Philadelphia,PA,USA,N/A,Male,05/20/2023,VIP,No,17048.53,2
+339,Ellie,Taylor,ellie.taylor142@gmail.com,+1-802-210-4721,Munich,BY,Germany,33,F,2022-03-09,Loyal,Yes,7853.15,77
+340,Lucy,Phillips,lucy.phillips79@gmail.com,(425) 654-5959,Manchester,ENG,UK,50,FEMALE,14-Dec-2021,Loyal,Yes,5088.87,17
+341,Lincoln,Clark,lincoln.clark807@yahoo.com,(316) 221-9174,Indianapolis,IN,USA,42,Female,"May 03, 2019",VIP,Yes,16498.14,68
+342,Jack,Brown,jack.brown345@outlook.com,+1-953-970-1935,Melbourne,,Australia,52,Female,05-Mar-2021,Loyal,Yes,4063.72,48
+343,Emma,Scott,emma.scott88@yahoo.com,+1-990-822-1202,Denver,CO,USA,46,M,15-Sep-2022,Loyal,Yes,12005.2,71
+344,Grace,Wood,grace.wood452@yahoo.com,2999320584,Seattle,WA,USA,63,Male,04/02/2022,New,Yes,13511.03,5
+345,Isaac,Anderson,isaac.anderson334@icloud.com,7733720281,Baltimore,MD,USA,unknown,m,27-Jun-2022,VIP,Yes,17894.2,65
+346,jayden,Ward,jayden.ward391@aol.com,+1-751-950-2986,Phoenix,AZ,USA,51,Female,"June 23, 2023",VIP,Yes,22776.74,42
+347,Grayson,Green,grayson.green247@hotmail.com,(570) 869-8932,Baltimore,MD,USA,60,Female,"March 10, 2024",At-Risk,Yes,2037.65,53
+348,Thomas,Sanchez,thomas.sanchez16@yahoo.com,(303) 329-1558,San Francisco,CA,USA,40,Female,"November 20, 2021",VIP,Yes,2975.74,43
+349,Ava,Martinez,ava.martinez460@hotmail.com,2359873139,Milwaukee,WI,USA,55,Male,02/15/2021,Returning,No,8527.93,72
+350,Anthony,Torres,anthony.torres183@yahoo.com,(521) 301-6690,Columbus,OH,USA,66,,19-Dec-2023,At-Risk,Yes,13804.09,65
+351,Brooklyn,REED,brooklyn.reed853@gmail.com,7561731716,Denver,CO,USA,64,Male,10/07/2021,Returning,Yes,18184.04,41
+352,Hunter,MORGAN,hunter.morgan705@outlook.com,(525) 394-1583,Chicago,IL,USA,70,Female,"October 11, 2022",,No,21896.6,66
+353,Benjamin,Rivera,benjamin.rivera183@gmail.com,+1-384-507-4799,San Francisco,CA,USA,52,Female,"September 20, 2021",VIP,Yes,10489.85,57
+354,Hazel,Green,hazel.green408@aol.com,3249535867,Toronto,ON,Canada,46,Female,"June 19, 2020",New,No,5473.7,81
+355,Claire,Perez,claire.perez113@icloud.com,+1-985-984-2039,Dallas,,USA,71,Non-binary,03/07/2020,VIP,Yes,22766.34,42
+356,Emma,Jones,emma.jones540@gmail.com,(990) 904-5051,Vancouver,BC,uk,22,Male,03-Aug-2023,Returning,0,20756.29,77
+357,Dylan,Harris,dylan.harris804@outlook.com,+1-639-295-4641,Los Angeles,CA,USA,49,Female,07/24/2020,VIP,No,5601.52,3
+358,Ryan,Wilson,ryan.wilson830@aol.com,+1-831-684-9575,San Antonio,TX,USA,37,Male,"April 07, 2023",New,Yes,14968.25,0
+359,Levi,Bailey,levi.bailey242@outlook.com,+1-584-330-1223,Toronto,ON,Canada,25,,"September 06, 2019",Loyal,Yes,12179.83,70
+360,Chloe,Ross,chloe.ross536@outlook.com,8525686495,Memphis,TN,USA,63,FEMALE,03/13/2024,Loyal,Yes,24832.76,0
+361,Andrew,FLORES,andrew.flores480@icloud.com,7515543639,Las Vegas,NV,USA,27,Male,03/28/2024,At-Risk,Yes,2558.05,66
+362,Thomas,Cox,thomas.cox755@icloud.com,(421) 293-3400,Toronto,,Canada,48,Male,"October 08, 2019",Returning,No,9432.74,49
+363,wyatt,Cooper,wyatt.cooper220@yahoo.com,4943631361,Seattle,WA,USA,31,Non-binary,18-Oct-2023,VIP,Yes,23329.81,1
+364,Skylar,Flores,skylar.flores938@outlook.com,(690) 607-1719,New York,NY,USA,,,"November 03, 2023",Loyal,No,18764.66,13
+365,Evelyn,Foster,evelyn.foster135@gmail.com,+1-828-955-1273,San Diego,CA,USA,55,Male,10/04/2023,Returning,No,16741.03,8
+366,Joseph,HERNANDEZ,joseph.hernandez624@yahoo.com,+1-320-549-8639,Baltimore,MD,USA,23,Female,"June 26, 2019",Loyal,No,24144.14,21
+367,Lucas,Ross,lucas.ross698@aol.com,(588) 922-5703,Fort Worth,TX,USA,34,Female,07/12/2020,Loyal,Yes,8721.48,82
+368,Abigail,Jones,abigail.jones160@icloud.com,(412) 550-9253,Milwaukee,WI,USA,N/A,Non-binary,12-Jun-2020,Loyal,No,14670.52,47
+369,Riley,Long,riley.long923@gmail.com,+1-390-970-1356,Toronto,ON,Canada,48,Female,"July 23, 2021",Churned,No,16963.9,38
+370,Christopher,Wilson,christopher.wilson977@icloud.com,7147355709,Los Angeles,CA,USA,67,Female,2023-06-03,Loyal,No,21.08,18
+371,Emily,Walker,emily.walker742@yahoo.com,+1-603-915-4481,Birmingham,ENG,UK,24,Female,02/09/2021,Loyal,Yes,22450.53,54
+372,Aaliyah,POWELL,aaliyah.powell907@icloud.com,(825) 813-7523,Indianapolis,IN,USA,59,Female,2020-03-08,At-Risk,No,20531.88,4
+373,Dylan,Price,dylan.price826@gmail.com,,San Antonio,TX,USA,65,Male,15-May-2021,Loyal,No,17800.59,68
+374,Anthony,Reed,sophia.martinez457@gmail.com,(665) 645-1795,Melbourne,VIC,Australia,,Male,27-Dec-2023,New,Yes,7330.99,53
+375,Cameron,ANDERSON,cameron.anderson757@hotmail.com,+1-669-905-4999,Philadelphia,PA,USA,,m,"August 08, 2023",Returning,No,1969.12,81
+376,Eliana,Allen,eliana.allen82@hotmail.com,+1-684-420-8158,Fort Worth,TX,USA,29,Male,2023-05-13,Returning,No,16430.32,35
+377,Wyatt,GONZALEZ,wyatt.gonzalez333@yahoo.com,4325544077,Denver,CO,USA,65,Female,12/10/2020,Loyal,Yes,10073.46,84
+378,Bella,Hall,bella.hall543@outlook.com,4426194535,Oklahoma City,OK,USA,52,Female,02/13/2022,Returning,Yes,5282.63,14
+379,Alice,Powell,alice.powell361@yahoo.com,8452349434,Berlin,BE,Germany,29,Female,"March 30, 2023",VIP,No,16404.77,12
+380,Gabriel,Harris,gabriel.harris142@icloud.com,(532) 824-5095,Philadelphia,PA,USA,30,Female,"March 02, 2023",VIP,No,23034.64,41
+381,Claire,Morris,claire.morris455@yahoo.com,8280153705,Tucson,AZ,USA,22,Female,"November 11, 2023",VIP,Yes,16177.23,68
+382,Isabella,Nguyen,isabella.nguyen743@gmail.com,9550296615,Montreal,QC,Canada,68,Female,04/25/2021,Returning,No,1851.74,62
+383,Nicholas,Edwards,nicholas.edwards265@icloud.com,5065761112,Chicago,IL,USA,69,Female,31-Aug-2021,At-Risk,Yes,15919.06,3
+384,Emma,King,emma.king892@icloud.com,4247717111,Munich,BY,Germany,N/A,Male,"December 26, 2019",VIP,Yes,15216.03,15
+385,Caroline,Johnson,caroline.johnson802@icloud.com,(537) 719-2100,Fort Worth,TX,USA,69,Female,07/03/2021,VIP,No,11401.65,5
+386,Eliana,Harris,eliana.harris928@yahoo.com,(688) 675-2610,Houston,TX,USA,55,Female,06/24/2021,At-Risk,Yes,10743.89,14
+387,Skylar,Bennett,skylar.bennett1@outlook.com,+1-744-454-6589,Berlin,BE,Germany,66,Female,"October 27, 2021",Churned,Yes,11762.66,20
+388,Henry,Edwards,henry.edwards843@yahoo.com,(527) 984-9690,San Antonio,TX,USA,72,Female,"October 25, 2020",Loyal,Yes,24528.86,83
+389,Avery,King,avery.king311@outlook.com,,El Paso,TX,USA,,f,12/25/2020,VIP,No,6398.23,47
+390,Bella,Gomez,bella.gomez633@icloud.com,+1-999-875-7390,Seattle,WA,USA,21,Male,"September 24, 2021",Churned,Yes,2775.77,17
+391,Madelyn,Turner,madelyn.turner604@outlook.com,(981) 876-5271,Birmingham,ENG,UK,41,Female,19-Nov-2023,VIP,No,5692.06,46
+392,David,RICHARDSON,david.richardson123@aol.com,6364551216,Portland,OR,USA,58,Male,07-Jun-2023,Loyal,Yes,19514.71,68
+393,Claire,Morris,claire.morris770@gmail.com,+1-863-789-6567,Milwaukee,WI,USA,43,Non-binary,"February 23, 2023",Loyal,Yes,213.45,41
+394,Jordan,Jenkins,jordan.jenkins682@yahoo.com,+1-411-515-3975,Sydney,NSW,Australia,52,Male,2022-05-17,Churned,Yes,16454.18,25
+395,Sofia,Jenkins,sofia.jenkins921@hotmail.com,+1-608-403-4369,,KY,USA,55,Non-binary,07/27/2023,VIP,No,18516.05,45
+396,Mia,Rogers,aaliyah.taylor17@yahoo.com,4800326574,Baltimore,MD,USA,38,Male,29-Nov-2023,VIP,Yes,3198.71,19
+397,Cameron,Clark,cameron.clark381@icloud.com,7862922452,Austin,TX,USA,19,Male,06-Apr-2021,Loyal,Yes,22839.42,5
+398,Abigail,Lee,abigail.lee229@gmail.com,9975392090,Phoenix,AZ,USA,60,Male,20-Sep-2019,Loyal,Yes,12868.35,18
+399,Penelope,Torres,penelope.torres232@outlook.com,(732) 729-5370,Nashville,TN,USA,69,Female,2022-04-01,VIP,Yes,3573.86,4
+400,Emma,Howard,emma.howard193@aol.com,6800996593,Sydney,NSW,Australia,49,Non-binary,02-Jan-2024,Returning,Yes,19081.73,33
+401,Brooklyn,Taylor,brooklyn.taylor850@gmail.com,(766) 284-9269,Denver,CO,USA,40,Non-binary,N/A,Loyal,Yes,13126.13,68
+402,Audrey,Perez,audrey.perez170@aol.com,+1-485-250-7567,Munich,BY,Germany,64,male,"May 12, 2021",VIP,Yes,23076.3,78
+403,Harper,Jackson,harper.jackson996@yahoo.com,(558) 272-4707,Austin,TX,USA,N/A,Non-binary,08-Oct-2022,Returning,Yes,11777.73,84
+404,Adrian,Flores,adrian.flores773@aol.com,(461) 315-8643,Seattle,WA,USA,72,Female,06-Dec-2021,Returning,No,2629.75,35
+405,Caroline,Morgan,caroline.morgan258@outlook.com,+1-306-999-8993,San Antonio,TX,USA,N/A,Non-binary,"February 08, 2021",Returning,Yes,24168.24,30
+406,Layla,PHILLIPS,layla.phillips663@hotmail.com,000-000-0000,Sydney,NSW,Australia,64,Female,"July 22, 2019",At-Risk,No,8601.24,31
+407,Ellie,Bennett,ellie.bennett215@icloud.com,(999) 376-9189,Birmingham,ENG,UK,23,Female,2020-10-10,Loyal,No,5053.73,62
+408,Landon,Lee,landon.lee115@yahoo.com,+1-277-403-2529,Montreal,QC,Canada,27,Male,"February 17, 2024",Returning,No,2590.65,37
+409,Sebastian,Edwards,sebastian.edwards159@aol.com,(451) 431-8214,Los Angeles,CA,USA,53,Non-binary,"October 23, 2023",Loyal,Yes,9990.42,73
+410,Jeremiah,Campbell,jeremiah.campbell380@outlook.com,+1-792-331-2583,Indianapolis,IN,USA,70,Non-binary,21-Dec-2022,Churned,No,24412.33,28
+411,Anna,Edwards,aubrey.cox795@yahoo.com,+1-266-936-5523,Birmingham,ENG,UK,66,Female,"February 26, 2019",VIP,Yes,13459.89,38
+412,Gabriel,Jackson,gabriel.jackson601@outlook.com,+1-947-365-4188,Munich,BY,Germany,19,Female,05/04/2023,Churned,No,14350.07,49
+413,Aria,White,aria.white725@hotmail.com,+1-969-296-9583,Vancouver,BC,Canada,24,m,2019-05-05,New,n,7656.6,72
+414,Michael,Bennett,michael.bennett224@outlook.com,(923) 990-3908,San Jose,CA,USA,61,Female,12-Jul-2023,Loyal,No,4828.99,19
+415,Caleb,Bell,caleb.bell967@gmail.com,(702) 392-7623,Phoenix,AZ,USA,59,Female,"September 20, 2022",Loyal,Yes,7323.98,80
+416,Olivia,Rivera,olivia.rivera625@hotmail.com,7614036903,Denver,CO,USA,,Female,2023-02-22,VIP,No,21842.63,65
+417,Ellie,Garcia,ellie.garcia973@yahoo.com,(855) 827-1255,Oklahoma City,OK,USA,42,Female,27-Jan-2024,Returning,Yes,14968.79,79
+418,Claire,Foster,claire.foster210@aol.com,9802772897,Seattle,,USA,62,M,"March 27, 2019",Returning,No,1662.51,68
+419,Hannah,Sanders,hannah.sanders550@outlook.com,(406) 288-9158,Sydney,NSW,Australia,66,Male,"April 13, 2020",Loyal,No,3568.97,76
+420,Michael,Jenkins,michael.jenkins583@gmail.com,(673) 405-1924,El Paso,TX,USA,,Male,"July 08, 2022",Loyal,Yes,4027.45,70
+421,Gabriel,Peterson,gabriel.peterson174@aol.com,+1-596-987-2960,,TN,USA,,Non-binary,2019-03-14,At-Risk,No,11241.78,30
+422,Caroline,Flores,caroline.flores466@icloud.com,7875850669,Charlotte,NC,USA,26,Male,04/20/2021,Returning,No,11514.54,57
+423,Riley,Cruz,riley.cruz211@yahoo.com,(833) 572-8591,Fort Worth,TX,USA,46,Male,2021-03-15,Loyal,Yes,5429.45,70
+424,Nora,WHITE,nora.white212@hotmail.com,(359) 856-7584,Jacksonville,FL,USA,66,Non-binary,"November 13, 2023",New,Yes,2143.75,1
+425,Mia,Green,mia.green762@yahoo.com,+1-379-496-5968,Nashville,TN,USA,25,Non-binary,11/24/2019,Returning,Yes,15717.06,35
+426,Caleb,Jackson,caleb.jackson41@yahoo.com,(571) 651-3979,Toronto,ON,uk,37,Female,12/21/2023,Returning,No,4928.3,81
+427,Lucas,Rivera,lucas.rivera17@icloud.com,+1-526-370-1852,Baltimore,MD,USA,,Female,"September 19, 2020",Churned,Yes,21801.0,79
+428,Elizabeth,NGUYEN,elizabeth.nguyen689@outlook.com,6863363816,El Paso,TX,USA,23,Male,"July 30, 2020",Returning,NO,20155.67,13
+429,Claire,Walker,luke.nguyen544@hotmail.com,,El Paso,TX,USA,63,f,2020-02-13,VIP,No,1985.3,41
+430,Jeremiah,Cook,jeremiah.cook295@aol.com,(402) 469-3357,Houston,TX,USA,32,Female,21-Jan-2020,Loyal,No,12666.36,36
+431,aiden,Cooper,aiden.cooper700@outlook.com,N/A,Austin,TX,USA,56,Male,14-Oct-2020,Churned,No,20274.13,47
+432,Eliana,Harris,eliana.harris708@outlook.com,(612) 674-8608,Tucson,AZ,USA,58,Female,24-Nov-2023,New,No,22634.06,19
+433,Dylan,Nguyen,dylan.nguyen23@hotmail.com,(394) 698-9177,Nashville,TN,USA,27,Female,"May 18, 2019",Loyal,No,12262.67,39
+434,Anna,Parker,anna.parker543@outlook.com,+1-627-452-4431,Memphis,TN,USA,48,Male,23-Apr-2020,Loyal,No,4859.44,16
+435,Avery,Foster,avery.foster840@yahoo.com,+1-283-741-9043,Toronto,ON,Canada,68,Male,"June 28, 2020",Churned,Yes,11843.67,28
+436,Violet,Gomez,violet.gomez328@hotmail.com,+1-262-953-4193,Berlin,BE,Germany,70,Male,"August 01, 2020",VIP,Yes,720.53,82
+437,Ethan,Stewart,ethan.stewart609@hotmail.com,6994622163,San Antonio,TX,USA,64,Female,02/05/2022,Returning,No,4449.96,78
+438,Ryan,Russell,ryan.russell58@aol.com,3009375725,Dallas,TX,USA,21,Non-binary,"December 04, 2020",Returning,Yes,20571.15,26
+439,Scarlett,Robinson,scarlett.robinson572@gmail.com,000-000-0000,Charlotte,NC,USA,20,Female,"October 05, 2021",VIP,No,178.81,10
+440,Abigail,Phillips,abigail.phillips938@aol.com,3436605335,Denver,CO,USA,25,Male,"July 13, 2021",Returning,Yes,5003.57,72
+441,Sofia,Cox,sofia.cox56@aol.com,+1-385-541-4380,Sydney,NSW,Australia,56,Female,"March 06, 2021",Loyal,Yes,19875.08,85
+442,James,Brown,james.brown970@outlook.com,7219710850,Nashville,TN,USA,37,Female,2022-08-31,VIP,No,18606.51,3
+443,Alexander,Lopez,alexander.lopez908@icloud.com,,Seattle,WA,USA,18,Non-binary,"June 04, 2021",Returning,Yes,17747.54,61
+444,Michael,Walker,michael.walker666@gmail.com,3230581614,Milwaukee,WI,USA,52,Female,20-Jan-2022,Churned,Yes,10044.48,59
+445,Jordan,Russell,jordan.russell418@outlook.com,8231004315,Philadelphia,PA,USA,52,Female,11/03/2021,Loyal,Yes,20617.14,50
+446,christopher,Bailey,christopher.bailey5@outlook.com,9438259293,Austin,TX,USA,24,Female,"March 24, 2020",Loyal,No,22380.86,24
+447,Charlotte,COOK,charlotte.cook973@outlook.com,+1-323-412-4042,Portland,OR,USA,45,Male,"May 27, 2019",New,Yes,8579.24,47
+448,Violet,BENNETT,violet.bennett504@gmail.com,+1-632-905-6751,,NV,USA,,Male,"October 01, 2021",VIP,Yes,18106.97,80
+449,Aiden,RICHARDSON,aiden.richardson318@icloud.com,+1-714-385-8588,Albuquerque,NM,U.S.A,25,Non-binary,2021-03-05,Loyal,Yes,995.41,76
+450,Sophia,Sanchez,sophia.sanchez397@aol.com,(548) 899-9083,Jacksonville,FL,USA,41,m,2019-09-28,Churned,Yes,10465.61,4
+451,Benjamin,Lopez,benjamin.lopez367@hotmail.com,4854611162,Indianapolis,IN,USA,25,F,09/05/2021,,No,17536.85,1
+452,Audrey,Cruz,audrey.cruz311@yahoo.com,(686) 689-8843,Indianapolis,IN,USA,22,Female,10/27/2019,Returning,Yes,15673.52,52
+453,scarlett,Turner,scarlett.turner892@outlook.com,+1-330-690-9348,Los Angeles,CA,USA,51,Male,11/21/2023,Returning,Yes,10432.91,71
+454,Connor,Garcia,connor.garcia476@aol.com,(515) 681-9379,El Paso,TX,USA,57,Male,17-Nov-2022,At-Risk,Yes,14860.85,29
+455,Ryan,Harris,ryan.harris846@outlook.com,9740580852,Baltimore,MD,USA,47,Non-binary,30-Dec-2022,Returning,Yes,15964.88,26
+456,Connor,Cook,connor.cook735@outlook.com,9787267586,Tucson,AZ,USA,44,Female,15-Mar-2024,Returning,No,14881.79,60
+457,Amelia,Campbell,amelia.campbell43@gmail.com,000-000-0000,Birmingham,ENG,UK,32,Female,02-Jul-2022,Loyal,Yes,8838.79,30
+458,Sebastian,Perez,sebastian.perez209@icloud.com,(476) 697-3040,Austin,TX,USA,18,Female,01/01/2024,Returning,Yes,21239.74,57
+459,Taylor,Edwards,taylor.edwards394@icloud.com,3470118935,Los Angeles,CA,USA,56,Female,05/27/2022,Returning,Yes,8831.64,35
+460,Cameron,Nguyen,cameron.nguyen577@yahoo.com,(553) 568-7241,Phoenix,AZ,USA,34,Female,06/14/2021,VIP,No,12929.24,67
+461,Luke,Miller,luke.miller938@yahoo.com,6903280838,Birmingham,ENG,UK,57,Male,12/08/2019,Loyal,No,23550.4,21
+462,taylor,Martinez,taylor.martinez837@yahoo.com,(746) 391-5024,Tucson,AZ,USA,28,Male,2021-10-22,Loyal,Yes,20857.0,73
+463,Jeremiah,Anderson,jeremiah.anderson621@gmail.com,+1-943-613-9602,Louisville,KY,USA,51,Female,"April 15, 2024",Loyal,Yes,5172.33,76
+464,Gabriel,Carter,gabriel.carter323@hotmail.com,(660) 804-3291,Los Angeles,CA,USA,63,Female,"January 25, 2024",VIP,No,23990.46,31
+465,chloe,Mitchell,chloe.mitchell396@aol.com,(688) 241-8855,Phoenix,AZ,USA,53,m,01/23/2019,VIP,Yes,603.5,51
+466,Riley,Torres,riley.torres600@gmail.com,6583972111,Vancouver,BC,Canada,,Female,07-Feb-2023,Returning,Yes,1047.29,38
+467,Michael,Torres,michael.torres438@icloud.com,5380191457,,OH,USA,39,Non-binary,"August 22, 2019",Churned,Yes,14426.09,70
+468,Aaliyah,Adams,aaliyah.adams856@aol.com,3169040850,Seattle,WA,USA,34,Male,16-Apr-2019,VIP,Yes,22018.65,31
+469,Brooklyn,Rogers,brooklyn.rogers430@icloud.com,(878) 267-6143,Philadelphia,PA,USA,49,Female,2020-11-14,Returning,No,10752.64,30
+470,Daniel,Diaz,daniel.diaz85@gmail.com,000-000-0000,New York,NY,USA,23,Male,24-Sep-2023,At-Risk,Yes,24907.89,10
+471,Michael,Perez,michael.perez503@gmail.com,+1-466-361-9435,Denver,CO,USA,39,Female,2020-04-03,Loyal,Yes,7659.97,83
+472,Aiden,Flores,aiden.flores473@yahoo.com,+1-275-489-6451,Chicago,IL,USA,,Non-binary,"May 04, 2020",At-Risk,Yes,22389.74,83
+473,benjamin,Miller,benjamin.miller259@hotmail.com,+1-963-924-7919,Vancouver,BC,Canada,28,Male,2023-11-13,Loyal,Yes,3704.19,17
+474,Elizabeth,ROSS,elizabeth.ross10@aol.com,2906503386,El Paso,TX,USA,64,Male,12/27/2023,Loyal,Yes,24919.75,58
+475,Eli,Rodriguez,eli.rodriguez952@hotmail.com,+1-867-239-4759,Berlin,BE,Germany,20,Female,2020-06-04,Loyal,Yes,10750.27,9
+476,brooklyn,Torres,brooklyn.torres751@aol.com,+1-440-598-6383,Berlin,BE,Germany,39,Female,N/A,New,No,18275.41,21
+477,Anthony,Clark,anthony.clark784@outlook.com,(359) 324-1054,Manchester,ENG,UK,71,Non-binary,2023-04-16,Returning,Yes,6957.51,10
+478,Michael,Bailey,michael.bailey933@icloud.com,,Philadelphia,PA,USA,67,Female,2023-06-12,VIP,No,19336.58,8
+479,Alice,Cook,alice.cook330@aol.com,4786217555,,IL,USA,53,Male,2019-06-24,Loyal,Yes,18147.59,43
+480,Caroline,Green,caroline.green436@outlook.com,(340) 912-5231,San Antonio,TX,USA,37,male,"December 23, 2021",Churned,Yes,21737.62,67
+481,Henry,King,henry.king127@yahoo.com,+1-929-762-9946,Melbourne,VIC,Australia,20,Male,"September 09, 2022",Returning,Yes,6726.2,6
+482,James,WILSON,james.wilson829@outlook.com,(453) 283-6473,San Antonio,TX,USA,70,Non-binary,08/21/2021,Returning,1,21876.82,73
+483,lincoln,Walker,lincoln.walker683@hotmail.com,+1-831-327-7884,London,ENG,UK,55,Female,N/A,Loyal,No,14505.1,85
+484,ella,SULLIVAN,ella.sullivan405@yahoo.com,+1-549-411-8324,Seattle,WA,USA,44,Female,20-Aug-2022,At-Risk,Yes,21443.91,18
+485,Caleb,Young,caleb.young448@gmail.com,(261) 966-8516,Milwaukee,WI,USA,48,FEMALE,"August 03, 2020",Churned,Yes,11233.58,35
+486,Violet,Lewis,violet.lewis800@yahoo.com,+1-734-460-2619,Louisville,KY,USA,N/A,Female,"November 23, 2021",At-Risk,No,23284.29,78
+487,Eli,COOK,eli.cook982@gmail.com,+1-635-457-5455,Birmingham,ENG,UK,48,Non-binary,03-Apr-2021,VIP,Yes,8922.02,30
+488,Bella,Williams,bella.williams918@yahoo.com,(274) 305-9987,Chicago,IL,USA,35,Non-binary,"March 16, 2019",VIP,Yes,15294.35,11
+489,Eli,Ortiz,eli.ortiz284@icloud.com,000-000-0000,New York,NY,USA,28,Male,"March 29, 2024",Loyal,y,4813.62,20
+490,Jackson,Sanchez,jackson.sanchez678@hotmail.com,(575) 842-5908,,TX,USA,52,Female,08/28/2021,Returning,Yes,5294.63,19
+491,Abigail,Wright,abigail.wright906@aol.com,9131864578,Melbourne,VIC,Australia,69,Male,07/25/2020,At-Risk,Yes,11621.71,11
+492,William,Robinson,william.robinson878@gmail.com,+1-437-329-4940,Portland,OR,USA,53,Male,2023-10-24,VIP,Yes,8301.9,17
+493,Jackson,Moore,jackson.moore652@gmail.com,N/A,Munich,BY,Germany,64,Male,2023-05-17,Loyal,No,14646.01,10
+494,Isaac,REED,isaac.reed646@aol.com,+1-970-499-5273,Los Angeles,CA,USA,51,Male,"July 23, 2023",At-Risk,Yes,7852.84,60
+495,cameron,Miller,cameron.miller252@hotmail.com,+1-441-622-3445,El Paso,TX,USA,41,Male,11-Apr-2020,Loyal,Yes,13813.58,5
+496,Gabriel,Richardson,gabriel.richardson633@outlook.com,2277087771,Los Angeles,CA,USA,64,Male,2023-09-06,Loyal,No,12461.18,31
+497,audrey,Gray,audrey.gray159@aol.com,+1-362-221-4976,Portland,OR,USA,37,Male,"September 25, 2019",New,Yes,23636.32,80
+498,Landon,NGUYEN,landon.nguyen413@yahoo.com,+1-515-621-5584,Memphis,TN,USA,64,Male,2022-03-25,VIP,Yes,4461.37,35
+499,Ellie,Davis,ellie.davis297@aol.com,(983) 563-4183,Denver,CO,USA,23,Male,03/19/2021,Loyal,No,21964.91,15
+500,Skylar,Lopez,skylar.lopez222@yahoo.com,6106893220,Oklahoma City,OK,USA,64,Non-binary,"March 08, 2021",New,Yes,20508.72,3

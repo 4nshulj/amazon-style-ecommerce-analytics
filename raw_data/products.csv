@@ -1,0 +1,56 @@
+product_id,product_name,category_id,seller_id,price,cost_price,stock_qty,discount_pct,asin,status,weight_kg,rating,description
+1,Apple iPhone 15 Pro Max 256GB,2,1,1199,820,350,3,ASIN-B0CHX1W1XY,Active,0.22,4.8,iPhone 15 Pro Max features titanium design and A17 Pro chip
+2,Samsung Galaxy S24 Ultra 512GB,2,6,1299,890,280,5,ASIN-B0CNTPYWFY,Active,0.23,4.7,Galaxy S24 Ultra with S Pen and 200MP camera
+3,Google Pixel 8 Pro 128GB,2,12,999,680,190,8,ASIN-B0CGP4YN5Q,Active,0.21,4.6,Pixel 8 Pro with Google AI and best-in-class camera
+4,OnePlus 12 256GB,2,6,799,520,220,10,ASIN-B0CQWXZRST,Active,0.2,4.5,OnePlus 12 flagship with Snapdragon 8 Gen 3
+5,Apple iPad Pro 12.9 M2,2,1,1099,750,150,2,ASIN-B0BJLF2BRM,Active,0.68,4.8,iPad Pro with M2 chip and Liquid Retina XDR display
+6,Apple MacBook Pro 14 M3 Pro,3,1,1999,1380,120,0,ASIN-B0CM5JV2RY,Active,1.61,4.9,MacBook Pro M3 Pro with 18GB RAM and 512GB SSD
+7,Dell XPS 15 Intel i9,3,12,1799,1240,95,5,ASIN-B0B3XMPK1R,Active,1.86,4.6,Dell XPS 15 OLED display with RTX 4070
+8,HP Spectre x360 14,3,12,1349,920,110,7,ASIN-B0BW72YGX7,Active,1.36,4.5,HP Spectre x360 2-in-1 convertible laptop
+9,Lenovo ThinkPad X1 Carbon Gen 11,3,12,1449,980,80,4,ASIN-B0C2Z7KPXQ,Active,1.12,4.7,ThinkPad X1 Carbon ultralight business laptop
+10,ASUS ROG Zephyrus G14,3,6,1249,840,140,6,ASIN-B0BZWNF81Y,Active,1.65,4.6,ROG Zephyrus gaming laptop with RTX 4060
+11,Sony WH-1000XM5 Wireless,4,6,349,195,400,12,ASIN-B09XS7JWHH,Active,0.25,4.8,Industry-leading noise cancelling headphones
+12,Apple AirPods Pro 2nd Gen,4,1,249,145,600,8,ASIN-B0BDHWDR12,Active,0.06,4.7,AirPods Pro with H2 chip and Adaptive Audio
+13,Bose QuietComfort 45,4,6,329,188,310,15,ASIN-B098FKXT8L,Active,0.24,4.6,Bose QC45 wireless noise cancelling headphones
+14,JBL Charge 5 Bluetooth Speaker,4,6,179,95,520,5,ASIN-B08XNNVJ3K,Active,0.96,4.7,JBL Charge 5 portable waterproof speaker
+15,Sonos Era 300 Speaker,4,6,449,290,180,0,ASIN-B0BW8YNWMV,Active,2.72,4.5,Sonos Era 300 spatial audio speaker
+16,Sony A7 IV Mirrorless Camera,5,6,2499,1720,75,0,ASIN-B09JZT6YK2,Active,0.66,4.9,Sony Alpha 7 IV full-frame mirrorless camera
+17,Canon EOS R6 Mark II,5,6,2499,1710,68,0,ASIN-B0BG2HNLXQ,Active,0.68,4.8,Canon EOS R6 Mark II 40fps mirrorless camera
+18,GoPro HERO12 Black,5,5,399,238,290,10,ASIN-B0CDP3XSMR,Active,0.15,4.6,GoPro HERO12 Black 5.3K action camera
+20,Ralph Lauren Polo Shirt,7,7,98,42,650,15,ASIN-B00ILMRQNS,Active,0.3,4.5,Ralph Lauren Classic Fit Polo Shirt
+21,Nike Dri-FIT Training Shirt,7,5,35,14,1200,10,ASIN-B07DHKYK5C,Active,0.25,4.3,Nike Dri-FIT short sleeve training top
+22,Tommy Hilfiger Chino Pants,7,2,79,34,580,18,ASIN-B07T3D6MBV,Active,0.55,4.2,Tommy Hilfiger slim fit chino pants
+23,"Lululemon Align Leggings 25""",8,2,128,56,750,5,ASIN-B07XGSKVX7,Active,0.2,4.8,Lululemon Align High-Rise Pants buttery soft
+24,Zara Floral Midi Dress,8,2,49.99,18,680,25,ASIN-B0BXMZR4TD,Active,0.45,4.3,Zara floral print midi wrap dress
+25,Free People Boho Blouse,8,2,78,32,420,12,ASIN-B08M7BKRTZ,Active,0.28,4.4,Free People flowy boho blouse in white
+26,Calvin Klein Sports Bra,8,2,45,18,900,8,ASIN-B08F7D3PCQ,Active,0.15,4.5,Calvin Klein performance medium-support bra
+28,Adidas Ultraboost 23,9,5,190,98,360,8,ASIN-B0BN6DY1V9,Active,0.79,4.8,Adidas Ultraboost 23 running shoes
+29,Birkenstock Arizona Sandals,9,2,99.99,48,520,5,ASIN-B000W27Y2S,Active,0.75,4.6,Birkenstock Arizona EVA sandals unisex
+30,UGG Classic Short Boot,9,7,160,78,290,15,ASIN-B0776FYWML,Active,0.98,4.5,UGG Classic Short sheepskin boot
+31,Apple Watch Series 9 45mm,10,1,429,268,320,3,ASIN-B0CHX8WQCC,Active,0.39,4.8,Apple Watch Series 9 GPS + Cellular
+32,Fossil Gen 6 Smartwatch,10,7,199,105,240,20,ASIN-B09B2R3YBM,Active,0.32,4.3,Fossil Gen 6 Hybrid HR smartwatch
+33,Seiko 5 Automatic Watch,10,7,249,130,180,0,ASIN-B0752WQRJK,Active,0.18,4.7,Seiko 5 Sports automatic watch
+34,Instant Pot Duo 7-in-1 6Qt,12,3,99.95,52,620,22,ASIN-B00FLYWNYQ,Active,5.44,4.7,Instant Pot Duo 7-in-1 electric pressure cooker
+35,Ninja Foodi Air Fryer XL,12,3,199,108,380,15,ASIN-B0932D4YHY,Active,7.03,4.6,Ninja Foodi 6-in-1 8-qt XL 2-basket air fryer
+36,KitchenAid Stand Mixer 5Qt,12,3,449,268,220,10,ASIN-B00005UP2P,Active,11.79,4.8,KitchenAid Artisan 5-Qt tilt-head stand mixer
+37,Dyson V15 Detect Vacuum,12,3,699,428,160,5,ASIN-B08TKF5XWR,Active,2.65,4.7,Dyson V15 Detect cordless vacuum cleaner
+38,Nespresso Vertuo Next Coffee,12,3,179,95,340,12,ASIN-B085DPFZR6,Active,4.08,4.5,Nespresso Vertuo Next coffee and espresso maker
+39,IKEA MALM 6-Drawer Dresser,13,3,329,185,95,0,ASIN-B07VQY1WGH,Active,40,4.3,IKEA MALM 6-drawer dresser in white
+40,West Elm Andes Sofa,13,3,1599,890,45,8,ASIN-B0BZHVF2KQ,Active,56,4.5,West Elm Andes deep-seat sofa in velvet
+41,Atomic Habits - James Clear,15,4,14.99,4.5,2000,0,ASIN-0735211299,Active,0.43,4.9,Atomic Habits: An Easy & Proven Way to Build Good Habits
+42,The Psychology of Money,15,4,12.99,3.8,1800,0,ASIN-0857197681,Active,0.39,4.8,The Psychology of Money by Morgan Housel
+43,Deep Work - Cal Newport,15,4,15.99,4.9,1400,5,ASIN-1455586692,Active,0.41,4.7,Deep Work: Rules for Focused Success in a Distracted World
+44,Zero to One - Peter Thiel,15,4,13.99,4.2,1600,0,ASIN-0804139296,Active,0.36,4.8,Zero to One by Peter Thiel
+45,Peloton Bike+ Smart Exercise,16,5,2495,1680,40,0,ASIN-B08J8S5F9Z,Active,56.7,4.5,Peloton Bike+ with rotating touchscreen
+46,Bowflex SelectTech 552 Dumbbells,16,5,349,195,220,8,ASIN-B001ARYU58,Active,18.14,4.8,Bowflex SelectTech 552 adjustable dumbbells pair
+47,Manduka PRO Yoga Mat,16,5,120,55,480,5,ASIN-B001IDNBAU,Active,2.95,4.8,Manduka PRO 6mm yoga mat lifetime guarantee
+48,Fitbit Charge 6,16,5,149.99,82,380,10,ASIN-B0CCX2V37G,Active,0.03,4.4,Fitbit Charge 6 fitness and health tracker
+49,Dyson Airwrap Complete Styler,18,9,599,368,280,0,ASIN-B09KWKX74F,Active,1.38,4.7,Dyson Airwrap multi-styler and dryer complete
+50,La Mer Moisturizing Cream 2oz,18,9,345,120,190,0,ASIN-B0000T68U2,Active,0.24,4.8,La Mer The Moisturizing Cream 2 oz
+51,Optimum Nutrition Gold Whey 5lb,19,11,54.99,28,850,12,ASIN-B000QSTBNS,Active,2.27,4.7,ON Gold Standard 100% Whey Protein Powder
+52,Bulletproof Original Coffee 12oz,19,11,17.99,8.5,1100,5,ASIN-B01GEEK1EC,Active,0.34,4.5,Bulletproof The Original Ground Coffee medium roast
+53,DEWALT 20V MAX Drill Combo Kit,20,10,199,108,320,15,ASIN-B0109CF5MC,Active,4.99,4.8,DEWALT 20V MAX drill/driver combo kit
+54,Anker 67W USB-C Car Charger,20,10,35.99,14,1200,8,ASIN-B0C2C6DPHN,Active,0.12,4.6,Anker 67W USB-C fast car charger dual port
+55,LEGO Technic Bugatti Bolide,17,8,469.99,268,180,5,ASIN-B09JBJ5VGM,Active,1.32,4.9,LEGO Technic Bugatti Bolide 905-piece set
+56,Barbie Dreamhouse 2023,17,8,199.99,108,240,10,ASIN-B0BQZR61GH,Active,2.63,4.6,Barbie Dreamhouse 3-story dollhouse
+57,[DISCONTINUED] Old Kindle Model,3,12,0,0,0,0,,Inactive,,,No longer sold

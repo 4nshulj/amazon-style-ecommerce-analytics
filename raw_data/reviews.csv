@@ -1,0 +1,1675 @@
+review_id,product_id,customer_id,review_date,rating,review_text,helpful_votes,purchase_type
+1,14,198,2022-02-13,4,Great quality and fast shipping. Would definitely buy again.,190,Verified Purchase
+2,52,2,2021-12-18,4,Incredible value. This has become my favorite purchase this year.,45,Verified Purchase
+3,26,264,2023-08-31,5,Absolutely love this product! Exceeded all my expectations.,52,Verified Purchase
+4,55,430,2023-11-08,5,Perfect product. Exactly as described. Very happy with purchase.,119,Verified Purchase
+5,35,92,2024-08-11,3,Okay product. Shipping took longer than expected.,160,Unverified
+6,40,172,2024-03-28,5,Absolutely love this product! Exceeded all my expectations.,175,Verified Purchase
+7,52,445,2023-07-24,2,Product looks nothing like the pictures. Misleading listing.,16,Verified Purchase
+8,10,445,2021-10-04,5,Incredible value. This has become my favorite purchase this year.,204,Unverified
+9,50,79,2022-06-28,5,Works perfectly. Easy setup and exactly what I needed.,230,Verified Purchase
+10,49,332,2023-06-16,5,Absolutely love this product! Exceeded all my expectations.,144,Verified Purchase
+11,14,192,2023-10-13,5,Great quality and fast shipping. Would definitely buy again.,211,Verified Purchase
+12,20,404,2021-08-08,7,Five stars! Cannot imagine my life without this product now.,193,Verified Purchase
+13,26,409,2021-03-10,4,Perfect product. Exactly as described. Very happy with purchase.,212,Verified Purchase
+14,47,472,2023-11-21,5,Top notch quality. Fast delivery. Amazon delivered as promised.,208,Verified Purchase
+15,37,400,2022-08-27,3,Decent product but packaging was damaged on arrival.,197,Unverified
+16,33,52,2024-07-18,4,Incredible value. This has become my favorite purchase this year.,178,Verified Purchase
+17,11,113,2022-12-08,4,Five stars! Cannot imagine my life without this product now.,89,Verified Purchase
+18,10,144,2021-07-19,3,Average quality. Instructions could be clearer.,2,Verified Purchase
+19,12,317,2022-04-04,4,Top notch quality. Fast delivery. Amazon delivered as promised.,242,Verified Purchase
+20,36,115,2023-02-21,4,Incredible value. This has become my favorite purchase this year.,110,Verified Purchase
+21,20,266,2023-04-07,5,Incredible value. This has become my favorite purchase this year.,201,Verified Purchase
+22,39,372,2023-10-02,5,Top notch quality. Fast delivery. Amazon delivered as promised.,138,Unverified
+23,25,41,2024-05-17,5,Incredible value. This has become my favorite purchase this year.,13,Verified Purchase
+24,56,113,2022-09-30,3,Good overall but a bit overpriced for what you get.,4,Verified Purchase
+25,51,340,2022-04-06,2,Stopped working after 2 weeks. Very disappointed.,61,Verified Purchase
+26,39,276,2024-04-05,4,Works perfectly. Easy setup and exactly what I needed.,123,Verified Purchase
+27,18,377,2024-01-13,3,Works as advertised. Nothing special but does the job.,207,Verified Purchase
+28,12,87,2021-08-15,5,Works perfectly. Easy setup and exactly what I needed.,102,Verified Purchase
+29,21,215,2024-05-13,2,Product looks nothing like the pictures. Misleading listing.,187,Verified Purchase
+30,17,371,2023-04-19,5,Works perfectly. Easy setup and exactly what I needed.,3,Unverified
+31,29,8,2024-08-12,5,Absolutely love this product! Exceeded all my expectations.,58,Verified Purchase
+33,2,347,2022-11-16,4,Top notch quality. Fast delivery. Amazon delivered as promised.,102,Verified Purchase
+34,35,296,2024-04-19,5,,78,Verified Purchase
+35,48,323,2024-08-13,5,Five stars! Cannot imagine my life without this product now.,86,Unverified
+36,42,113,2022-12-28,5,Incredible value. This has become my favorite purchase this year.,62,Verified Purchase
+37,33,309,2027-01-01,5,,215,Verified Purchase
+38,7,172,2022-03-24,5,,6,Unverified
+39,46,248,2022-10-06,5,Great quality and fast shipping. Would definitely buy again.,193,Verified Purchase
+40,13,347,2024-09-14,4,Absolutely love this product! Exceeded all my expectations.,91,Verified Purchase
+41,50,111,2021-03-03,5,,72,Verified Purchase
+42,38,166,2023-10-04,2,Stopped working after 2 weeks. Very disappointed.,152,Verified Purchase
+43,28,61,2023-05-05,5,Incredible value. This has become my favorite purchase this year.,127,Verified Purchase
+44,30,203,2024-06-18,4,Absolutely love this product! Exceeded all my expectations.,216,Verified Purchase
+45,31,413,2021-10-02,4,Outstanding quality for the price. Highly recommend to everyone.,83,Unverified
+46,35,392,2021-07-24,2,Terrible quality. Complete waste of money. Avoid this seller.,104,Unverified
+47,52,120,2021-07-29,5,Incredible value. This has become my favorite purchase this year.,96,Unverified
+48,35,225,2024-08-01,5,Absolutely love this product! Exceeded all my expectations.,31,Verified Purchase
+49,28,341,2023-04-19,5,Great quality and fast shipping. Would definitely buy again.,246,Verified Purchase
+50,10,393,2022-11-13,3,Average quality. Instructions could be clearer.,201,Unverified
+51,37,485,2026-09-22,4,Top notch quality. Fast delivery. Amazon delivered as promised.,142,Verified Purchase
+52,33,413,2021-10-30,4,Absolutely love this product! Exceeded all my expectations.,221,Unverified
+53,18,344,2021-05-25,4,Five stars! Cannot imagine my life without this product now.,0,Verified Purchase
+54,5,449,2021-09-23,2,Terrible quality. Complete waste of money. Avoid this seller.,17,Verified Purchase
+55,1,477,2023-10-24,5,Absolutely love this product! Exceeded all my expectations.,96,Verified Purchase
+56,44,430,2024-08-23,4,,250,Verified Purchase
+57,10,405,2021-11-18,3,Good overall but a bit overpriced for what you get.,115,Verified Purchase
+58,15,439,2022-04-11,5,Works perfectly. Easy setup and exactly what I needed.,119,Verified Purchase
+59,9,408,2021-10-14,5,Incredible value. This has become my favorite purchase this year.,59,Verified Purchase
+60,6,165,2022-10-11,5,Top notch quality. Fast delivery. Amazon delivered as promised.,180,Unverified
+62,17,270,2022-12-30,4,Five stars! Cannot imagine my life without this product now.,152,Verified Purchase
+63,2,161,2024-01-08,4,Top notch quality. Fast delivery. Amazon delivered as promised.,13,Unverified
+64,15,497,2021-06-29,2,Product looks nothing like the pictures. Misleading listing.,86,Verified Purchase
+65,32,284,2022-07-12,5,Outstanding quality for the price. Highly recommend to everyone.,96,Verified Purchase
+66,17,163,2021-10-25,2,Stopped working after 2 weeks. Very disappointed.,23,Verified Purchase
+67,42,49,2022-05-18,5,Perfect product. Exactly as described. Very happy with purchase.,97,Verified Purchase
+68,33,281,2022-06-13,5,Top notch quality. Fast delivery. Amazon delivered as promised.,184,Verified Purchase
+69,35,279,2021-12-15,5,Perfect product. Exactly as described. Very happy with purchase.,19,Verified Purchase
+70,52,259,2023-12-22,4,Incredible value. This has become my favorite purchase this year.,156,Verified Purchase
+71,54,264,2023-10-10,5,Perfect product. Exactly as described. Very happy with purchase.,1,Unverified
+72,26,215,2026-08-12,5,Works perfectly. Easy setup and exactly what I needed.,26,Unverified
+73,4,14,2026-08-06,5,Top notch quality. Fast delivery. Amazon delivered as promised.,51,Verified Purchase
+74,29,202,2024-07-18,3,Okay product. Shipping took longer than expected.,207,Verified Purchase
+75,38,281,2023-02-28,4,Works perfectly. Easy setup and exactly what I needed.,131,Verified Purchase
+76,14,393,2022-12-19,5,,205,Verified Purchase
+77,12,203,2023-10-01,5,Top notch quality. Fast delivery. Amazon delivered as promised.,205,Verified Purchase
+78,23,122,2021-09-03,2,,82,Verified Purchase
+79,6,18,2021-05-14,3,Average quality. Instructions could be clearer.,202,Unverified
+80,28,306,2021-08-27,4,Outstanding quality for the price. Highly recommend to everyone.,129,Verified Purchase
+82,8,313,2024-07-14,3,Good overall but a bit overpriced for what you get.,180,Unverified
+83,35,432,2022-04-16,5,Outstanding quality for the price. Highly recommend to everyone.,168,Unverified
+84,50,204,2021-07-21,4,Incredible value. This has become my favorite purchase this year.,39,Verified Purchase
+85,54,228,2024-08-22,4,Five stars! Cannot imagine my life without this product now.,208,Verified Purchase
+86,35,24,2024-04-02,4,Incredible value. This has become my favorite purchase this year.,69,Verified Purchase
+87,15,361,2021-10-22,3,Average quality. Instructions could be clearer.,8,Verified Purchase
+88,9,347,2022-12-24,-1,,78,Verified Purchase
+89,9,450,2024-07-26,1,Terrible quality. Complete waste of money. Avoid this seller.,127,Verified Purchase
+90,32,479,2022-12-28,1,Arrived broken. Seller refused to help. Zero stars if possible.,39,Verified Purchase
+91,56,394,2022-01-26,4,Incredible value. This has become my favorite purchase this year.,23,Verified Purchase
+92,13,162,2024-04-19,4,Works perfectly. Easy setup and exactly what I needed.,134,Verified Purchase
+94,22,376,2023-12-19,5,Five stars! Cannot imagine my life without this product now.,62,Verified Purchase
+95,53,364,2021-08-28,3,Average quality. Instructions could be clearer.,198,Verified Purchase
+96,43,303,2022-05-29,5,Absolutely love this product! Exceeded all my expectations.,196,Unverified
+97,54,89,2024-07-28,2,Product looks nothing like the pictures. Misleading listing.,249,Verified Purchase
+98,53,163,2023-03-20,4,Five stars! Cannot imagine my life without this product now.,12,Unverified
+99,9,406,2023-08-17,4,Five stars! Cannot imagine my life without this product now.,188,Unverified
+100,16,78,2022-10-17,4,Incredible value. This has become my favorite purchase this year.,89,Verified Purchase
+101,9,355,2021-09-02,3,Good overall but a bit overpriced for what you get.,211,Verified Purchase
+102,26,365,2024-02-01,5,Incredible value. This has become my favorite purchase this year.,37,Verified Purchase
+103,42,474,2023-02-22,5,Incredible value. This has become my favorite purchase this year.,116,Verified Purchase
+104,28,291,2022-06-27,5,Works perfectly. Easy setup and exactly what I needed.,141,Verified Purchase
+105,29,427,2022-02-13,-1,Outstanding quality for the price. Highly recommend to everyone.,7,Verified Purchase
+106,20,281,2022-10-12,7,Stopped working after 2 weeks. Very disappointed.,100,Verified Purchase
+107,53,87,2023-12-19,5,Perfect product. Exactly as described. Very happy with purchase.,70,Verified Purchase
+108,13,135,2023-10-14,4,Absolutely love this product! Exceeded all my expectations.,67,Verified Purchase
+109,16,489,2023-11-27,5,Perfect product. Exactly as described. Very happy with purchase.,94,Verified Purchase
+110,52,286,2022-10-12,5,Five stars! Cannot imagine my life without this product now.,141,Unverified
+111,28,396,2024-09-14,5,Works perfectly. Easy setup and exactly what I needed.,0,Unverified
+112,6,28,2023-07-13,3,Works as advertised. Nothing special but does the job.,54,Verified Purchase
+113,33,95,2022-08-23,5,Works perfectly. Easy setup and exactly what I needed.,148,Verified Purchase
+114,55,441,2023-05-27,5,Top notch quality. Fast delivery. Amazon delivered as promised.,106,Verified Purchase
+115,12,341,2021-04-27,4,Perfect product. Exactly as described. Very happy with purchase.,231,Verified Purchase
+116,47,31,2024-06-04,4,Perfect product. Exactly as described. Very happy with purchase.,214,Verified Purchase
+117,53,247,2024-07-09,5,Works perfectly. Easy setup and exactly what I needed.,73,Verified Purchase
+118,11,224,2022-12-17,5,Incredible value. This has become my favorite purchase this year.,224,Verified Purchase
+119,18,317,2022-10-27,3,Average quality. Instructions could be clearer.,170,Verified Purchase
+120,12,73,2022-01-16,5,Incredible value. This has become my favorite purchase this year.,249,Unverified
+121,25,264,2021-08-22,2,Terrible quality. Complete waste of money. Avoid this seller.,155,Verified Purchase
+122,20,305,2021-07-05,5,Five stars! Cannot imagine my life without this product now.,119,Verified Purchase
+123,36,387,2021-05-01,2,Arrived broken. Seller refused to help. Zero stars if possible.,169,Verified Purchase
+124,56,366,2022-01-12,4,Five stars! Cannot imagine my life without this product now.,3,Verified Purchase
+125,20,68,2023-12-19,4,Five stars! Cannot imagine my life without this product now.,42,Verified Purchase
+126,24,173,2021-08-06,4,Perfect product. Exactly as described. Very happy with purchase.,189,Unverified
+127,9,304,2024-07-14,4,Perfect product. Exactly as described. Very happy with purchase.,14,Verified Purchase
+128,9,427,2023-06-27,5,Five stars! Cannot imagine my life without this product now.,122,Verified Purchase
+129,37,482,2024-01-02,4,Incredible value. This has become my favorite purchase this year.,246,Verified Purchase
+130,24,9,2022-12-20,4,Five stars! Cannot imagine my life without this product now.,41,Verified Purchase
+131,35,271,2024-09-01,5,Great quality and fast shipping. Would definitely buy again.,215,Verified Purchase
+133,24,280,2022-04-09,2,Arrived broken. Seller refused to help. Zero stars if possible.,231,Verified Purchase
+134,17,442,2021-12-04,4,Perfect product. Exactly as described. Very happy with purchase.,23,Unverified
+135,46,117,2023-12-26,4,Top notch quality. Fast delivery. Amazon delivered as promised.,204,Unverified
+136,36,484,2022-11-22,5,Absolutely love this product! Exceeded all my expectations.,77,Verified Purchase
+137,52,90,2022-06-10,4,Incredible value. This has become my favorite purchase this year.,189,Verified Purchase
+138,24,256,2021-10-13,5,Top notch quality. Fast delivery. Amazon delivered as promised.,39,Verified Purchase
+139,8,333,2021-09-27,5,Works perfectly. Easy setup and exactly what I needed.,237,Unverified
+140,45,23,2022-10-19,6,Top notch quality. Fast delivery. Amazon delivered as promised.,243,Verified Purchase
+141,8,54,2024-08-13,5,Incredible value. This has become my favorite purchase this year.,132,Verified Purchase
+142,32,21,2021-11-17,5,Great quality and fast shipping. Would definitely buy again.,148,Unverified
+143,26,476,2021-03-10,4,Perfect product. Exactly as described. Very happy with purchase.,54,Verified Purchase
+144,51,60,2021-03-23,2,Terrible quality. Complete waste of money. Avoid this seller.,235,Verified Purchase
+145,3,442,2021-03-18,5,Outstanding quality for the price. Highly recommend to everyone.,28,Verified Purchase
+146,18,383,2022-12-08,4,Works perfectly. Easy setup and exactly what I needed.,235,Unverified
+147,40,80,2023-05-01,5,Great quality and fast shipping. Would definitely buy again.,20,Unverified
+148,45,342,2022-08-11,4,Top notch quality. Fast delivery. Amazon delivered as promised.,57,Verified Purchase
+149,33,278,2021-12-03,5,Five stars! Cannot imagine my life without this product now.,97,Verified Purchase
+151,22,226,2022-12-23,4,Works perfectly. Easy setup and exactly what I needed.,68,Verified Purchase
+153,30,92,2022-06-30,5,Absolutely love this product! Exceeded all my expectations.,83,Verified Purchase
+154,20,143,2021-03-18,3,Works as advertised. Nothing special but does the job.,44,Verified Purchase
+155,15,80,2021-03-13,5,Incredible value. This has become my favorite purchase this year.,191,Unverified
+156,40,431,2021-04-01,5,Perfect product. Exactly as described. Very happy with purchase.,24,Verified Purchase
+157,25,333,2023-10-13,4,Outstanding quality for the price. Highly recommend to everyone.,226,Verified Purchase
+158,44,490,2021-12-25,5,,24,Verified Purchase
+159,2,57,2022-06-08,5,Perfect product. Exactly as described. Very happy with purchase.,86,Verified Purchase
+160,50,292,2023-06-07,4,Perfect product. Exactly as described. Very happy with purchase.,223,Verified Purchase
+161,1,86,2023-12-21,3,Decent product but packaging was damaged on arrival.,154,Verified Purchase
+162,52,126,2021-06-20,4,Great quality and fast shipping. Would definitely buy again.,191,Verified Purchase
+163,20,290,2022-03-16,5,Absolutely love this product! Exceeded all my expectations.,0,Verified Purchase
+164,2,237,2023-09-27,5,Incredible value. This has become my favorite purchase this year.,149,Verified Purchase
+165,38,112,2021-06-24,5,Absolutely love this product! Exceeded all my expectations.,37,Verified Purchase
+166,16,192,2022-03-27,5,Works perfectly. Easy setup and exactly what I needed.,30,Unverified
+167,10,240,2022-09-08,3,Average quality. Instructions could be clearer.,110,Verified Purchase
+168,13,222,2022-04-10,5,Great quality and fast shipping. Would definitely buy again.,204,Verified Purchase
+169,41,185,2022-11-13,5,Great quality and fast shipping. Would definitely buy again.,139,Verified Purchase
+170,22,253,2023-05-14,4,Great quality and fast shipping. Would definitely buy again.,28,Unverified
+171,18,15,2022-02-17,5,Five stars! Cannot imagine my life without this product now.,184,Verified Purchase
+172,24,366,2023-10-04,5,Works perfectly. Easy setup and exactly what I needed.,142,Unverified
+173,2,376,2022-07-23,4,Absolutely love this product! Exceeded all my expectations.,56,Verified Purchase
+174,31,326,2021-04-18,5,Five stars! Cannot imagine my life without this product now.,240,Unverified
+175,43,264,2024-04-25,5,Five stars! Cannot imagine my life without this product now.,243,Verified Purchase
+176,50,199,2023-01-26,1,Product looks nothing like the pictures. Misleading listing.,222,Verified Purchase
+177,33,383,2022-06-16,4,Perfect product. Exactly as described. Very happy with purchase.,140,Verified Purchase
+178,10,399,2022-05-16,0,Outstanding quality for the price. Highly recommend to everyone.,47,Verified Purchase
+179,14,463,2024-06-26,5,Outstanding quality for the price. Highly recommend to everyone.,169,Verified Purchase
+180,3,183,2021-09-08,5,Incredible value. This has become my favorite purchase this year.,123,Verified Purchase
+181,11,261,2026-11-12,2,Stopped working after 2 weeks. Very disappointed.,153,Verified Purchase
+182,4,22,2021-06-09,4,Great quality and fast shipping. Would definitely buy again.,8,Verified Purchase
+183,26,12,2024-04-26,4,Outstanding quality for the price. Highly recommend to everyone.,220,Verified Purchase
+184,11,206,2024-06-04,5,Five stars! Cannot imagine my life without this product now.,120,Verified Purchase
+185,45,147,2022-10-20,5,Top notch quality. Fast delivery. Amazon delivered as promised.,28,Verified Purchase
+186,11,111,2021-08-10,5,Outstanding quality for the price. Highly recommend to everyone.,186,Verified Purchase
+187,18,138,2023-06-04,1,Arrived broken. Seller refused to help. Zero stars if possible.,233,Verified Purchase
+188,38,88,2022-05-16,4,Perfect product. Exactly as described. Very happy with purchase.,170,Verified Purchase
+189,51,159,2024-05-26,5,,11,Verified Purchase
+190,20,473,2022-09-21,4,Great quality and fast shipping. Would definitely buy again.,124,Verified Purchase
+191,51,177,2021-10-02,3,Decent product but packaging was damaged on arrival.,50,Verified Purchase
+192,49,348,2022-10-23,5,Perfect product. Exactly as described. Very happy with purchase.,237,Unverified
+193,23,191,2024-02-24,4,Great quality and fast shipping. Would definitely buy again.,211,Verified Purchase
+194,12,157,2024-05-06,3,Average quality. Instructions could be clearer.,157,Verified Purchase
+195,54,208,2022-12-21,5,Incredible value. This has become my favorite purchase this year.,158,Verified Purchase
+196,42,8,2021-08-19,5,Great quality and fast shipping. Would definitely buy again.,36,Verified Purchase
+197,12,194,2021-11-21,5,Great quality and fast shipping. Would definitely buy again.,114,Verified Purchase
+199,18,194,2023-10-08,5,Outstanding quality for the price. Highly recommend to everyone.,124,Verified Purchase
+200,22,182,2023-09-04,5,Great quality and fast shipping. Would definitely buy again.,37,Unverified
+201,54,365,2023-05-11,4,Great quality and fast shipping. Would definitely buy again.,70,Verified Purchase
+202,18,495,2021-12-15,5,Outstanding quality for the price. Highly recommend to everyone.,154,Verified Purchase
+203,18,42,2021-05-19,5,Works perfectly. Easy setup and exactly what I needed.,176,Unverified
+204,31,201,2022-10-28,3,Good overall but a bit overpriced for what you get.,51,Verified Purchase
+205,23,213,2022-03-07,3,Good overall but a bit overpriced for what you get.,185,Verified Purchase
+206,1,364,2023-01-10,4,Top notch quality. Fast delivery. Amazon delivered as promised.,119,Unverified
+207,51,78,2024-08-07,2,Stopped working after 2 weeks. Very disappointed.,56,Verified Purchase
+208,37,425,2023-07-04,3,Works as advertised. Nothing special but does the job.,215,Verified Purchase
+209,4,242,2024-06-13,5,Perfect product. Exactly as described. Very happy with purchase.,68,Unverified
+210,18,273,2022-04-18,5,Five stars! Cannot imagine my life without this product now.,49,Unverified
+212,17,116,2021-09-28,5,Perfect product. Exactly as described. Very happy with purchase.,89,Unverified
+213,30,115,2022-10-29,5,Incredible value. This has become my favorite purchase this year.,143,Verified Purchase
+214,45,434,2021-08-15,5,Top notch quality. Fast delivery. Amazon delivered as promised.,86,Unverified
+215,2,430,2024-07-25,5,Incredible value. This has become my favorite purchase this year.,26,Verified Purchase
+216,30,315,2023-07-27,3,Works as advertised. Nothing special but does the job.,70,Verified Purchase
+217,45,281,2022-02-10,2,Arrived broken. Seller refused to help. Zero stars if possible.,39,Verified Purchase
+218,44,167,2022-06-15,5,Perfect product. Exactly as described. Very happy with purchase.,181,Unverified
+219,35,253,2024-06-12,5,Five stars! Cannot imagine my life without this product now.,162,Unverified
+220,4,313,2024-05-25,5,Outstanding quality for the price. Highly recommend to everyone.,139,Verified Purchase
+221,40,260,2024-07-24,4,Works perfectly. Easy setup and exactly what I needed.,226,Verified Purchase
+222,39,132,2021-03-29,5,Incredible value. This has become my favorite purchase this year.,27,Unverified
+223,5,178,2022-10-01,5,Works perfectly. Easy setup and exactly what I needed.,63,Unverified
+224,9,473,2022-07-03,4,Absolutely love this product! Exceeded all my expectations.,110,Verified Purchase
+225,29,146,2021-04-08,4,Incredible value. This has become my favorite purchase this year.,35,Verified Purchase
+226,22,444,2023-11-17,5,Works perfectly. Easy setup and exactly what I needed.,83,Verified Purchase
+227,28,145,2022-05-14,5,Five stars! Cannot imagine my life without this product now.,236,Verified Purchase
+228,56,1,2022-09-27,4,Top notch quality. Fast delivery. Amazon delivered as promised.,208,Verified Purchase
+229,44,84,2021-11-29,5,Top notch quality. Fast delivery. Amazon delivered as promised.,207,Verified Purchase
+230,32,58,2022-04-05,5,,6,Verified Purchase
+231,40,332,2021-08-10,5,Five stars! Cannot imagine my life without this product now.,144,Verified Purchase
+232,21,152,2024-01-09,5,Absolutely love this product! Exceeded all my expectations.,31,Verified Purchase
+233,47,15,2024-06-20,3,Works as advertised. Nothing special but does the job.,49,Verified Purchase
+234,15,308,2024-06-11,5,Absolutely love this product! Exceeded all my expectations.,49,Verified Purchase
+236,10,259,2023-12-31,5,Five stars! Cannot imagine my life without this product now.,222,Unverified
+237,23,477,2022-03-06,4,Outstanding quality for the price. Highly recommend to everyone.,181,Unverified
+238,47,173,2021-12-07,4,Perfect product. Exactly as described. Very happy with purchase.,154,Verified Purchase
+240,50,159,2024-06-10,4,Incredible value. This has become my favorite purchase this year.,178,Verified Purchase
+241,56,238,2023-03-18,5,Works perfectly. Easy setup and exactly what I needed.,86,Verified Purchase
+242,49,34,2022-08-05,3,Decent product but packaging was damaged on arrival.,236,Unverified
+243,53,330,2022-02-07,4,Absolutely love this product! Exceeded all my expectations.,24,Verified Purchase
+244,32,99,2024-06-25,3,Okay product. Shipping took longer than expected.,95,Verified Purchase
+245,42,272,2022-04-15,5,Absolutely love this product! Exceeded all my expectations.,180,Verified Purchase
+246,50,95,2024-09-02,4,Works perfectly. Easy setup and exactly what I needed.,24,Verified Purchase
+247,37,322,2023-12-08,4,Works perfectly. Easy setup and exactly what I needed.,124,Verified Purchase
+248,47,49,2023-06-29,5,Five stars! Cannot imagine my life without this product now.,133,Verified Purchase
+249,3,428,2022-09-04,5,Five stars! Cannot imagine my life without this product now.,98,Unverified
+250,7,95,2024-03-12,5,Perfect product. Exactly as described. Very happy with purchase.,38,Unverified
+251,47,485,2021-11-27,4,,207,Verified Purchase
+252,35,270,2023-08-30,2,Terrible quality. Complete waste of money. Avoid this seller.,123,Verified Purchase
+253,2,415,2022-01-03,4,Incredible value. This has become my favorite purchase this year.,48,Verified Purchase
+254,48,6,2023-03-04,2,Stopped working after 2 weeks. Very disappointed.,171,Verified Purchase
+255,25,173,2024-07-06,4,Absolutely love this product! Exceeded all my expectations.,209,Verified Purchase
+256,17,366,2022-03-18,3,,179,Verified Purchase
+257,13,398,2022-10-31,4,Top notch quality. Fast delivery. Amazon delivered as promised.,26,Verified Purchase
+258,9,294,2024-05-28,4,Top notch quality. Fast delivery. Amazon delivered as promised.,241,Verified Purchase
+259,53,138,2024-03-17,5,Great quality and fast shipping. Would definitely buy again.,204,Verified Purchase
+260,44,302,2022-07-27,3,Good overall but a bit overpriced for what you get.,108,Verified Purchase
+261,14,18,2022-04-08,4,Works perfectly. Easy setup and exactly what I needed.,70,Verified Purchase
+262,3,260,2024-05-12,5,Outstanding quality for the price. Highly recommend to everyone.,181,Verified Purchase
+263,32,441,2021-05-19,4,Five stars! Cannot imagine my life without this product now.,30,Verified Purchase
+264,49,354,2021-06-03,4,Incredible value. This has become my favorite purchase this year.,4,Verified Purchase
+265,10,338,2024-01-06,4,Incredible value. This has become my favorite purchase this year.,79,Verified Purchase
+266,54,214,2024-04-29,4,Incredible value. This has become my favorite purchase this year.,31,Verified Purchase
+267,36,261,2021-11-17,3,Good overall but a bit overpriced for what you get.,96,Verified Purchase
+268,14,65,2024-03-20,0,Absolutely love this product! Exceeded all my expectations.,245,Verified Purchase
+269,1,268,2024-09-28,5,Five stars! Cannot imagine my life without this product now.,65,Unverified
+270,29,15,2023-03-24,4,Five stars! Cannot imagine my life without this product now.,72,Verified Purchase
+271,12,94,2026-03-06,5,Top notch quality. Fast delivery. Amazon delivered as promised.,130,Verified Purchase
+272,46,329,2023-05-13,2,Stopped working after 2 weeks. Very disappointed.,144,Verified Purchase
+273,13,244,2023-10-18,5,Great quality and fast shipping. Would definitely buy again.,17,Verified Purchase
+274,6,360,2023-11-12,4,Outstanding quality for the price. Highly recommend to everyone.,42,Verified Purchase
+275,17,257,2023-06-08,5,Great quality and fast shipping. Would definitely buy again.,18,Verified Purchase
+276,49,306,2021-12-10,4,Top notch quality. Fast delivery. Amazon delivered as promised.,60,Verified Purchase
+277,5,473,2022-08-06,5,Works perfectly. Easy setup and exactly what I needed.,214,Unverified
+278,14,43,2022-11-24,4,,247,Verified Purchase
+279,52,50,2023-03-15,3,Okay product. Shipping took longer than expected.,196,Verified Purchase
+280,35,51,2021-10-08,5,Works perfectly. Easy setup and exactly what I needed.,168,Verified Purchase
+281,29,276,2024-03-05,5,Absolutely love this product! Exceeded all my expectations.,5,Verified Purchase
+282,40,86,2025-09-29,3,Good overall but a bit overpriced for what you get.,220,Verified Purchase
+283,10,101,2022-09-03,5,Works perfectly. Easy setup and exactly what I needed.,27,Verified Purchase
+284,9,452,2022-01-28,4,Great quality and fast shipping. Would definitely buy again.,10,Unverified
+285,20,56,2024-06-29,5,,226,Unverified
+286,8,426,2022-10-17,5,Five stars! Cannot imagine my life without this product now.,240,Verified Purchase
+287,50,143,2023-04-05,4,Top notch quality. Fast delivery. Amazon delivered as promised.,54,Verified Purchase
+288,48,145,2021-11-02,5,Great quality and fast shipping. Would definitely buy again.,202,Verified Purchase
+289,12,91,2022-06-09,5,Five stars! Cannot imagine my life without this product now.,10,Verified Purchase
+290,23,16,2023-07-25,4,Incredible value. This has become my favorite purchase this year.,136,Verified Purchase
+291,28,265,2024-02-11,5,Great quality and fast shipping. Would definitely buy again.,217,Unverified
+292,50,106,2022-08-22,5,Perfect product. Exactly as described. Very happy with purchase.,226,Verified Purchase
+293,32,109,2021-11-17,5,Top notch quality. Fast delivery. Amazon delivered as promised.,91,Unverified
+294,10,67,2022-04-22,4,Great quality and fast shipping. Would definitely buy again.,137,Verified Purchase
+295,22,423,2026-07-03,5,Great quality and fast shipping. Would definitely buy again.,194,Verified Purchase
+296,40,56,2022-03-20,4,Five stars! Cannot imagine my life without this product now.,152,Verified Purchase
+297,33,234,2023-02-12,2,Terrible quality. Complete waste of money. Avoid this seller.,175,Verified Purchase
+298,45,272,2021-12-13,5,Works perfectly. Easy setup and exactly what I needed.,131,Verified Purchase
+299,9,367,2022-12-30,4,Incredible value. This has become my favorite purchase this year.,39,Verified Purchase
+300,7,389,2021-04-29,5,Top notch quality. Fast delivery. Amazon delivered as promised.,178,Verified Purchase
+301,44,190,2021-09-04,5,Incredible value. This has become my favorite purchase this year.,71,Verified Purchase
+302,13,142,2023-02-08,3,Average quality. Instructions could be clearer.,222,Verified Purchase
+303,5,470,2021-08-11,2,Terrible quality. Complete waste of money. Avoid this seller.,190,Verified Purchase
+304,12,88,2022-07-18,5,Great quality and fast shipping. Would definitely buy again.,232,Verified Purchase
+305,33,315,2024-03-07,5,Outstanding quality for the price. Highly recommend to everyone.,82,Verified Purchase
+306,23,355,2023-06-13,5,Outstanding quality for the price. Highly recommend to everyone.,49,Unverified
+307,52,493,2022-08-17,2,Arrived broken. Seller refused to help. Zero stars if possible.,248,Verified Purchase
+308,31,230,2024-06-30,4,Great quality and fast shipping. Would definitely buy again.,227,Unverified
+309,25,100,2023-11-16,2,Stopped working after 2 weeks. Very disappointed.,7,Verified Purchase
+310,10,463,2023-08-09,4,Five stars! Cannot imagine my life without this product now.,34,Verified Purchase
+311,14,242,2024-07-20,4,,40,Unverified
+312,5,341,2023-02-23,3,Good overall but a bit overpriced for what you get.,125,Verified Purchase
+313,51,216,2022-07-16,4,Perfect product. Exactly as described. Very happy with purchase.,189,Unverified
+314,4,20,2022-03-01,3,Decent product but packaging was damaged on arrival.,19,Unverified
+315,42,146,2022-09-07,5,Five stars! Cannot imagine my life without this product now.,40,Verified Purchase
+316,35,308,2022-07-07,3,Decent product but packaging was damaged on arrival.,180,Verified Purchase
+317,44,259,2023-10-20,5,Great quality and fast shipping. Would definitely buy again.,24,Verified Purchase
+318,30,192,2022-11-23,5,Absolutely love this product! Exceeded all my expectations.,120,Verified Purchase
+319,32,126,2024-01-18,4,Top notch quality. Fast delivery. Amazon delivered as promised.,131,Verified Purchase
+321,53,373,2023-07-17,4,,150,Verified Purchase
+322,13,104,2024-01-25,5,Perfect product. Exactly as described. Very happy with purchase.,31,Verified Purchase
+323,46,323,2021-04-21,4,Outstanding quality for the price. Highly recommend to everyone.,35,Verified Purchase
+324,3,123,2022-08-06,5,Outstanding quality for the price. Highly recommend to everyone.,11,Unverified
+325,30,45,2023-02-28,3,Good overall but a bit overpriced for what you get.,196,Unverified
+326,12,58,2023-11-27,-1,Absolutely love this product! Exceeded all my expectations.,49,Verified Purchase
+327,40,300,2021-08-10,3,Decent product but packaging was damaged on arrival.,45,Unverified
+328,39,279,2022-11-13,2,Product looks nothing like the pictures. Misleading listing.,156,Unverified
+329,23,363,2024-08-25,5,Perfect product. Exactly as described. Very happy with purchase.,46,Verified Purchase
+330,49,481,2022-12-11,5,Absolutely love this product! Exceeded all my expectations.,60,Verified Purchase
+331,31,486,2022-06-29,4,Incredible value. This has become my favorite purchase this year.,33,Verified Purchase
+332,47,498,2023-02-13,5,Five stars! Cannot imagine my life without this product now.,133,Verified Purchase
+333,46,282,2021-12-23,5,Great quality and fast shipping. Would definitely buy again.,4,Unverified
+334,6,427,2021-05-20,3,Works as advertised. Nothing special but does the job.,189,Verified Purchase
+335,41,397,2023-10-25,4,Five stars! Cannot imagine my life without this product now.,52,Verified Purchase
+336,10,440,2024-05-24,5,Outstanding quality for the price. Highly recommend to everyone.,41,Verified Purchase
+337,10,282,2024-07-21,4,Absolutely love this product! Exceeded all my expectations.,13,Unverified
+338,37,153,2022-09-06,2,Product looks nothing like the pictures. Misleading listing.,54,Unverified
+339,28,391,2021-10-27,5,Perfect product. Exactly as described. Very happy with purchase.,110,Verified Purchase
+340,34,83,2023-03-22,5,Five stars! Cannot imagine my life without this product now.,227,Verified Purchase
+341,24,344,2022-10-19,5,Outstanding quality for the price. Highly recommend to everyone.,17,Verified Purchase
+342,42,117,2021-05-03,2,Stopped working after 2 weeks. Very disappointed.,186,Verified Purchase
+343,7,439,2022-08-02,5,Outstanding quality for the price. Highly recommend to everyone.,35,Verified Purchase
+344,37,340,2022-09-08,2,Terrible quality. Complete waste of money. Avoid this seller.,220,Verified Purchase
+345,53,197,2023-04-11,3,Decent product but packaging was damaged on arrival.,111,Verified Purchase
+346,44,215,2021-11-03,5,Great quality and fast shipping. Would definitely buy again.,75,Verified Purchase
+348,36,454,2023-09-24,3,Average quality. Instructions could be clearer.,137,Verified Purchase
+350,5,327,2024-02-13,5,Five stars! Cannot imagine my life without this product now.,97,Verified Purchase
+351,28,351,2024-02-12,4,Perfect product. Exactly as described. Very happy with purchase.,205,Unverified
+352,50,190,2023-03-01,5,Great quality and fast shipping. Would definitely buy again.,195,Verified Purchase
+353,29,119,2022-05-23,5,Incredible value. This has become my favorite purchase this year.,124,Verified Purchase
+354,6,316,2024-06-30,5,Perfect product. Exactly as described. Very happy with purchase.,65,Verified Purchase
+355,33,73,2022-04-07,5,Works perfectly. Easy setup and exactly what I needed.,232,Unverified
+356,8,90,2021-12-23,5,Outstanding quality for the price. Highly recommend to everyone.,3,Verified Purchase
+357,52,241,2022-01-07,4,Perfect product. Exactly as described. Very happy with purchase.,68,Verified Purchase
+358,18,31,2023-01-24,3,Okay product. Shipping took longer than expected.,14,Verified Purchase
+359,22,131,2024-02-16,1,Terrible quality. Complete waste of money. Avoid this seller.,39,Verified Purchase
+360,20,316,2022-06-14,2,Product looks nothing like the pictures. Misleading listing.,186,Verified Purchase
+361,6,179,2022-04-27,5,Perfect product. Exactly as described. Very happy with purchase.,55,Verified Purchase
+362,10,401,2021-06-08,3,Okay product. Shipping took longer than expected.,96,Verified Purchase
+363,26,328,2022-10-09,4,Top notch quality. Fast delivery. Amazon delivered as promised.,112,Verified Purchase
+364,42,46,2021-07-09,4,Works perfectly. Easy setup and exactly what I needed.,46,Verified Purchase
+365,32,135,2024-08-20,3,Decent product but packaging was damaged on arrival.,41,Verified Purchase
+366,24,116,2023-04-21,5,Great quality and fast shipping. Would definitely buy again.,164,Verified Purchase
+367,30,486,2021-05-28,5,Incredible value. This has become my favorite purchase this year.,0,Verified Purchase
+368,14,97,2023-04-11,5,Absolutely love this product! Exceeded all my expectations.,151,Verified Purchase
+369,51,197,2023-08-15,5,Absolutely love this product! Exceeded all my expectations.,196,Verified Purchase
+370,3,451,2024-02-13,3,Works as advertised. Nothing special but does the job.,245,Verified Purchase
+371,9,487,2024-05-24,4,Perfect product. Exactly as described. Very happy with purchase.,146,Unverified
+372,20,377,2022-09-07,4,Outstanding quality for the price. Highly recommend to everyone.,40,Verified Purchase
+373,45,403,2023-04-10,5,Top notch quality. Fast delivery. Amazon delivered as promised.,217,Verified Purchase
+375,32,430,2023-10-19,4,Great quality and fast shipping. Would definitely buy again.,149,Verified Purchase
+376,13,335,2022-01-26,1,Arrived broken. Seller refused to help. Zero stars if possible.,123,Verified Purchase
+377,6,198,2024-07-19,4,Perfect product. Exactly as described. Very happy with purchase.,230,Unverified
+378,40,36,2025-06-12,5,Perfect product. Exactly as described. Very happy with purchase.,60,Unverified
+379,28,240,2022-12-31,5,Absolutely love this product! Exceeded all my expectations.,56,Unverified
+380,30,305,2024-08-02,5,Five stars! Cannot imagine my life without this product now.,197,Verified Purchase
+381,5,361,2023-02-08,5,Outstanding quality for the price. Highly recommend to everyone.,86,Unverified
+382,34,174,2024-03-12,5,Outstanding quality for the price. Highly recommend to everyone.,79,Verified Purchase
+383,15,276,2023-10-15,5,Perfect product. Exactly as described. Very happy with purchase.,194,Verified Purchase
+384,10,304,2022-05-16,5,Great quality and fast shipping. Would definitely buy again.,223,Unverified
+385,12,450,2021-10-18,3,Good overall but a bit overpriced for what you get.,138,Unverified
+386,48,90,2021-05-09,4,Five stars! Cannot imagine my life without this product now.,131,Verified Purchase
+387,33,89,2025-08-16,5,Incredible value. This has become my favorite purchase this year.,189,Verified Purchase
+388,15,465,2024-02-07,5,Great quality and fast shipping. Would definitely buy again.,229,Verified Purchase
+389,41,477,2022-10-15,4,Outstanding quality for the price. Highly recommend to everyone.,212,Verified Purchase
+390,38,295,2024-09-07,5,Five stars! Cannot imagine my life without this product now.,204,Verified Purchase
+391,50,38,2022-06-21,3,Good overall but a bit overpriced for what you get.,196,Verified Purchase
+393,37,113,2023-03-20,3,Good overall but a bit overpriced for what you get.,211,Verified Purchase
+394,47,22,2021-07-16,3,Good overall but a bit overpriced for what you get.,38,Verified Purchase
+395,35,294,2024-05-21,4,Great quality and fast shipping. Would definitely buy again.,57,Verified Purchase
+396,24,475,2023-04-26,4,Works perfectly. Easy setup and exactly what I needed.,75,Verified Purchase
+397,24,216,2024-06-27,5,Absolutely love this product! Exceeded all my expectations.,71,Verified Purchase
+398,16,64,2024-09-26,4,Works perfectly. Easy setup and exactly what I needed.,107,Verified Purchase
+399,41,126,2022-01-11,4,Outstanding quality for the price. Highly recommend to everyone.,97,Verified Purchase
+400,18,440,2022-07-06,3,Okay product. Shipping took longer than expected.,200,Unverified
+401,47,5,2022-09-06,5,Five stars! Cannot imagine my life without this product now.,239,Verified Purchase
+402,13,97,2023-10-03,5,Works perfectly. Easy setup and exactly what I needed.,150,Verified Purchase
+403,40,428,2023-08-21,5,Five stars! Cannot imagine my life without this product now.,175,Verified Purchase
+404,43,215,2022-10-10,3,Okay product. Shipping took longer than expected.,174,Verified Purchase
+405,43,236,2023-10-29,4,Works perfectly. Easy setup and exactly what I needed.,179,Verified Purchase
+406,28,174,2023-12-26,5,Five stars! Cannot imagine my life without this product now.,209,Unverified
+407,17,341,2023-12-03,5,Five stars! Cannot imagine my life without this product now.,37,Unverified
+408,40,246,2021-05-27,4,Top notch quality. Fast delivery. Amazon delivered as promised.,89,Verified Purchase
+409,22,402,2022-10-07,2,Product looks nothing like the pictures. Misleading listing.,74,Unverified
+410,22,124,2023-06-11,5,Top notch quality. Fast delivery. Amazon delivered as promised.,240,Verified Purchase
+412,50,176,2022-12-12,5,Incredible value. This has become my favorite purchase this year.,135,Verified Purchase
+413,6,497,2023-02-13,4,Incredible value. This has become my favorite purchase this year.,180,Verified Purchase
+414,26,225,2022-03-13,4,Absolutely love this product! Exceeded all my expectations.,75,Verified Purchase
+415,47,211,2022-11-04,5,Outstanding quality for the price. Highly recommend to everyone.,123,Verified Purchase
+416,45,286,2023-12-30,5,Top notch quality. Fast delivery. Amazon delivered as promised.,246,Verified Purchase
+417,54,298,2021-09-18,4,Five stars! Cannot imagine my life without this product now.,101,Verified Purchase
+418,36,303,2022-11-10,5,Top notch quality. Fast delivery. Amazon delivered as promised.,227,Verified Purchase
+419,52,469,2024-02-09,4,Top notch quality. Fast delivery. Amazon delivered as promised.,143,Verified Purchase
+420,37,471,2022-04-25,5,Top notch quality. Fast delivery. Amazon delivered as promised.,116,Verified Purchase
+421,4,323,2024-09-25,1,Product looks nothing like the pictures. Misleading listing.,154,Verified Purchase
+422,11,26,2021-04-14,5,Works perfectly. Easy setup and exactly what I needed.,34,Verified Purchase
+423,20,435,2022-11-22,1,Stopped working after 2 weeks. Very disappointed.,33,Verified Purchase
+424,30,83,2022-11-10,3,Works as advertised. Nothing special but does the job.,106,Verified Purchase
+425,21,331,2024-03-07,2,Product looks nothing like the pictures. Misleading listing.,119,Verified Purchase
+426,44,258,2022-10-06,4,Incredible value. This has become my favorite purchase this year.,44,Verified Purchase
+427,26,1,2024-02-24,3,Okay product. Shipping took longer than expected.,0,Verified Purchase
+428,53,337,2021-09-05,5,Absolutely love this product! Exceeded all my expectations.,248,Unverified
+429,39,375,2022-11-03,5,Absolutely love this product! Exceeded all my expectations.,132,Verified Purchase
+430,24,260,2021-07-20,5,Absolutely love this product! Exceeded all my expectations.,119,Verified Purchase
+431,21,414,2024-01-03,5,Great quality and fast shipping. Would definitely buy again.,9,Unverified
+432,23,459,2023-08-24,5,Great quality and fast shipping. Would definitely buy again.,95,Verified Purchase
+433,37,239,2022-08-25,5,Top notch quality. Fast delivery. Amazon delivered as promised.,223,Verified Purchase
+434,12,100,2022-03-21,5,Top notch quality. Fast delivery. Amazon delivered as promised.,135,Verified Purchase
+435,36,362,2024-05-07,4,Five stars! Cannot imagine my life without this product now.,13,Verified Purchase
+436,32,238,2023-02-20,5,Top notch quality. Fast delivery. Amazon delivered as promised.,183,Unverified
+437,38,406,2024-09-28,5,Outstanding quality for the price. Highly recommend to everyone.,156,Unverified
+438,52,424,2021-03-12,5,Outstanding quality for the price. Highly recommend to everyone.,126,Verified Purchase
+440,56,132,2022-02-26,5,Great quality and fast shipping. Would definitely buy again.,101,Verified Purchase
+441,49,5,2024-03-21,5,Incredible value. This has become my favorite purchase this year.,137,Unverified
+442,16,278,2021-08-22,3,Decent product but packaging was damaged on arrival.,235,Verified Purchase
+443,56,198,2024-04-02,3,Works as advertised. Nothing special but does the job.,101,Verified Purchase
+444,26,362,2021-07-13,5,Works perfectly. Easy setup and exactly what I needed.,239,Verified Purchase
+445,6,301,2023-02-16,-1,Absolutely love this product! Exceeded all my expectations.,93,Verified Purchase
+446,18,267,2022-06-19,4,Outstanding quality for the price. Highly recommend to everyone.,94,Verified Purchase
+447,26,159,2022-12-06,4,Works perfectly. Easy setup and exactly what I needed.,233,Verified Purchase
+449,39,427,2024-04-19,5,Works perfectly. Easy setup and exactly what I needed.,225,Verified Purchase
+450,45,260,2023-03-05,5,Perfect product. Exactly as described. Very happy with purchase.,77,Unverified
+452,21,306,2024-08-29,4,Incredible value. This has become my favorite purchase this year.,228,Verified Purchase
+453,25,268,2022-09-10,0,Absolutely love this product! Exceeded all my expectations.,119,Verified Purchase
+454,37,313,2021-07-23,5,Perfect product. Exactly as described. Very happy with purchase.,193,Verified Purchase
+455,55,223,2021-12-25,5,Perfect product. Exactly as described. Very happy with purchase.,189,Unverified
+456,18,60,2024-06-29,5,Absolutely love this product! Exceeded all my expectations.,167,Unverified
+457,1,379,2024-08-09,4,Absolutely love this product! Exceeded all my expectations.,3,Verified Purchase
+459,32,344,2021-07-03,4,Outstanding quality for the price. Highly recommend to everyone.,216,Verified Purchase
+460,18,233,2021-11-17,5,Great quality and fast shipping. Would definitely buy again.,33,Verified Purchase
+461,36,209,2024-09-06,0,Incredible value. This has become my favorite purchase this year.,77,Verified Purchase
+462,1,189,2024-09-07,5,Works perfectly. Easy setup and exactly what I needed.,66,Verified Purchase
+463,21,55,2022-06-15,5,Great quality and fast shipping. Would definitely buy again.,209,Verified Purchase
+464,13,218,2021-04-23,3,Good overall but a bit overpriced for what you get.,1,Verified Purchase
+465,32,219,2021-06-01,-1,Works as advertised. Nothing special but does the job.,82,Unverified
+466,36,279,2023-09-28,5,Incredible value. This has become my favorite purchase this year.,14,Unverified
+467,9,407,2024-07-06,5,Top notch quality. Fast delivery. Amazon delivered as promised.,136,Verified Purchase
+468,10,118,2024-03-16,4,,75,Verified Purchase
+469,50,410,2021-06-05,3,Okay product. Shipping took longer than expected.,3,Verified Purchase
+470,56,334,2024-04-21,3,Decent product but packaging was damaged on arrival.,220,Verified Purchase
+471,17,134,2022-04-03,4,Five stars! Cannot imagine my life without this product now.,88,Unverified
+472,33,264,2024-05-10,4,Perfect product. Exactly as described. Very happy with purchase.,123,Verified Purchase
+473,29,72,2022-09-28,4,Incredible value. This has become my favorite purchase this year.,144,Unverified
+474,34,404,2023-07-09,3,Decent product but packaging was damaged on arrival.,123,Verified Purchase
+475,33,68,2022-06-16,4,Outstanding quality for the price. Highly recommend to everyone.,54,Verified Purchase
+476,39,310,2024-01-22,5,Top notch quality. Fast delivery. Amazon delivered as promised.,122,Unverified
+477,50,366,2021-05-03,3,Okay product. Shipping took longer than expected.,222,Verified Purchase
+478,35,363,2022-03-17,4,Great quality and fast shipping. Would definitely buy again.,149,Unverified
+479,7,71,2022-07-06,2,Terrible quality. Complete waste of money. Avoid this seller.,26,Unverified
+480,56,154,2024-06-08,4,Works perfectly. Easy setup and exactly what I needed.,125,Verified Purchase
+481,48,309,2022-10-05,4,Great quality and fast shipping. Would definitely buy again.,250,Verified Purchase
+482,6,338,2023-07-03,3,Okay product. Shipping took longer than expected.,147,Verified Purchase
+483,30,231,2021-12-24,5,Great quality and fast shipping. Would definitely buy again.,96,Verified Purchase
+485,5,332,2021-09-08,4,Incredible value. This has become my favorite purchase this year.,247,Verified Purchase
+486,14,132,2021-07-11,4,Works perfectly. Easy setup and exactly what I needed.,161,Unverified
+487,3,310,2023-01-28,5,Great quality and fast shipping. Would definitely buy again.,164,Verified Purchase
+488,26,121,2023-03-21,4,,219,Verified Purchase
+490,28,388,2023-06-21,5,Great quality and fast shipping. Would definitely buy again.,14,Verified Purchase
+492,7,44,2024-03-19,4,,12,Unverified
+493,44,429,2023-08-08,5,Outstanding quality for the price. Highly recommend to everyone.,148,Unverified
+494,17,214,2024-09-26,4,Outstanding quality for the price. Highly recommend to everyone.,186,Verified Purchase
+496,3,298,2021-05-19,5,Incredible value. This has become my favorite purchase this year.,58,Verified Purchase
+497,1,296,2022-09-03,4,Works perfectly. Easy setup and exactly what I needed.,149,Verified Purchase
+498,21,298,2023-07-13,5,Great quality and fast shipping. Would definitely buy again.,175,Verified Purchase
+499,18,374,2024-05-11,2,Product looks nothing like the pictures. Misleading listing.,160,Verified Purchase
+500,36,361,2022-02-21,5,Outstanding quality for the price. Highly recommend to everyone.,167,Unverified
+501,22,212,2023-10-22,5,Top notch quality. Fast delivery. Amazon delivered as promised.,8,Verified Purchase
+502,36,425,2022-01-09,7,Works as advertised. Nothing special but does the job.,203,Unverified
+503,29,18,2021-10-15,5,Perfect product. Exactly as described. Very happy with purchase.,159,Verified Purchase
+504,35,156,2024-08-13,5,Great quality and fast shipping. Would definitely buy again.,248,Verified Purchase
+505,38,33,2025-12-03,4,Top notch quality. Fast delivery. Amazon delivered as promised.,90,Unverified
+506,15,330,2022-09-14,0,Incredible value. This has become my favorite purchase this year.,36,Verified Purchase
+507,18,418,2024-06-02,0,Absolutely love this product! Exceeded all my expectations.,65,Verified Purchase
+508,11,42,2024-04-18,5,Outstanding quality for the price. Highly recommend to everyone.,172,Verified Purchase
+509,31,141,2023-12-23,4,Incredible value. This has become my favorite purchase this year.,1,Verified Purchase
+510,4,425,2023-10-09,5,Absolutely love this product! Exceeded all my expectations.,48,Verified Purchase
+511,38,235,2024-09-05,3,Decent product but packaging was damaged on arrival.,106,Verified Purchase
+512,39,465,2022-07-25,3,Decent product but packaging was damaged on arrival.,130,Unverified
+513,17,95,2023-12-07,5,Absolutely love this product! Exceeded all my expectations.,189,Verified Purchase
+514,52,115,2024-07-26,5,Incredible value. This has become my favorite purchase this year.,102,Unverified
+516,28,283,2023-07-24,5,Five stars! Cannot imagine my life without this product now.,235,Verified Purchase
+517,4,320,2023-03-30,4,Incredible value. This has become my favorite purchase this year.,47,Verified Purchase
+519,20,66,2023-03-24,4,Outstanding quality for the price. Highly recommend to everyone.,218,Unverified
+520,39,12,2024-04-12,5,Five stars! Cannot imagine my life without this product now.,136,Unverified
+521,13,481,2023-04-05,5,Works perfectly. Easy setup and exactly what I needed.,249,Verified Purchase
+522,12,257,2023-03-29,5,Incredible value. This has become my favorite purchase this year.,240,Verified Purchase
+523,28,458,2023-06-14,4,Five stars! Cannot imagine my life without this product now.,82,Verified Purchase
+524,10,272,2024-05-01,5,Absolutely love this product! Exceeded all my expectations.,148,Unverified
+525,26,441,2023-07-26,5,Great quality and fast shipping. Would definitely buy again.,4,Unverified
+526,48,187,2024-05-18,3,Okay product. Shipping took longer than expected.,98,Unverified
+527,55,288,2021-06-08,5,Absolutely love this product! Exceeded all my expectations.,24,Verified Purchase
+528,30,71,2023-07-08,5,Great quality and fast shipping. Would definitely buy again.,87,Unverified
+529,40,297,2021-12-10,5,Perfect product. Exactly as described. Very happy with purchase.,211,Verified Purchase
+530,8,309,2024-08-05,5,Absolutely love this product! Exceeded all my expectations.,159,Unverified
+531,30,380,2024-05-27,4,Five stars! Cannot imagine my life without this product now.,41,Verified Purchase
+532,56,179,2021-05-19,4,Perfect product. Exactly as described. Very happy with purchase.,169,Verified Purchase
+533,7,312,2021-09-24,5,Five stars! Cannot imagine my life without this product now.,7,Unverified
+534,26,432,2024-05-23,5,Works perfectly. Easy setup and exactly what I needed.,189,Verified Purchase
+535,9,285,2022-04-08,5,Five stars! Cannot imagine my life without this product now.,134,Verified Purchase
+536,44,90,2023-10-23,5,Top notch quality. Fast delivery. Amazon delivered as promised.,7,Verified Purchase
+537,20,177,2021-09-14,3,Okay product. Shipping took longer than expected.,227,Unverified
+538,48,489,2023-09-26,3,Decent product but packaging was damaged on arrival.,128,Verified Purchase
+539,7,12,2023-08-27,4,Incredible value. This has become my favorite purchase this year.,65,Verified Purchase
+540,46,62,2021-12-19,6,Great quality and fast shipping. Would definitely buy again.,52,Verified Purchase
+541,49,315,2024-03-17,4,Five stars! Cannot imagine my life without this product now.,27,Verified Purchase
+542,49,199,2023-10-31,5,Absolutely love this product! Exceeded all my expectations.,32,Verified Purchase
+543,45,375,2024-05-24,5,Five stars! Cannot imagine my life without this product now.,249,Unverified
+544,56,333,2021-07-28,5,Great quality and fast shipping. Would definitely buy again.,173,Verified Purchase
+545,4,106,2023-11-20,5,Works perfectly. Easy setup and exactly what I needed.,75,Unverified
+546,18,242,2021-08-07,4,Outstanding quality for the price. Highly recommend to everyone.,124,Unverified
+547,49,127,2024-04-14,3,Okay product. Shipping took longer than expected.,136,Verified Purchase
+548,49,180,2021-07-15,5,Outstanding quality for the price. Highly recommend to everyone.,54,Verified Purchase
+549,22,428,2021-11-17,5,Great quality and fast shipping. Would definitely buy again.,49,Unverified
+550,41,49,2021-12-13,5,Great quality and fast shipping. Would definitely buy again.,54,Verified Purchase
+551,22,44,2022-01-25,5,Incredible value. This has become my favorite purchase this year.,194,Verified Purchase
+552,33,484,2024-07-09,5,Great quality and fast shipping. Would definitely buy again.,25,Verified Purchase
+553,55,469,2022-12-29,5,Five stars! Cannot imagine my life without this product now.,53,Verified Purchase
+554,55,367,2024-09-08,4,Works perfectly. Easy setup and exactly what I needed.,60,Verified Purchase
+555,14,363,2024-07-18,5,Five stars! Cannot imagine my life without this product now.,157,Unverified
+556,51,91,2022-09-14,3,Okay product. Shipping took longer than expected.,205,Verified Purchase
+557,28,380,2023-10-12,5,Perfect product. Exactly as described. Very happy with purchase.,106,Verified Purchase
+558,30,52,2021-04-02,5,Five stars! Cannot imagine my life without this product now.,243,Verified Purchase
+559,51,100,2024-09-22,5,Absolutely love this product! Exceeded all my expectations.,147,Verified Purchase
+560,54,118,2023-02-16,5,Absolutely love this product! Exceeded all my expectations.,115,Verified Purchase
+561,53,439,2021-10-31,5,Great quality and fast shipping. Would definitely buy again.,208,Unverified
+562,53,472,2024-01-15,4,Outstanding quality for the price. Highly recommend to everyone.,74,Verified Purchase
+563,14,187,2022-06-20,3,Good overall but a bit overpriced for what you get.,153,Verified Purchase
+564,47,289,2023-11-30,5,Outstanding quality for the price. Highly recommend to everyone.,71,Unverified
+565,8,473,2021-07-01,5,Great quality and fast shipping. Would definitely buy again.,211,Verified Purchase
+566,15,43,2021-08-13,3,Okay product. Shipping took longer than expected.,65,Verified Purchase
+567,12,249,2024-09-23,5,Top notch quality. Fast delivery. Amazon delivered as promised.,77,Verified Purchase
+568,33,91,2022-04-19,4,Top notch quality. Fast delivery. Amazon delivered as promised.,22,Verified Purchase
+569,3,419,2023-07-27,4,Great quality and fast shipping. Would definitely buy again.,104,Verified Purchase
+570,54,115,2022-04-16,5,Top notch quality. Fast delivery. Amazon delivered as promised.,170,Verified Purchase
+571,43,160,2024-03-18,3,Good overall but a bit overpriced for what you get.,171,Verified Purchase
+573,47,317,2023-08-05,5,Perfect product. Exactly as described. Very happy with purchase.,152,Verified Purchase
+574,38,138,2023-10-18,3,Works as advertised. Nothing special but does the job.,36,Verified Purchase
+575,10,192,2024-01-08,5,Incredible value. This has become my favorite purchase this year.,232,Verified Purchase
+576,43,148,2021-06-30,3,Good overall but a bit overpriced for what you get.,205,Verified Purchase
+577,40,439,2021-06-05,5,Five stars! Cannot imagine my life without this product now.,200,Verified Purchase
+578,43,172,2023-06-27,5,Absolutely love this product! Exceeded all my expectations.,128,Verified Purchase
+580,46,400,2023-10-02,3,Average quality. Instructions could be clearer.,187,Unverified
+581,45,415,2023-12-15,4,Top notch quality. Fast delivery. Amazon delivered as promised.,103,Verified Purchase
+582,43,3,2021-10-23,6,Great quality and fast shipping. Would definitely buy again.,47,Verified Purchase
+583,2,228,2025-10-15,4,Outstanding quality for the price. Highly recommend to everyone.,1,Verified Purchase
+584,7,7,2024-07-14,5,Outstanding quality for the price. Highly recommend to everyone.,45,Verified Purchase
+585,9,287,2023-02-11,4,Absolutely love this product! Exceeded all my expectations.,128,Verified Purchase
+586,51,111,2023-01-16,5,Outstanding quality for the price. Highly recommend to everyone.,86,Verified Purchase
+587,44,361,2023-11-20,5,Top notch quality. Fast delivery. Amazon delivered as promised.,13,Verified Purchase
+588,15,428,2023-02-24,0,,100,Verified Purchase
+589,23,497,2021-12-20,5,Great quality and fast shipping. Would definitely buy again.,40,Verified Purchase
+590,48,104,2022-12-09,4,Great quality and fast shipping. Would definitely buy again.,35,Verified Purchase
+591,26,427,2023-02-11,5,Great quality and fast shipping. Would definitely buy again.,24,Verified Purchase
+592,45,248,2022-09-17,1,Stopped working after 2 weeks. Very disappointed.,163,Unverified
+593,39,366,2022-12-09,4,Five stars! Cannot imagine my life without this product now.,214,Verified Purchase
+594,53,154,2023-09-16,5,Perfect product. Exactly as described. Very happy with purchase.,35,Verified Purchase
+595,35,268,2021-04-21,5,Top notch quality. Fast delivery. Amazon delivered as promised.,223,Unverified
+596,1,220,2023-04-07,5,Outstanding quality for the price. Highly recommend to everyone.,195,Verified Purchase
+597,8,405,2021-12-06,4,Five stars! Cannot imagine my life without this product now.,210,Verified Purchase
+598,17,353,2024-02-04,2,Product looks nothing like the pictures. Misleading listing.,189,Verified Purchase
+599,48,263,2023-10-08,4,Works perfectly. Easy setup and exactly what I needed.,74,Verified Purchase
+600,18,127,2024-02-22,4,Outstanding quality for the price. Highly recommend to everyone.,209,Verified Purchase
+601,6,181,2024-03-16,5,,224,Verified Purchase
+602,11,268,2023-03-26,5,Perfect product. Exactly as described. Very happy with purchase.,181,Verified Purchase
+603,11,47,2021-08-01,2,Terrible quality. Complete waste of money. Avoid this seller.,126,Verified Purchase
+604,43,463,2022-07-01,5,Top notch quality. Fast delivery. Amazon delivered as promised.,228,Verified Purchase
+605,44,343,2021-10-03,5,Absolutely love this product! Exceeded all my expectations.,229,Verified Purchase
+606,23,219,2023-10-01,3,Good overall but a bit overpriced for what you get.,127,Verified Purchase
+607,51,116,2021-05-08,3,Decent product but packaging was damaged on arrival.,103,Verified Purchase
+608,11,380,2023-08-13,4,Outstanding quality for the price. Highly recommend to everyone.,159,Verified Purchase
+609,33,126,2022-01-10,5,Top notch quality. Fast delivery. Amazon delivered as promised.,32,Unverified
+611,5,246,2023-10-24,4,Outstanding quality for the price. Highly recommend to everyone.,239,Verified Purchase
+612,14,163,2022-08-15,4,Great quality and fast shipping. Would definitely buy again.,216,Verified Purchase
+613,31,476,2024-08-26,4,Five stars! Cannot imagine my life without this product now.,167,Unverified
+614,25,388,2021-06-18,5,Top notch quality. Fast delivery. Amazon delivered as promised.,213,Verified Purchase
+615,31,190,2023-05-06,5,Top notch quality. Fast delivery. Amazon delivered as promised.,49,Verified Purchase
+616,5,395,2021-06-01,5,Great quality and fast shipping. Would definitely buy again.,213,Verified Purchase
+617,45,141,2024-07-23,5,Incredible value. This has become my favorite purchase this year.,109,Verified Purchase
+618,13,348,2024-04-01,1,Terrible quality. Complete waste of money. Avoid this seller.,22,Unverified
+619,38,147,2023-06-06,3,Average quality. Instructions could be clearer.,116,Verified Purchase
+620,30,469,2021-06-21,5,Outstanding quality for the price. Highly recommend to everyone.,172,Verified Purchase
+621,40,471,2021-05-23,5,Perfect product. Exactly as described. Very happy with purchase.,32,Verified Purchase
+622,48,445,2021-09-02,4,Five stars! Cannot imagine my life without this product now.,154,Verified Purchase
+623,51,402,2024-03-30,4,Top notch quality. Fast delivery. Amazon delivered as promised.,205,Verified Purchase
+624,33,71,2021-07-14,5,Great quality and fast shipping. Would definitely buy again.,108,Verified Purchase
+625,38,219,2022-07-23,0,Works perfectly. Easy setup and exactly what I needed.,134,Verified Purchase
+626,20,241,2024-06-22,5,Perfect product. Exactly as described. Very happy with purchase.,136,Verified Purchase
+627,50,11,2024-09-03,5,Great quality and fast shipping. Would definitely buy again.,183,Verified Purchase
+628,47,388,2024-06-11,5,Absolutely love this product! Exceeded all my expectations.,88,Verified Purchase
+629,11,246,2023-12-12,5,Five stars! Cannot imagine my life without this product now.,234,Verified Purchase
+630,30,47,2024-03-01,2,Arrived broken. Seller refused to help. Zero stars if possible.,104,Verified Purchase
+631,46,303,2021-03-16,4,Outstanding quality for the price. Highly recommend to everyone.,238,Unverified
+632,17,149,2022-12-31,2,Stopped working after 2 weeks. Very disappointed.,87,Verified Purchase
+633,23,129,2023-01-14,5,Top notch quality. Fast delivery. Amazon delivered as promised.,145,Verified Purchase
+634,18,355,2021-03-27,3,Average quality. Instructions could be clearer.,184,Unverified
+635,5,209,2021-08-03,4,Perfect product. Exactly as described. Very happy with purchase.,236,Verified Purchase
+636,4,431,2021-11-29,5,Incredible value. This has become my favorite purchase this year.,191,Unverified
+637,12,221,2021-08-27,4,Works perfectly. Easy setup and exactly what I needed.,25,Unverified
+638,24,458,2023-12-09,3,Decent product but packaging was damaged on arrival.,164,Unverified
+639,38,145,2022-09-15,5,Incredible value. This has become my favorite purchase this year.,55,Unverified
+640,9,128,2022-10-04,3,Good overall but a bit overpriced for what you get.,39,Verified Purchase
+641,28,195,2022-04-10,4,Top notch quality. Fast delivery. Amazon delivered as promised.,70,Verified Purchase
+642,41,498,2022-12-05,5,Works perfectly. Easy setup and exactly what I needed.,145,Verified Purchase
+643,56,273,2021-07-09,4,Absolutely love this product! Exceeded all my expectations.,173,Verified Purchase
+644,41,83,2023-11-15,4,Five stars! Cannot imagine my life without this product now.,81,Verified Purchase
+646,26,466,2021-08-16,4,Perfect product. Exactly as described. Very happy with purchase.,94,Verified Purchase
+647,31,439,2023-07-13,5,Perfect product. Exactly as described. Very happy with purchase.,154,Verified Purchase
+648,41,404,2021-10-26,5,Perfect product. Exactly as described. Very happy with purchase.,5,Verified Purchase
+649,17,323,2024-04-02,5,Outstanding quality for the price. Highly recommend to everyone.,47,Unverified
+650,45,159,2024-08-14,5,Perfect product. Exactly as described. Very happy with purchase.,129,Verified Purchase
+651,6,233,2022-07-28,5,Works perfectly. Easy setup and exactly what I needed.,101,Unverified
+652,14,436,2024-05-17,3,Decent product but packaging was damaged on arrival.,133,Unverified
+653,12,381,2021-05-03,2,Stopped working after 2 weeks. Very disappointed.,35,Verified Purchase
+654,45,317,2021-03-30,5,Works perfectly. Easy setup and exactly what I needed.,246,Unverified
+655,24,15,2022-09-02,4,Great quality and fast shipping. Would definitely buy again.,126,Verified Purchase
+656,32,105,2024-08-06,5,Top notch quality. Fast delivery. Amazon delivered as promised.,214,Unverified
+657,6,489,2022-11-20,5,Great quality and fast shipping. Would definitely buy again.,235,Unverified
+658,38,108,2024-08-27,3,Decent product but packaging was damaged on arrival.,177,Verified Purchase
+659,45,322,2024-07-29,5,Outstanding quality for the price. Highly recommend to everyone.,104,Unverified
+660,20,50,2022-03-25,2,,64,Verified Purchase
+661,9,423,2022-08-25,3,Good overall but a bit overpriced for what you get.,0,Verified Purchase
+662,32,63,2022-05-04,4,Incredible value. This has become my favorite purchase this year.,231,Verified Purchase
+663,28,54,2024-02-10,4,Incredible value. This has become my favorite purchase this year.,180,Verified Purchase
+664,18,240,2021-10-17,1,Product looks nothing like the pictures. Misleading listing.,85,Verified Purchase
+665,8,27,2023-09-16,3,Works as advertised. Nothing special but does the job.,42,Unverified
+666,44,287,2024-07-17,3,Average quality. Instructions could be clearer.,33,Verified Purchase
+667,34,319,2025-09-10,5,Perfect product. Exactly as described. Very happy with purchase.,165,Verified Purchase
+668,56,365,2024-01-14,4,Top notch quality. Fast delivery. Amazon delivered as promised.,45,Unverified
+669,21,292,2024-06-16,4,Five stars! Cannot imagine my life without this product now.,133,Verified Purchase
+670,45,364,2021-12-07,5,Top notch quality. Fast delivery. Amazon delivered as promised.,112,Verified Purchase
+671,34,482,2022-12-28,5,Great quality and fast shipping. Would definitely buy again.,193,Verified Purchase
+672,36,433,2021-03-31,4,Five stars! Cannot imagine my life without this product now.,151,Verified Purchase
+673,42,326,2024-03-24,3,Average quality. Instructions could be clearer.,181,Verified Purchase
+674,35,12,2021-09-12,3,Average quality. Instructions could be clearer.,135,Unverified
+675,22,24,2022-04-22,5,Top notch quality. Fast delivery. Amazon delivered as promised.,86,Verified Purchase
+676,52,255,2023-01-25,3,Works as advertised. Nothing special but does the job.,163,Verified Purchase
+677,20,316,2023-06-03,4,Top notch quality. Fast delivery. Amazon delivered as promised.,93,Verified Purchase
+678,56,224,2021-03-10,5,Perfect product. Exactly as described. Very happy with purchase.,126,Verified Purchase
+679,23,496,2021-06-27,5,Works perfectly. Easy setup and exactly what I needed.,42,Verified Purchase
+680,9,130,2024-09-11,5,Top notch quality. Fast delivery. Amazon delivered as promised.,40,Verified Purchase
+681,1,186,2023-12-30,4,Perfect product. Exactly as described. Very happy with purchase.,226,Verified Purchase
+682,15,4,2024-06-25,5,Five stars! Cannot imagine my life without this product now.,120,Verified Purchase
+683,37,414,2021-08-29,5,Works perfectly. Easy setup and exactly what I needed.,215,Verified Purchase
+684,35,62,2022-10-12,5,Outstanding quality for the price. Highly recommend to everyone.,226,Unverified
+685,42,450,2023-07-27,5,Top notch quality. Fast delivery. Amazon delivered as promised.,11,Unverified
+686,38,60,2022-07-09,5,,28,Verified Purchase
+687,50,490,2022-06-17,5,Five stars! Cannot imagine my life without this product now.,81,Unverified
+690,32,395,2022-04-21,5,Great quality and fast shipping. Would definitely buy again.,10,Verified Purchase
+691,48,17,2023-12-02,3,Okay product. Shipping took longer than expected.,159,Verified Purchase
+692,4,51,2023-07-25,4,Top notch quality. Fast delivery. Amazon delivered as promised.,168,Verified Purchase
+693,53,58,2024-08-04,3,Good overall but a bit overpriced for what you get.,85,Verified Purchase
+694,12,313,2022-07-25,5,Perfect product. Exactly as described. Very happy with purchase.,161,Verified Purchase
+695,11,492,2022-02-23,5,Absolutely love this product! Exceeded all my expectations.,193,Verified Purchase
+696,44,499,2021-08-30,3,Decent product but packaging was damaged on arrival.,223,Verified Purchase
+697,50,442,2021-10-23,4,,113,Verified Purchase
+698,33,354,2022-05-27,3,Good overall but a bit overpriced for what you get.,88,Verified Purchase
+699,7,256,2022-03-03,4,Perfect product. Exactly as described. Very happy with purchase.,176,Verified Purchase
+701,55,157,2021-10-20,4,Incredible value. This has become my favorite purchase this year.,48,Unverified
+702,5,274,2024-06-25,1,Product looks nothing like the pictures. Misleading listing.,152,Verified Purchase
+703,44,331,2023-11-28,5,Top notch quality. Fast delivery. Amazon delivered as promised.,147,Verified Purchase
+704,13,96,2021-03-30,4,Incredible value. This has become my favorite purchase this year.,226,Verified Purchase
+705,33,26,2022-08-20,5,Five stars! Cannot imagine my life without this product now.,168,Verified Purchase
+707,40,41,2021-12-06,4,Outstanding quality for the price. Highly recommend to everyone.,84,Unverified
+708,30,371,2022-06-19,4,Absolutely love this product! Exceeded all my expectations.,189,Unverified
+709,2,176,2023-04-02,5,Works perfectly. Easy setup and exactly what I needed.,15,Verified Purchase
+710,49,218,2023-11-16,3,Good overall but a bit overpriced for what you get.,201,Verified Purchase
+711,1,151,2022-08-04,5,Perfect product. Exactly as described. Very happy with purchase.,201,Verified Purchase
+712,31,290,2021-07-06,5,Absolutely love this product! Exceeded all my expectations.,104,Verified Purchase
+713,28,235,2022-04-16,5,Incredible value. This has become my favorite purchase this year.,170,Verified Purchase
+714,47,13,2021-10-28,5,Incredible value. This has become my favorite purchase this year.,87,Verified Purchase
+715,12,452,2021-10-12,5,Top notch quality. Fast delivery. Amazon delivered as promised.,0,Verified Purchase
+716,53,44,2023-11-13,5,Works perfectly. Easy setup and exactly what I needed.,128,Verified Purchase
+717,48,467,2021-08-07,4,Outstanding quality for the price. Highly recommend to everyone.,171,Verified Purchase
+718,24,89,2024-03-30,3,Okay product. Shipping took longer than expected.,176,Verified Purchase
+719,53,266,2023-11-15,4,Five stars! Cannot imagine my life without this product now.,78,Verified Purchase
+720,26,494,2022-05-01,3,Good overall but a bit overpriced for what you get.,176,Verified Purchase
+721,26,232,2023-11-04,5,Great quality and fast shipping. Would definitely buy again.,180,Verified Purchase
+722,9,417,2023-05-24,4,Great quality and fast shipping. Would definitely buy again.,53,Verified Purchase
+723,48,435,2023-12-09,5,Five stars! Cannot imagine my life without this product now.,118,Verified Purchase
+724,15,195,2022-02-24,2,Arrived broken. Seller refused to help. Zero stars if possible.,19,Verified Purchase
+725,12,127,2021-06-26,5,Great quality and fast shipping. Would definitely buy again.,115,Verified Purchase
+726,55,455,2023-04-18,2,Product looks nothing like the pictures. Misleading listing.,200,Verified Purchase
+727,29,264,2024-08-09,1,Product looks nothing like the pictures. Misleading listing.,212,Unverified
+728,52,114,2023-08-09,5,Top notch quality. Fast delivery. Amazon delivered as promised.,190,Verified Purchase
+729,2,53,2023-09-23,5,Incredible value. This has become my favorite purchase this year.,38,Verified Purchase
+730,40,243,2022-11-23,1,Product looks nothing like the pictures. Misleading listing.,7,Verified Purchase
+731,23,487,2024-05-17,2,Stopped working after 2 weeks. Very disappointed.,31,Verified Purchase
+732,23,31,2022-03-09,4,Outstanding quality for the price. Highly recommend to everyone.,216,Verified Purchase
+734,45,338,2023-05-20,4,Incredible value. This has become my favorite purchase this year.,214,Verified Purchase
+735,36,366,2022-12-04,5,Incredible value. This has become my favorite purchase this year.,76,Unverified
+736,5,263,2022-05-30,3,,236,Verified Purchase
+737,4,499,2024-08-11,5,Works perfectly. Easy setup and exactly what I needed.,219,Unverified
+739,14,141,2021-08-08,5,Works perfectly. Easy setup and exactly what I needed.,184,Verified Purchase
+740,51,133,2024-01-13,3,Works as advertised. Nothing special but does the job.,225,Verified Purchase
+741,6,282,2023-03-19,5,Works perfectly. Easy setup and exactly what I needed.,233,Unverified
+742,9,164,2023-09-07,4,Absolutely love this product! Exceeded all my expectations.,182,Unverified
+743,5,344,2024-06-16,5,Absolutely love this product! Exceeded all my expectations.,87,Unverified
+744,55,310,2023-10-17,4,Top notch quality. Fast delivery. Amazon delivered as promised.,39,Verified Purchase
+745,37,470,2023-12-19,5,Works perfectly. Easy setup and exactly what I needed.,229,Verified Purchase
+746,21,483,2023-03-13,4,Five stars! Cannot imagine my life without this product now.,14,Verified Purchase
+747,44,365,2024-07-08,5,Top notch quality. Fast delivery. Amazon delivered as promised.,137,Verified Purchase
+748,32,487,2021-05-16,4,Five stars! Cannot imagine my life without this product now.,80,Verified Purchase
+749,10,493,2023-09-28,5,Outstanding quality for the price. Highly recommend to everyone.,151,Verified Purchase
+751,15,260,2024-07-27,4,Great quality and fast shipping. Would definitely buy again.,38,Verified Purchase
+752,7,10,2021-10-12,5,Absolutely love this product! Exceeded all my expectations.,131,Verified Purchase
+753,24,329,2021-12-17,1,Product looks nothing like the pictures. Misleading listing.,63,Verified Purchase
+754,18,17,2022-08-01,5,Absolutely love this product! Exceeded all my expectations.,113,Verified Purchase
+755,4,235,2022-09-30,5,Five stars! Cannot imagine my life without this product now.,121,Unverified
+756,42,133,2022-07-21,5,Great quality and fast shipping. Would definitely buy again.,191,Unverified
+757,21,62,2024-05-29,5,Perfect product. Exactly as described. Very happy with purchase.,167,Unverified
+758,1,396,2022-08-04,5,Incredible value. This has become my favorite purchase this year.,122,Verified Purchase
+759,51,410,2023-04-08,3,Okay product. Shipping took longer than expected.,18,Unverified
+760,34,462,2023-08-31,5,Incredible value. This has become my favorite purchase this year.,30,Verified Purchase
+761,34,151,2023-12-17,4,Five stars! Cannot imagine my life without this product now.,114,Verified Purchase
+762,26,369,2021-10-26,4,,112,Unverified
+763,52,482,2022-07-17,5,Absolutely love this product! Exceeded all my expectations.,217,Verified Purchase
+764,32,116,2021-03-21,4,Perfect product. Exactly as described. Very happy with purchase.,65,Verified Purchase
+765,47,250,2022-12-03,5,Five stars! Cannot imagine my life without this product now.,97,Verified Purchase
+766,52,154,2021-12-24,2,Arrived broken. Seller refused to help. Zero stars if possible.,210,Verified Purchase
+767,29,19,2023-12-09,3,Average quality. Instructions could be clearer.,41,Verified Purchase
+768,2,82,2021-03-01,5,Absolutely love this product! Exceeded all my expectations.,73,Verified Purchase
+769,14,195,2021-08-31,5,Incredible value. This has become my favorite purchase this year.,75,Verified Purchase
+770,28,267,2023-01-28,5,Outstanding quality for the price. Highly recommend to everyone.,174,Verified Purchase
+771,22,473,2021-12-12,5,Works perfectly. Easy setup and exactly what I needed.,230,Verified Purchase
+772,12,35,2023-11-11,5,Five stars! Cannot imagine my life without this product now.,139,Verified Purchase
+773,44,219,2025-12-02,4,Five stars! Cannot imagine my life without this product now.,169,Verified Purchase
+774,55,5,2024-04-23,5,Incredible value. This has become my favorite purchase this year.,93,Verified Purchase
+775,31,361,2022-09-28,5,Works perfectly. Easy setup and exactly what I needed.,43,Verified Purchase
+776,13,378,2022-11-01,4,Incredible value. This has become my favorite purchase this year.,24,Verified Purchase
+777,9,114,2023-06-22,3,Okay product. Shipping took longer than expected.,65,Verified Purchase
+778,54,315,2021-08-17,3,Works as advertised. Nothing special but does the job.,88,Unverified
+779,44,138,2022-04-10,3,Decent product but packaging was damaged on arrival.,240,Verified Purchase
+780,37,356,2021-12-16,5,Absolutely love this product! Exceeded all my expectations.,15,Verified Purchase
+781,39,187,2022-09-17,1,Product looks nothing like the pictures. Misleading listing.,234,Verified Purchase
+782,48,47,2024-09-24,5,Incredible value. This has become my favorite purchase this year.,189,Verified Purchase
+783,35,224,2021-07-05,5,Incredible value. This has become my favorite purchase this year.,33,Verified Purchase
+784,34,140,2021-06-27,4,Top notch quality. Fast delivery. Amazon delivered as promised.,74,Verified Purchase
+785,29,281,2022-02-26,4,Outstanding quality for the price. Highly recommend to everyone.,0,Unverified
+786,55,381,2022-04-13,2,Product looks nothing like the pictures. Misleading listing.,221,Unverified
+787,51,282,2022-01-01,5,Absolutely love this product! Exceeded all my expectations.,132,Verified Purchase
+788,53,147,2023-08-07,5,Great quality and fast shipping. Would definitely buy again.,92,Verified Purchase
+789,34,465,2023-08-22,4,Five stars! Cannot imagine my life without this product now.,22,Verified Purchase
+790,21,142,2023-11-27,0,,174,Unverified
+791,26,87,2022-03-06,4,Works perfectly. Easy setup and exactly what I needed.,26,Verified Purchase
+792,50,463,2021-12-27,4,Five stars! Cannot imagine my life without this product now.,54,Verified Purchase
+793,21,3,2022-03-09,5,Top notch quality. Fast delivery. Amazon delivered as promised.,51,Verified Purchase
+794,30,271,2021-10-02,4,Top notch quality. Fast delivery. Amazon delivered as promised.,145,Verified Purchase
+795,36,204,2022-11-20,5,Five stars! Cannot imagine my life without this product now.,174,Unverified
+796,46,388,2022-04-06,5,Perfect product. Exactly as described. Very happy with purchase.,125,Unverified
+797,43,18,2021-12-03,4,Great quality and fast shipping. Would definitely buy again.,246,Verified Purchase
+798,11,188,2026-10-12,5,Great quality and fast shipping. Would definitely buy again.,68,Verified Purchase
+799,38,359,2021-05-24,6,Good overall but a bit overpriced for what you get.,225,Verified Purchase
+800,13,83,2021-07-04,5,Five stars! Cannot imagine my life without this product now.,195,Unverified
+801,41,434,2021-07-05,5,Great quality and fast shipping. Would definitely buy again.,21,Verified Purchase
+802,48,73,2021-11-06,4,Five stars! Cannot imagine my life without this product now.,46,Verified Purchase
+803,56,116,2024-03-05,4,Perfect product. Exactly as described. Very happy with purchase.,18,Unverified
+804,4,343,2023-02-14,5,Absolutely love this product! Exceeded all my expectations.,2,Verified Purchase
+805,31,422,2024-04-28,5,Works perfectly. Easy setup and exactly what I needed.,142,Unverified
+806,37,232,2021-06-14,4,Outstanding quality for the price. Highly recommend to everyone.,98,Unverified
+807,30,306,2021-07-03,3,Average quality. Instructions could be clearer.,25,Verified Purchase
+808,30,458,2023-04-17,5,Perfect product. Exactly as described. Very happy with purchase.,116,Verified Purchase
+809,7,378,2024-05-22,4,Top notch quality. Fast delivery. Amazon delivered as promised.,100,Unverified
+810,56,232,2022-05-23,5,Incredible value. This has become my favorite purchase this year.,90,Unverified
+811,34,344,2021-12-06,5,Works perfectly. Easy setup and exactly what I needed.,235,Verified Purchase
+812,36,390,2023-01-14,5,Great quality and fast shipping. Would definitely buy again.,10,Verified Purchase
+813,5,414,2024-04-13,4,Works perfectly. Easy setup and exactly what I needed.,132,Verified Purchase
+814,15,190,2023-06-05,4,Top notch quality. Fast delivery. Amazon delivered as promised.,14,Verified Purchase
+815,12,84,2022-03-05,4,Outstanding quality for the price. Highly recommend to everyone.,250,Verified Purchase
+816,29,394,2022-07-18,3,Good overall but a bit overpriced for what you get.,186,Verified Purchase
+817,4,500,2023-05-30,5,Outstanding quality for the price. Highly recommend to everyone.,159,Unverified
+818,51,51,2022-07-15,5,Outstanding quality for the price. Highly recommend to everyone.,64,Verified Purchase
+819,49,356,2026-05-18,5,Works perfectly. Easy setup and exactly what I needed.,9,Verified Purchase
+820,37,45,2021-09-20,4,Absolutely love this product! Exceeded all my expectations.,142,Verified Purchase
+821,15,243,2024-05-15,5,Perfect product. Exactly as described. Very happy with purchase.,227,Verified Purchase
+822,29,131,2022-03-10,5,Top notch quality. Fast delivery. Amazon delivered as promised.,136,Verified Purchase
+823,8,436,2021-06-18,3,Good overall but a bit overpriced for what you get.,56,Verified Purchase
+824,18,490,2021-05-23,4,Great quality and fast shipping. Would definitely buy again.,242,Unverified
+825,16,89,2023-12-02,4,Outstanding quality for the price. Highly recommend to everyone.,93,Verified Purchase
+826,21,340,2023-02-01,5,Five stars! Cannot imagine my life without this product now.,148,Unverified
+827,16,82,2022-06-24,5,Top notch quality. Fast delivery. Amazon delivered as promised.,116,Verified Purchase
+828,41,80,2022-01-12,4,Great quality and fast shipping. Would definitely buy again.,53,Unverified
+829,55,248,2023-10-12,4,Top notch quality. Fast delivery. Amazon delivered as promised.,1,Verified Purchase
+830,32,117,2023-01-16,5,Great quality and fast shipping. Would definitely buy again.,38,Verified Purchase
+831,31,434,2024-09-05,5,Five stars! Cannot imagine my life without this product now.,17,Verified Purchase
+832,31,465,2022-08-14,5,Incredible value. This has become my favorite purchase this year.,189,Verified Purchase
+833,14,411,2022-09-15,5,Outstanding quality for the price. Highly recommend to everyone.,177,Unverified
+834,21,145,2022-03-21,3,Decent product but packaging was damaged on arrival.,98,Unverified
+835,55,478,2023-07-20,5,Top notch quality. Fast delivery. Amazon delivered as promised.,191,Unverified
+836,37,316,2021-11-13,5,Top notch quality. Fast delivery. Amazon delivered as promised.,199,Verified Purchase
+837,42,318,2021-05-12,1,Terrible quality. Complete waste of money. Avoid this seller.,113,Verified Purchase
+838,18,26,2022-08-24,5,Perfect product. Exactly as described. Very happy with purchase.,234,Unverified
+839,55,479,2023-08-08,5,Absolutely love this product! Exceeded all my expectations.,64,Verified Purchase
+840,25,136,2023-04-24,3,Average quality. Instructions could be clearer.,51,Verified Purchase
+841,1,105,2022-04-05,3,Okay product. Shipping took longer than expected.,118,Unverified
+842,25,228,2023-08-19,5,Outstanding quality for the price. Highly recommend to everyone.,23,Verified Purchase
+843,38,251,2024-01-10,4,Incredible value. This has become my favorite purchase this year.,170,Verified Purchase
+844,38,282,2023-12-30,5,Top notch quality. Fast delivery. Amazon delivered as promised.,52,Verified Purchase
+845,21,140,2022-06-15,4,Incredible value. This has become my favorite purchase this year.,211,Verified Purchase
+846,21,484,2023-03-07,5,Absolutely love this product! Exceeded all my expectations.,193,Unverified
+847,54,359,2023-12-30,4,Five stars! Cannot imagine my life without this product now.,136,Unverified
+848,50,116,2023-08-02,1,,54,Verified Purchase
+849,36,482,2022-06-26,5,Incredible value. This has become my favorite purchase this year.,234,Unverified
+850,13,44,2024-02-11,2,Stopped working after 2 weeks. Very disappointed.,50,Verified Purchase
+851,26,200,2023-02-09,5,Five stars! Cannot imagine my life without this product now.,8,Verified Purchase
+852,34,22,2021-03-23,4,Incredible value. This has become my favorite purchase this year.,31,Verified Purchase
+853,56,63,2024-04-17,5,Outstanding quality for the price. Highly recommend to everyone.,75,Unverified
+854,21,359,2021-10-31,4,Incredible value. This has become my favorite purchase this year.,92,Verified Purchase
+855,36,391,2024-05-31,5,Five stars! Cannot imagine my life without this product now.,235,Unverified
+856,41,485,2024-07-29,5,Absolutely love this product! Exceeded all my expectations.,138,Unverified
+857,52,465,2021-07-22,5,Great quality and fast shipping. Would definitely buy again.,59,Verified Purchase
+858,47,320,2023-12-19,5,Perfect product. Exactly as described. Very happy with purchase.,148,Verified Purchase
+859,18,81,2022-10-09,1,Product looks nothing like the pictures. Misleading listing.,31,Unverified
+860,53,160,2022-10-31,4,Five stars! Cannot imagine my life without this product now.,8,Unverified
+861,47,410,2026-03-15,5,Outstanding quality for the price. Highly recommend to everyone.,231,Verified Purchase
+862,25,119,2025-09-15,3,Okay product. Shipping took longer than expected.,103,Verified Purchase
+863,25,39,2024-08-15,5,Great quality and fast shipping. Would definitely buy again.,9,Unverified
+864,56,418,2023-10-10,4,Outstanding quality for the price. Highly recommend to everyone.,87,Verified Purchase
+865,53,331,2022-04-13,5,Perfect product. Exactly as described. Very happy with purchase.,104,Verified Purchase
+866,46,199,2023-01-15,4,Works perfectly. Easy setup and exactly what I needed.,57,Verified Purchase
+867,42,398,2023-07-05,3,Okay product. Shipping took longer than expected.,52,Verified Purchase
+868,21,498,2024-04-27,4,Perfect product. Exactly as described. Very happy with purchase.,218,Verified Purchase
+869,22,407,2021-11-12,5,Perfect product. Exactly as described. Very happy with purchase.,219,Verified Purchase
+870,32,218,2023-05-20,4,Absolutely love this product! Exceeded all my expectations.,104,Verified Purchase
+871,20,182,2024-09-08,5,Incredible value. This has become my favorite purchase this year.,17,Unverified
+872,28,153,2022-02-04,5,Outstanding quality for the price. Highly recommend to everyone.,228,Unverified
+874,3,392,2023-07-05,5,Absolutely love this product! Exceeded all my expectations.,54,Verified Purchase
+875,48,315,2023-10-02,3,Average quality. Instructions could be clearer.,205,Verified Purchase
+876,34,82,2021-06-05,5,Top notch quality. Fast delivery. Amazon delivered as promised.,246,Verified Purchase
+877,34,461,2024-01-27,5,Outstanding quality for the price. Highly recommend to everyone.,9,Verified Purchase
+878,23,420,2024-02-05,1,Product looks nothing like the pictures. Misleading listing.,136,Verified Purchase
+879,42,262,2023-07-29,5,Top notch quality. Fast delivery. Amazon delivered as promised.,107,Verified Purchase
+880,41,353,2022-05-03,5,Five stars! Cannot imagine my life without this product now.,169,Verified Purchase
+881,49,96,2024-03-21,5,Five stars! Cannot imagine my life without this product now.,199,Verified Purchase
+882,15,246,2023-09-24,4,,199,Verified Purchase
+883,53,37,2021-05-15,5,Outstanding quality for the price. Highly recommend to everyone.,215,Unverified
+884,3,32,2023-04-07,5,Works perfectly. Easy setup and exactly what I needed.,166,Verified Purchase
+885,52,350,2023-02-15,4,Five stars! Cannot imagine my life without this product now.,146,Verified Purchase
+886,42,391,2021-04-14,5,Great quality and fast shipping. Would definitely buy again.,197,Verified Purchase
+887,22,497,2021-05-31,5,Perfect product. Exactly as described. Very happy with purchase.,223,Unverified
+888,37,466,2021-05-12,5,Five stars! Cannot imagine my life without this product now.,114,Unverified
+889,32,495,2024-04-19,3,Average quality. Instructions could be clearer.,112,Verified Purchase
+890,18,52,2021-04-10,1,Stopped working after 2 weeks. Very disappointed.,39,Verified Purchase
+891,47,411,2022-04-23,5,Outstanding quality for the price. Highly recommend to everyone.,66,Verified Purchase
+892,41,129,2022-05-09,3,Works as advertised. Nothing special but does the job.,39,Verified Purchase
+893,1,218,2022-10-22,4,Outstanding quality for the price. Highly recommend to everyone.,76,Unverified
+894,47,493,2024-07-26,5,Works perfectly. Easy setup and exactly what I needed.,114,Verified Purchase
+895,12,466,2024-01-27,4,Outstanding quality for the price. Highly recommend to everyone.,203,Verified Purchase
+896,40,179,2021-11-07,3,Works as advertised. Nothing special but does the job.,135,Unverified
+897,35,337,2024-07-26,4,Five stars! Cannot imagine my life without this product now.,67,Verified Purchase
+898,55,318,2021-03-20,5,Great quality and fast shipping. Would definitely buy again.,97,Verified Purchase
+899,54,33,2021-04-21,5,Outstanding quality for the price. Highly recommend to everyone.,225,Verified Purchase
+900,1,266,2022-03-18,5,Works perfectly. Easy setup and exactly what I needed.,22,Verified Purchase
+901,20,41,2023-06-17,4,Incredible value. This has become my favorite purchase this year.,220,Verified Purchase
+902,31,258,2024-02-08,4,Great quality and fast shipping. Would definitely buy again.,186,Unverified
+904,25,416,2022-06-05,4,Works perfectly. Easy setup and exactly what I needed.,51,Verified Purchase
+905,50,388,2021-08-17,5,Incredible value. This has become my favorite purchase this year.,15,Verified Purchase
+906,54,167,2022-04-14,4,Absolutely love this product! Exceeded all my expectations.,217,Unverified
+907,56,51,2022-05-10,2,Product looks nothing like the pictures. Misleading listing.,105,Verified Purchase
+908,37,339,2021-11-17,5,Perfect product. Exactly as described. Very happy with purchase.,154,Verified Purchase
+909,3,227,2023-03-30,2,Arrived broken. Seller refused to help. Zero stars if possible.,163,Unverified
+910,20,351,2021-11-07,4,Great quality and fast shipping. Would definitely buy again.,172,Verified Purchase
+911,44,171,2024-07-11,4,Outstanding quality for the price. Highly recommend to everyone.,195,Verified Purchase
+912,53,45,2023-06-01,4,Five stars! Cannot imagine my life without this product now.,77,Verified Purchase
+913,13,314,2023-10-03,5,Top notch quality. Fast delivery. Amazon delivered as promised.,242,Verified Purchase
+914,33,291,2023-11-25,5,Incredible value. This has become my favorite purchase this year.,247,Verified Purchase
+915,3,257,2022-11-01,5,Great quality and fast shipping. Would definitely buy again.,167,Verified Purchase
+916,7,462,2024-07-23,1,Arrived broken. Seller refused to help. Zero stars if possible.,58,Verified Purchase
+917,34,184,2024-09-06,4,Top notch quality. Fast delivery. Amazon delivered as promised.,22,Verified Purchase
+918,6,124,2022-10-02,5,Great quality and fast shipping. Would definitely buy again.,26,Verified Purchase
+919,41,359,2023-08-04,4,Perfect product. Exactly as described. Very happy with purchase.,193,Verified Purchase
+920,8,267,2024-06-20,5,Absolutely love this product! Exceeded all my expectations.,69,Unverified
+921,45,409,2023-10-26,4,Five stars! Cannot imagine my life without this product now.,115,Verified Purchase
+922,36,331,2023-02-24,5,Perfect product. Exactly as described. Very happy with purchase.,175,Unverified
+923,1,484,2022-09-26,5,Incredible value. This has become my favorite purchase this year.,217,Unverified
+924,30,325,2021-07-16,4,Five stars! Cannot imagine my life without this product now.,172,Verified Purchase
+925,1,201,2021-03-10,5,,129,Verified Purchase
+926,38,217,2022-04-30,5,Incredible value. This has become my favorite purchase this year.,216,Verified Purchase
+927,33,249,2024-03-26,6,Five stars! Cannot imagine my life without this product now.,162,Verified Purchase
+928,52,131,2023-06-23,5,Works perfectly. Easy setup and exactly what I needed.,97,Unverified
+929,40,336,2022-08-31,4,Works perfectly. Easy setup and exactly what I needed.,70,Verified Purchase
+930,14,299,2024-06-15,5,Works perfectly. Easy setup and exactly what I needed.,37,Unverified
+931,17,108,2022-08-09,4,Perfect product. Exactly as described. Very happy with purchase.,194,Unverified
+932,8,417,2022-06-30,5,Absolutely love this product! Exceeded all my expectations.,32,Verified Purchase
+933,28,220,2022-01-11,5,Perfect product. Exactly as described. Very happy with purchase.,208,Verified Purchase
+934,5,497,2023-04-20,4,Five stars! Cannot imagine my life without this product now.,109,Verified Purchase
+935,21,224,2021-07-15,1,Arrived broken. Seller refused to help. Zero stars if possible.,107,Verified Purchase
+936,28,308,2021-12-27,4,Outstanding quality for the price. Highly recommend to everyone.,218,Unverified
+937,47,248,2023-04-08,5,Five stars! Cannot imagine my life without this product now.,221,Verified Purchase
+938,51,2,2023-12-27,4,Outstanding quality for the price. Highly recommend to everyone.,94,Unverified
+939,39,420,2024-04-03,5,Outstanding quality for the price. Highly recommend to everyone.,72,Verified Purchase
+940,18,100,2022-02-03,5,Absolutely love this product! Exceeded all my expectations.,79,Verified Purchase
+941,15,431,2024-02-05,5,Incredible value. This has become my favorite purchase this year.,84,Verified Purchase
+942,29,247,2024-01-22,5,Outstanding quality for the price. Highly recommend to everyone.,179,Unverified
+944,11,212,2023-06-30,5,Top notch quality. Fast delivery. Amazon delivered as promised.,163,Unverified
+945,7,422,2023-08-26,4,Five stars! Cannot imagine my life without this product now.,177,Verified Purchase
+946,13,173,2023-06-19,5,Absolutely love this product! Exceeded all my expectations.,125,Verified Purchase
+947,52,179,2021-06-09,2,Arrived broken. Seller refused to help. Zero stars if possible.,93,Unverified
+948,34,486,2024-08-14,4,Great quality and fast shipping. Would definitely buy again.,103,Verified Purchase
+949,37,460,2021-12-14,5,Absolutely love this product! Exceeded all my expectations.,101,Verified Purchase
+950,8,493,2023-02-14,4,Incredible value. This has become my favorite purchase this year.,43,Unverified
+951,15,144,2023-10-25,5,Works perfectly. Easy setup and exactly what I needed.,101,Verified Purchase
+952,6,346,2023-12-04,4,Perfect product. Exactly as described. Very happy with purchase.,133,Verified Purchase
+953,24,406,2023-10-31,5,Works perfectly. Easy setup and exactly what I needed.,185,Unverified
+954,4,36,2022-08-14,4,Top notch quality. Fast delivery. Amazon delivered as promised.,72,Unverified
+955,54,290,2022-12-14,5,Five stars! Cannot imagine my life without this product now.,45,Unverified
+956,45,224,2023-08-11,4,Great quality and fast shipping. Would definitely buy again.,3,Verified Purchase
+957,40,27,2023-09-25,5,Works perfectly. Easy setup and exactly what I needed.,171,Verified Purchase
+958,34,283,2026-05-05,5,Absolutely love this product! Exceeded all my expectations.,102,Verified Purchase
+959,44,409,2024-09-05,5,Works perfectly. Easy setup and exactly what I needed.,207,Verified Purchase
+960,32,429,2024-02-05,4,Great quality and fast shipping. Would definitely buy again.,223,Verified Purchase
+961,49,409,2023-11-26,5,Incredible value. This has become my favorite purchase this year.,21,Verified Purchase
+963,25,135,2021-06-16,3,Good overall but a bit overpriced for what you get.,162,Verified Purchase
+964,51,34,2022-10-03,5,Perfect product. Exactly as described. Very happy with purchase.,133,Verified Purchase
+965,28,495,2024-02-15,5,Top notch quality. Fast delivery. Amazon delivered as promised.,100,Verified Purchase
+966,3,230,2023-04-18,4,Works perfectly. Easy setup and exactly what I needed.,171,Verified Purchase
+967,7,405,2024-03-19,5,Works perfectly. Easy setup and exactly what I needed.,235,Unverified
+968,11,33,2024-01-01,5,Absolutely love this product! Exceeded all my expectations.,193,Unverified
+969,3,88,2021-03-14,5,Top notch quality. Fast delivery. Amazon delivered as promised.,181,Unverified
+970,4,478,2022-08-08,5,Absolutely love this product! Exceeded all my expectations.,153,Unverified
+971,23,429,2023-09-10,5,Absolutely love this product! Exceeded all my expectations.,24,Unverified
+972,33,257,2024-09-04,5,Perfect product. Exactly as described. Very happy with purchase.,131,Verified Purchase
+973,52,338,2022-12-09,5,,47,Unverified
+974,49,165,2021-12-16,5,Incredible value. This has become my favorite purchase this year.,152,Verified Purchase
+975,29,282,2022-02-13,3,Works as advertised. Nothing special but does the job.,12,Verified Purchase
+976,34,246,2022-05-08,4,Incredible value. This has become my favorite purchase this year.,119,Verified Purchase
+977,30,176,2022-04-22,5,Works perfectly. Easy setup and exactly what I needed.,45,Verified Purchase
+978,53,281,2022-03-17,4,Absolutely love this product! Exceeded all my expectations.,141,Verified Purchase
+979,22,45,2023-07-07,5,Perfect product. Exactly as described. Very happy with purchase.,166,Verified Purchase
+980,48,344,2023-08-29,5,Top notch quality. Fast delivery. Amazon delivered as promised.,209,Verified Purchase
+981,54,444,2021-06-10,2,Product looks nothing like the pictures. Misleading listing.,42,Verified Purchase
+982,43,250,2024-09-08,4,Great quality and fast shipping. Would definitely buy again.,218,Verified Purchase
+983,48,273,2024-08-07,5,Incredible value. This has become my favorite purchase this year.,147,Verified Purchase
+984,5,313,2023-05-19,5,Perfect product. Exactly as described. Very happy with purchase.,15,Unverified
+985,18,358,2024-08-05,4,Five stars! Cannot imagine my life without this product now.,221,Verified Purchase
+986,14,76,2022-05-25,5,Works perfectly. Easy setup and exactly what I needed.,4,Verified Purchase
+987,7,395,2023-03-22,5,Top notch quality. Fast delivery. Amazon delivered as promised.,21,Verified Purchase
+988,12,472,2021-05-25,5,Outstanding quality for the price. Highly recommend to everyone.,43,Verified Purchase
+989,25,216,2022-02-16,4,Works perfectly. Easy setup and exactly what I needed.,216,Verified Purchase
+990,21,488,2023-09-20,5,Outstanding quality for the price. Highly recommend to everyone.,122,Verified Purchase
+991,56,201,2021-11-30,5,Five stars! Cannot imagine my life without this product now.,52,Verified Purchase
+992,52,477,2022-09-03,4,Five stars! Cannot imagine my life without this product now.,155,Verified Purchase
+993,30,494,2023-05-09,5,Outstanding quality for the price. Highly recommend to everyone.,96,Verified Purchase
+995,34,21,2022-06-13,5,Absolutely love this product! Exceeded all my expectations.,39,Verified Purchase
+996,42,121,2023-03-23,3,Works as advertised. Nothing special but does the job.,192,Verified Purchase
+997,10,134,2022-11-09,5,Five stars! Cannot imagine my life without this product now.,45,Unverified
+998,33,184,2023-06-20,4,Incredible value. This has become my favorite purchase this year.,176,Verified Purchase
+999,34,144,2022-06-29,5,Works perfectly. Easy setup and exactly what I needed.,38,Verified Purchase
+1001,51,375,2022-07-19,3,Average quality. Instructions could be clearer.,137,Verified Purchase
+1002,54,327,2023-07-19,5,Incredible value. This has become my favorite purchase this year.,136,Verified Purchase
+1003,35,398,2024-09-04,5,Incredible value. This has become my favorite purchase this year.,116,Verified Purchase
+1004,31,438,2023-05-15,4,Absolutely love this product! Exceeded all my expectations.,72,Verified Purchase
+1005,55,40,2021-10-06,5,Works perfectly. Easy setup and exactly what I needed.,69,Verified Purchase
+1006,15,458,2023-11-03,3,Decent product but packaging was damaged on arrival.,143,Verified Purchase
+1007,20,40,2023-02-17,5,Absolutely love this product! Exceeded all my expectations.,142,Unverified
+1008,47,483,2021-06-15,5,Five stars! Cannot imagine my life without this product now.,130,Unverified
+1009,30,394,2023-03-22,4,Perfect product. Exactly as described. Very happy with purchase.,43,Verified Purchase
+1010,32,384,2022-03-14,5,Absolutely love this product! Exceeded all my expectations.,217,Verified Purchase
+1011,43,179,2021-12-03,4,Outstanding quality for the price. Highly recommend to everyone.,98,Verified Purchase
+1012,50,118,2023-09-02,4,Great quality and fast shipping. Would definitely buy again.,27,Verified Purchase
+1013,37,163,2021-10-26,3,Okay product. Shipping took longer than expected.,154,Unverified
+1014,28,448,2022-02-25,5,Perfect product. Exactly as described. Very happy with purchase.,234,Verified Purchase
+1015,9,125,2024-02-22,5,Outstanding quality for the price. Highly recommend to everyone.,84,Verified Purchase
+1016,53,106,2023-10-10,4,Perfect product. Exactly as described. Very happy with purchase.,221,Verified Purchase
+1017,25,326,2021-11-15,5,Absolutely love this product! Exceeded all my expectations.,25,Verified Purchase
+1018,36,320,2023-01-21,5,Incredible value. This has become my favorite purchase this year.,90,Verified Purchase
+1019,45,129,2022-01-25,4,Top notch quality. Fast delivery. Amazon delivered as promised.,149,Unverified
+1020,18,410,2021-09-01,3,Average quality. Instructions could be clearer.,175,Verified Purchase
+1021,39,456,2021-07-09,3,Good overall but a bit overpriced for what you get.,68,Verified Purchase
+1022,28,316,2022-09-05,3,Decent product but packaging was damaged on arrival.,53,Verified Purchase
+1023,42,217,2023-05-10,1,Stopped working after 2 weeks. Very disappointed.,126,Verified Purchase
+1024,34,500,2023-11-05,3,Decent product but packaging was damaged on arrival.,57,Verified Purchase
+1025,29,311,2022-01-08,3,Average quality. Instructions could be clearer.,173,Unverified
+1026,50,324,2021-10-18,4,Great quality and fast shipping. Would definitely buy again.,183,Unverified
+1027,8,141,2024-02-24,5,Great quality and fast shipping. Would definitely buy again.,8,Verified Purchase
+1028,2,359,2023-10-17,5,Incredible value. This has become my favorite purchase this year.,19,Verified Purchase
+1029,28,77,2021-08-22,3,Average quality. Instructions could be clearer.,76,Verified Purchase
+1030,17,293,2023-04-09,4,Top notch quality. Fast delivery. Amazon delivered as promised.,215,Verified Purchase
+1031,40,4,2022-04-28,3,,15,Verified Purchase
+1032,28,175,2021-06-22,5,Incredible value. This has become my favorite purchase this year.,86,Verified Purchase
+1033,13,265,2021-08-27,5,Absolutely love this product! Exceeded all my expectations.,101,Verified Purchase
+1034,36,185,2021-09-10,5,Five stars! Cannot imagine my life without this product now.,41,Unverified
+1035,21,429,2022-08-01,5,,49,Verified Purchase
+1036,23,312,2024-06-26,5,Perfect product. Exactly as described. Very happy with purchase.,218,Unverified
+1037,11,342,2021-09-30,4,Five stars! Cannot imagine my life without this product now.,114,Unverified
+1038,1,169,2023-12-29,4,Great quality and fast shipping. Would definitely buy again.,39,Unverified
+1039,18,18,2024-01-20,3,Average quality. Instructions could be clearer.,136,Verified Purchase
+1040,26,139,2023-01-14,5,Top notch quality. Fast delivery. Amazon delivered as promised.,125,Verified Purchase
+1041,41,272,2023-10-25,5,Perfect product. Exactly as described. Very happy with purchase.,247,Verified Purchase
+1042,51,292,2023-03-30,5,Absolutely love this product! Exceeded all my expectations.,90,Verified Purchase
+1043,20,340,2023-09-22,5,Great quality and fast shipping. Would definitely buy again.,87,Verified Purchase
+1044,33,22,2024-06-10,3,Works as advertised. Nothing special but does the job.,197,Verified Purchase
+1045,34,303,2021-09-12,5,Works perfectly. Easy setup and exactly what I needed.,218,Verified Purchase
+1046,39,239,2024-07-30,5,Perfect product. Exactly as described. Very happy with purchase.,81,Verified Purchase
+1047,52,494,2021-05-05,5,Absolutely love this product! Exceeded all my expectations.,218,Unverified
+1048,14,499,2022-02-21,4,Absolutely love this product! Exceeded all my expectations.,197,Verified Purchase
+1049,35,285,2023-03-26,4,Incredible value. This has become my favorite purchase this year.,108,Verified Purchase
+1050,4,67,2023-04-17,4,Top notch quality. Fast delivery. Amazon delivered as promised.,3,Verified Purchase
+1051,36,339,2024-07-09,5,Top notch quality. Fast delivery. Amazon delivered as promised.,79,Verified Purchase
+1053,48,116,2021-06-07,5,Top notch quality. Fast delivery. Amazon delivered as promised.,113,Verified Purchase
+1054,20,420,2022-03-18,4,Great quality and fast shipping. Would definitely buy again.,60,Verified Purchase
+1056,20,166,2021-10-03,5,Outstanding quality for the price. Highly recommend to everyone.,249,Verified Purchase
+1057,52,146,2022-07-02,0,Perfect product. Exactly as described. Very happy with purchase.,38,Verified Purchase
+1058,12,144,2023-07-11,4,Outstanding quality for the price. Highly recommend to everyone.,119,Verified Purchase
+1059,21,119,2024-07-13,4,Great quality and fast shipping. Would definitely buy again.,118,Verified Purchase
+1060,24,267,2023-11-29,5,Top notch quality. Fast delivery. Amazon delivered as promised.,121,Verified Purchase
+1061,13,108,2021-09-12,5,Top notch quality. Fast delivery. Amazon delivered as promised.,17,Verified Purchase
+1062,22,97,2023-07-21,5,Five stars! Cannot imagine my life without this product now.,138,Verified Purchase
+1063,40,3,2023-10-13,4,Works perfectly. Easy setup and exactly what I needed.,190,Unverified
+1064,1,137,2023-06-10,3,Average quality. Instructions could be clearer.,196,Unverified
+1065,33,258,2022-05-23,2,Stopped working after 2 weeks. Very disappointed.,1,Unverified
+1066,18,43,2023-04-27,5,Great quality and fast shipping. Would definitely buy again.,246,Unverified
+1067,44,220,2022-07-03,5,Great quality and fast shipping. Would definitely buy again.,184,Verified Purchase
+1068,33,127,2021-08-24,5,Absolutely love this product! Exceeded all my expectations.,61,Verified Purchase
+1069,6,268,2023-09-09,5,Top notch quality. Fast delivery. Amazon delivered as promised.,194,Unverified
+1070,30,364,2021-12-10,5,Top notch quality. Fast delivery. Amazon delivered as promised.,82,Verified Purchase
+1071,33,287,2024-08-23,5,Incredible value. This has become my favorite purchase this year.,88,Unverified
+1072,55,342,2024-03-19,4,Top notch quality. Fast delivery. Amazon delivered as promised.,45,Verified Purchase
+1073,11,156,2022-09-26,5,Absolutely love this product! Exceeded all my expectations.,198,Verified Purchase
+1074,46,462,2021-11-22,5,Works perfectly. Easy setup and exactly what I needed.,249,Verified Purchase
+1075,55,261,2023-11-15,5,Five stars! Cannot imagine my life without this product now.,231,Unverified
+1076,36,455,2023-08-07,4,Great quality and fast shipping. Would definitely buy again.,149,Unverified
+1077,36,485,2025-08-12,3,Average quality. Instructions could be clearer.,162,Verified Purchase
+1078,35,385,2022-09-07,5,Perfect product. Exactly as described. Very happy with purchase.,80,Verified Purchase
+1079,32,315,2023-01-11,5,Perfect product. Exactly as described. Very happy with purchase.,148,Verified Purchase
+1080,10,471,2021-10-07,4,Top notch quality. Fast delivery. Amazon delivered as promised.,87,Verified Purchase
+1081,51,487,2023-08-28,5,Top notch quality. Fast delivery. Amazon delivered as promised.,9,Verified Purchase
+1082,29,67,2021-05-03,4,Perfect product. Exactly as described. Very happy with purchase.,210,Verified Purchase
+1083,52,425,2023-09-01,5,Perfect product. Exactly as described. Very happy with purchase.,157,Unverified
+1084,7,73,2021-10-22,4,Incredible value. This has become my favorite purchase this year.,140,Verified Purchase
+1086,5,234,2023-10-23,5,Five stars! Cannot imagine my life without this product now.,123,Verified Purchase
+1087,39,481,2022-06-28,2,Stopped working after 2 weeks. Very disappointed.,165,Verified Purchase
+1088,20,131,2023-03-26,5,Great quality and fast shipping. Would definitely buy again.,241,Verified Purchase
+1089,15,32,2022-04-19,4,Five stars! Cannot imagine my life without this product now.,19,Verified Purchase
+1090,22,285,2022-07-31,4,Absolutely love this product! Exceeded all my expectations.,141,Unverified
+1092,20,361,2021-10-26,0,Works perfectly. Easy setup and exactly what I needed.,133,Verified Purchase
+1093,29,157,2022-09-02,5,Absolutely love this product! Exceeded all my expectations.,59,Unverified
+1094,12,456,2024-04-06,5,,157,Verified Purchase
+1095,9,139,2021-07-21,4,Perfect product. Exactly as described. Very happy with purchase.,218,Verified Purchase
+1096,17,97,2021-03-16,5,Works perfectly. Easy setup and exactly what I needed.,183,Unverified
+1097,47,335,2024-06-22,5,Works perfectly. Easy setup and exactly what I needed.,100,Verified Purchase
+1098,52,480,2023-04-14,3,Decent product but packaging was damaged on arrival.,166,Verified Purchase
+1099,2,416,2023-06-07,5,Absolutely love this product! Exceeded all my expectations.,195,Unverified
+1100,54,152,2024-03-03,5,Five stars! Cannot imagine my life without this product now.,231,Verified Purchase
+1101,24,239,2023-09-14,4,Five stars! Cannot imagine my life without this product now.,66,Verified Purchase
+1102,12,437,2024-09-13,4,Outstanding quality for the price. Highly recommend to everyone.,114,Verified Purchase
+1103,7,30,2022-01-16,4,Perfect product. Exactly as described. Very happy with purchase.,56,Unverified
+1104,15,346,2022-04-05,5,Great quality and fast shipping. Would definitely buy again.,190,Verified Purchase
+1105,23,21,2022-08-04,5,Top notch quality. Fast delivery. Amazon delivered as promised.,209,Unverified
+1106,14,33,2021-12-03,5,Absolutely love this product! Exceeded all my expectations.,88,Verified Purchase
+1107,29,121,2022-06-07,5,Five stars! Cannot imagine my life without this product now.,228,Verified Purchase
+1108,12,124,2022-07-13,4,Works perfectly. Easy setup and exactly what I needed.,97,Unverified
+1109,46,168,2021-05-11,3,Good overall but a bit overpriced for what you get.,55,Unverified
+1110,24,354,2024-04-26,5,Incredible value. This has become my favorite purchase this year.,202,Verified Purchase
+1111,41,316,2022-12-17,4,Incredible value. This has become my favorite purchase this year.,54,Unverified
+1112,50,28,2022-09-16,5,Incredible value. This has become my favorite purchase this year.,247,Verified Purchase
+1113,34,493,2022-08-07,5,Top notch quality. Fast delivery. Amazon delivered as promised.,92,Verified Purchase
+1114,23,253,2023-10-11,6,Incredible value. This has become my favorite purchase this year.,89,Verified Purchase
+1115,50,475,2021-07-05,2,Stopped working after 2 weeks. Very disappointed.,92,Verified Purchase
+1116,35,172,2024-04-18,5,Outstanding quality for the price. Highly recommend to everyone.,2,Unverified
+1117,37,36,2021-05-22,5,Five stars! Cannot imagine my life without this product now.,237,Verified Purchase
+1118,36,256,2022-10-30,4,Outstanding quality for the price. Highly recommend to everyone.,113,Verified Purchase
+1119,48,494,2024-04-02,4,Absolutely love this product! Exceeded all my expectations.,58,Unverified
+1120,41,54,2023-07-27,2,Product looks nothing like the pictures. Misleading listing.,179,Verified Purchase
+1121,31,284,2022-03-10,5,Five stars! Cannot imagine my life without this product now.,177,Verified Purchase
+1122,54,337,2021-08-10,5,Outstanding quality for the price. Highly recommend to everyone.,20,Verified Purchase
+1123,46,348,2024-03-22,4,Absolutely love this product! Exceeded all my expectations.,54,Verified Purchase
+1124,28,74,2022-02-17,4,,178,Verified Purchase
+1125,53,248,2022-09-23,5,Incredible value. This has become my favorite purchase this year.,122,Verified Purchase
+1126,36,103,2022-05-30,5,Outstanding quality for the price. Highly recommend to everyone.,41,Verified Purchase
+1127,44,448,2024-06-30,5,,209,Verified Purchase
+1128,41,160,2021-03-21,5,Works perfectly. Easy setup and exactly what I needed.,178,Verified Purchase
+1129,2,19,2021-12-19,4,Five stars! Cannot imagine my life without this product now.,138,Unverified
+1130,44,255,2024-03-21,3,Decent product but packaging was damaged on arrival.,236,Verified Purchase
+1131,51,435,2024-03-14,3,Average quality. Instructions could be clearer.,49,Unverified
+1132,42,242,2023-05-29,4,Five stars! Cannot imagine my life without this product now.,193,Verified Purchase
+1133,54,233,2024-09-21,4,Perfect product. Exactly as described. Very happy with purchase.,50,Verified Purchase
+1134,51,115,2022-07-25,5,Absolutely love this product! Exceeded all my expectations.,72,Unverified
+1135,48,449,2021-12-08,3,Good overall but a bit overpriced for what you get.,205,Verified Purchase
+1136,40,207,2022-04-05,5,Perfect product. Exactly as described. Very happy with purchase.,99,Unverified
+1137,13,496,2022-04-06,1,Terrible quality. Complete waste of money. Avoid this seller.,143,Verified Purchase
+1138,53,139,2024-06-19,4,Works perfectly. Easy setup and exactly what I needed.,27,Unverified
+1139,32,191,2023-05-03,5,Works perfectly. Easy setup and exactly what I needed.,166,Verified Purchase
+1140,51,373,2021-04-09,5,Absolutely love this product! Exceeded all my expectations.,97,Verified Purchase
+1141,4,418,2022-04-17,4,Incredible value. This has become my favorite purchase this year.,239,Verified Purchase
+1142,44,330,2021-06-06,5,Incredible value. This has become my favorite purchase this year.,193,Verified Purchase
+1143,44,82,2024-04-23,3,Decent product but packaging was damaged on arrival.,11,Verified Purchase
+1144,9,197,2023-09-03,2,Arrived broken. Seller refused to help. Zero stars if possible.,239,Verified Purchase
+1145,39,255,2023-05-08,4,Outstanding quality for the price. Highly recommend to everyone.,202,Unverified
+1146,53,303,2025-11-06,5,Top notch quality. Fast delivery. Amazon delivered as promised.,215,Verified Purchase
+1147,26,475,2023-01-18,2,Arrived broken. Seller refused to help. Zero stars if possible.,165,Verified Purchase
+1148,55,431,2024-08-26,5,Incredible value. This has become my favorite purchase this year.,201,Unverified
+1149,16,286,2022-12-27,5,Absolutely love this product! Exceeded all my expectations.,105,Unverified
+1150,24,145,2024-02-02,5,Absolutely love this product! Exceeded all my expectations.,201,Unverified
+1151,35,462,2021-11-13,5,Great quality and fast shipping. Would definitely buy again.,191,Unverified
+1152,3,203,2023-10-16,4,Works perfectly. Easy setup and exactly what I needed.,202,Verified Purchase
+1153,12,316,2023-08-31,5,Perfect product. Exactly as described. Very happy with purchase.,62,Verified Purchase
+1154,42,412,2022-02-20,5,Five stars! Cannot imagine my life without this product now.,224,Verified Purchase
+1155,2,190,2023-05-19,4,Great quality and fast shipping. Would definitely buy again.,76,Verified Purchase
+1156,3,168,2021-05-16,4,Outstanding quality for the price. Highly recommend to everyone.,188,Verified Purchase
+1157,2,287,2023-05-15,5,Five stars! Cannot imagine my life without this product now.,71,Verified Purchase
+1158,49,162,2023-10-26,4,Perfect product. Exactly as described. Very happy with purchase.,19,Verified Purchase
+1159,46,428,2024-07-26,4,Perfect product. Exactly as described. Very happy with purchase.,161,Unverified
+1160,16,377,2024-08-19,5,Five stars! Cannot imagine my life without this product now.,143,Verified Purchase
+1161,51,391,2023-07-05,4,Works perfectly. Easy setup and exactly what I needed.,163,Verified Purchase
+1162,46,344,2024-06-24,4,Outstanding quality for the price. Highly recommend to everyone.,125,Verified Purchase
+1163,46,259,2023-04-05,4,Great quality and fast shipping. Would definitely buy again.,74,Verified Purchase
+1164,20,431,2022-09-05,5,Top notch quality. Fast delivery. Amazon delivered as promised.,162,Verified Purchase
+1165,29,413,2023-10-01,3,Good overall but a bit overpriced for what you get.,249,Verified Purchase
+1166,37,433,2023-12-24,5,Great quality and fast shipping. Would definitely buy again.,183,Unverified
+1167,10,462,2023-03-02,4,Perfect product. Exactly as described. Very happy with purchase.,75,Verified Purchase
+1168,8,163,2022-02-18,5,Outstanding quality for the price. Highly recommend to everyone.,153,Unverified
+1169,35,395,2023-03-12,3,Works as advertised. Nothing special but does the job.,91,Verified Purchase
+1170,40,334,2021-08-07,3,Works as advertised. Nothing special but does the job.,13,Verified Purchase
+1171,7,174,2023-05-28,4,Works perfectly. Easy setup and exactly what I needed.,78,Verified Purchase
+1172,33,304,2022-01-19,5,Works perfectly. Easy setup and exactly what I needed.,85,Verified Purchase
+1173,6,402,2021-08-31,5,Great quality and fast shipping. Would definitely buy again.,219,Verified Purchase
+1174,4,236,2023-11-06,2,Arrived broken. Seller refused to help. Zero stars if possible.,159,Unverified
+1175,24,99,2022-05-24,4,Incredible value. This has become my favorite purchase this year.,150,Verified Purchase
+1176,25,15,2021-11-04,5,Works perfectly. Easy setup and exactly what I needed.,179,Verified Purchase
+1177,15,257,2024-08-08,4,Perfect product. Exactly as described. Very happy with purchase.,12,Unverified
+1178,53,365,2022-03-08,5,Five stars! Cannot imagine my life without this product now.,167,Verified Purchase
+1179,35,325,2021-08-19,5,Five stars! Cannot imagine my life without this product now.,177,Unverified
+1180,55,378,2023-02-05,5,Great quality and fast shipping. Would definitely buy again.,180,Unverified
+1181,42,177,2021-12-28,3,Average quality. Instructions could be clearer.,63,Unverified
+1182,36,285,2023-07-17,2,Stopped working after 2 weeks. Very disappointed.,172,Verified Purchase
+1183,40,302,2023-08-16,5,Five stars! Cannot imagine my life without this product now.,146,Unverified
+1184,55,411,2024-09-17,3,Good overall but a bit overpriced for what you get.,240,Verified Purchase
+1185,56,169,2023-03-26,4,Absolutely love this product! Exceeded all my expectations.,67,Verified Purchase
+1186,1,107,2023-05-21,5,Incredible value. This has become my favorite purchase this year.,144,Verified Purchase
+1187,35,371,2024-07-08,4,Perfect product. Exactly as described. Very happy with purchase.,237,Verified Purchase
+1188,10,339,2021-09-01,3,Average quality. Instructions could be clearer.,209,Verified Purchase
+1189,39,325,2022-01-29,5,Incredible value. This has become my favorite purchase this year.,213,Verified Purchase
+1190,53,10,2024-07-12,4,Perfect product. Exactly as described. Very happy with purchase.,218,Verified Purchase
+1191,4,465,2021-05-12,-1,Stopped working after 2 weeks. Very disappointed.,110,Verified Purchase
+1192,1,419,2024-08-18,3,Good overall but a bit overpriced for what you get.,160,Verified Purchase
+1193,39,363,2024-08-01,5,Works perfectly. Easy setup and exactly what I needed.,65,Unverified
+1194,50,83,2022-02-27,4,Top notch quality. Fast delivery. Amazon delivered as promised.,139,Unverified
+1195,15,323,2021-08-27,5,Outstanding quality for the price. Highly recommend to everyone.,77,Unverified
+1196,1,213,2021-05-11,5,,43,Unverified
+1197,37,5,2021-10-10,3,Okay product. Shipping took longer than expected.,131,Unverified
+1198,44,21,2022-06-18,5,Great quality and fast shipping. Would definitely buy again.,174,Verified Purchase
+1199,13,389,2022-03-07,3,Average quality. Instructions could be clearer.,232,Verified Purchase
+1200,39,305,2022-07-07,5,Absolutely love this product! Exceeded all my expectations.,24,Verified Purchase
+1201,9,263,2022-09-02,5,Great quality and fast shipping. Would definitely buy again.,66,Verified Purchase
+1202,26,371,2023-12-17,4,Incredible value. This has become my favorite purchase this year.,240,Verified Purchase
+1203,35,463,2022-01-15,5,Top notch quality. Fast delivery. Amazon delivered as promised.,81,Verified Purchase
+1204,10,122,2024-03-16,3,Decent product but packaging was damaged on arrival.,10,Verified Purchase
+1205,37,445,2021-07-24,5,Great quality and fast shipping. Would definitely buy again.,29,Verified Purchase
+1206,39,59,2024-05-20,-1,Five stars! Cannot imagine my life without this product now.,243,Verified Purchase
+1207,31,322,2024-01-03,5,Perfect product. Exactly as described. Very happy with purchase.,186,Verified Purchase
+1208,36,406,2024-05-02,3,Works as advertised. Nothing special but does the job.,79,Verified Purchase
+1209,2,69,2022-09-24,4,Works perfectly. Easy setup and exactly what I needed.,87,Verified Purchase
+1210,10,361,2023-01-26,3,Average quality. Instructions could be clearer.,177,Verified Purchase
+1211,51,328,2024-05-02,1,Product looks nothing like the pictures. Misleading listing.,212,Verified Purchase
+1212,15,91,2024-09-25,5,Great quality and fast shipping. Would definitely buy again.,142,Verified Purchase
+1213,31,254,2021-12-01,3,Works as advertised. Nothing special but does the job.,228,Verified Purchase
+1214,13,94,2023-10-07,5,Works perfectly. Easy setup and exactly what I needed.,2,Unverified
+1215,40,339,2024-06-17,5,Incredible value. This has become my favorite purchase this year.,125,Verified Purchase
+1216,18,402,2024-07-01,3,Works as advertised. Nothing special but does the job.,250,Verified Purchase
+1217,49,428,2021-05-28,5,Top notch quality. Fast delivery. Amazon delivered as promised.,29,Unverified
+1218,47,121,2023-09-14,1,Terrible quality. Complete waste of money. Avoid this seller.,188,Verified Purchase
+1219,49,179,2021-10-13,5,Five stars! Cannot imagine my life without this product now.,214,Unverified
+1220,6,333,2022-01-07,4,Incredible value. This has become my favorite purchase this year.,215,Unverified
+1221,25,196,2022-01-20,4,Absolutely love this product! Exceeded all my expectations.,230,Unverified
+1222,16,393,2022-01-31,4,Perfect product. Exactly as described. Very happy with purchase.,9,Unverified
+1223,4,62,2024-09-09,5,Great quality and fast shipping. Would definitely buy again.,142,Unverified
+1224,34,26,2022-07-15,4,Perfect product. Exactly as described. Very happy with purchase.,86,Unverified
+1225,17,461,2025-07-27,2,Arrived broken. Seller refused to help. Zero stars if possible.,123,Verified Purchase
+1226,47,149,2023-07-05,2,Stopped working after 2 weeks. Very disappointed.,68,Verified Purchase
+1227,5,394,2021-08-27,5,Outstanding quality for the price. Highly recommend to everyone.,233,Verified Purchase
+1228,53,462,2021-08-06,5,Incredible value. This has become my favorite purchase this year.,136,Verified Purchase
+1229,50,160,2023-07-28,-1,Great quality and fast shipping. Would definitely buy again.,227,Verified Purchase
+1230,26,431,2022-04-28,3,Good overall but a bit overpriced for what you get.,38,Verified Purchase
+1231,46,142,2022-03-19,5,Incredible value. This has become my favorite purchase this year.,76,Verified Purchase
+1232,3,400,2022-02-25,4,Five stars! Cannot imagine my life without this product now.,176,Unverified
+1234,40,210,2022-07-03,4,Works perfectly. Easy setup and exactly what I needed.,240,Verified Purchase
+1235,39,390,2022-08-23,3,Good overall but a bit overpriced for what you get.,201,Verified Purchase
+1236,15,363,2021-03-18,5,Top notch quality. Fast delivery. Amazon delivered as promised.,7,Verified Purchase
+1237,29,278,2021-12-11,5,Five stars! Cannot imagine my life without this product now.,244,Verified Purchase
+1238,47,325,2022-10-02,4,Incredible value. This has become my favorite purchase this year.,171,Verified Purchase
+1239,40,307,2024-04-05,5,Incredible value. This has become my favorite purchase this year.,115,Unverified
+1240,16,239,2023-07-31,4,Top notch quality. Fast delivery. Amazon delivered as promised.,125,Verified Purchase
+1242,26,463,2021-05-07,5,Top notch quality. Fast delivery. Amazon delivered as promised.,65,Verified Purchase
+1243,41,40,2024-04-19,4,Works perfectly. Easy setup and exactly what I needed.,49,Unverified
+1244,35,426,2024-07-24,4,Top notch quality. Fast delivery. Amazon delivered as promised.,16,Verified Purchase
+1246,50,338,2021-10-06,5,Outstanding quality for the price. Highly recommend to everyone.,93,Unverified
+1247,13,234,2024-08-16,5,Outstanding quality for the price. Highly recommend to everyone.,135,Verified Purchase
+1248,7,300,2023-06-19,5,Perfect product. Exactly as described. Very happy with purchase.,26,Verified Purchase
+1249,43,431,2022-02-27,5,Outstanding quality for the price. Highly recommend to everyone.,66,Verified Purchase
+1250,41,151,2021-03-01,5,Perfect product. Exactly as described. Very happy with purchase.,188,Verified Purchase
+1251,12,164,2024-06-14,4,Top notch quality. Fast delivery. Amazon delivered as promised.,199,Verified Purchase
+1253,14,110,2024-05-30,4,Five stars! Cannot imagine my life without this product now.,153,Unverified
+1254,51,350,2023-12-05,5,Top notch quality. Fast delivery. Amazon delivered as promised.,107,Verified Purchase
+1255,8,480,2022-08-08,5,Perfect product. Exactly as described. Very happy with purchase.,1,Verified Purchase
+1256,52,295,2023-06-18,5,Absolutely love this product! Exceeded all my expectations.,204,Verified Purchase
+1258,6,48,2023-09-10,4,Great quality and fast shipping. Would definitely buy again.,208,Verified Purchase
+1259,17,229,2023-09-25,4,Absolutely love this product! Exceeded all my expectations.,0,Verified Purchase
+1260,1,384,2024-02-21,4,Five stars! Cannot imagine my life without this product now.,214,Verified Purchase
+1261,21,189,2023-02-21,3,Works as advertised. Nothing special but does the job.,189,Verified Purchase
+1262,11,331,2021-11-28,4,Incredible value. This has become my favorite purchase this year.,122,Verified Purchase
+1263,53,321,2023-02-25,4,Works perfectly. Easy setup and exactly what I needed.,113,Verified Purchase
+1264,32,61,2022-08-11,5,,182,Verified Purchase
+1265,46,421,2021-11-09,4,Perfect product. Exactly as described. Very happy with purchase.,84,Unverified
+1266,33,371,2023-03-28,5,Top notch quality. Fast delivery. Amazon delivered as promised.,198,Verified Purchase
+1267,2,77,2023-09-11,5,Great quality and fast shipping. Would definitely buy again.,221,Unverified
+1268,7,321,2024-01-26,7,,198,Verified Purchase
+1269,23,328,2023-10-05,4,Perfect product. Exactly as described. Very happy with purchase.,197,Verified Purchase
+1270,5,146,2023-07-25,2,Arrived broken. Seller refused to help. Zero stars if possible.,143,Verified Purchase
+1271,14,489,2024-07-17,5,Incredible value. This has become my favorite purchase this year.,221,Verified Purchase
+1272,29,210,2023-02-13,1,Terrible quality. Complete waste of money. Avoid this seller.,166,Verified Purchase
+1273,14,42,2022-07-17,5,Top notch quality. Fast delivery. Amazon delivered as promised.,236,Unverified
+1274,48,331,2024-04-24,4,Perfect product. Exactly as described. Very happy with purchase.,10,Verified Purchase
+1275,41,47,2023-10-29,5,Great quality and fast shipping. Would definitely buy again.,218,Verified Purchase
+1276,11,75,2024-04-08,3,Decent product but packaging was damaged on arrival.,173,Verified Purchase
+1277,9,280,2023-11-14,5,Outstanding quality for the price. Highly recommend to everyone.,104,Verified Purchase
+1278,10,297,2023-02-06,3,Works as advertised. Nothing special but does the job.,66,Verified Purchase
+1279,52,79,2021-06-13,5,,216,Verified Purchase
+1280,29,390,2022-05-21,2,Stopped working after 2 weeks. Very disappointed.,32,Verified Purchase
+1281,47,8,2022-03-24,4,Outstanding quality for the price. Highly recommend to everyone.,28,Verified Purchase
+1282,51,364,2023-08-27,5,Works perfectly. Easy setup and exactly what I needed.,202,Verified Purchase
+1283,34,431,2021-07-20,5,Outstanding quality for the price. Highly recommend to everyone.,147,Unverified
+1284,15,187,2023-04-01,3,Decent product but packaging was damaged on arrival.,184,Unverified
+1285,12,206,2024-01-03,5,Absolutely love this product! Exceeded all my expectations.,2,Verified Purchase
+1286,18,414,2024-04-10,4,Absolutely love this product! Exceeded all my expectations.,37,Verified Purchase
+1287,1,25,2022-11-28,5,Perfect product. Exactly as described. Very happy with purchase.,233,Verified Purchase
+1288,39,199,2021-05-21,4,Outstanding quality for the price. Highly recommend to everyone.,100,Verified Purchase
+1289,17,453,2022-01-06,2,Product looks nothing like the pictures. Misleading listing.,147,Verified Purchase
+1290,55,334,2022-10-20,5,Great quality and fast shipping. Would definitely buy again.,30,Verified Purchase
+1291,9,78,2022-04-08,3,Average quality. Instructions could be clearer.,246,Verified Purchase
+1292,12,236,2023-11-07,5,Incredible value. This has become my favorite purchase this year.,46,Verified Purchase
+1293,16,388,2022-01-12,5,Works perfectly. Easy setup and exactly what I needed.,202,Unverified
+1294,23,293,2022-12-23,4,Perfect product. Exactly as described. Very happy with purchase.,242,Unverified
+1295,43,55,2024-02-02,5,Incredible value. This has become my favorite purchase this year.,46,Verified Purchase
+1296,29,21,2022-01-28,5,Perfect product. Exactly as described. Very happy with purchase.,75,Verified Purchase
+1297,6,222,2023-09-04,3,Average quality. Instructions could be clearer.,76,Unverified
+1298,6,341,2021-04-11,5,Perfect product. Exactly as described. Very happy with purchase.,82,Verified Purchase
+1299,39,145,2021-03-26,5,Top notch quality. Fast delivery. Amazon delivered as promised.,83,Verified Purchase
+1300,55,189,2023-01-15,4,Perfect product. Exactly as described. Very happy with purchase.,58,Verified Purchase
+1301,36,131,2021-10-23,5,Top notch quality. Fast delivery. Amazon delivered as promised.,188,Verified Purchase
+1302,22,191,2024-09-11,5,Outstanding quality for the price. Highly recommend to everyone.,146,Unverified
+1303,23,424,2022-07-02,5,Five stars! Cannot imagine my life without this product now.,209,Verified Purchase
+1304,32,377,2023-07-30,4,Great quality and fast shipping. Would definitely buy again.,122,Unverified
+1305,49,450,2021-11-04,5,Top notch quality. Fast delivery. Amazon delivered as promised.,181,Unverified
+1306,36,229,2022-01-27,5,Works perfectly. Easy setup and exactly what I needed.,119,Unverified
+1307,18,444,2024-09-09,5,Works perfectly. Easy setup and exactly what I needed.,42,Verified Purchase
+1308,46,343,2021-07-08,5,Outstanding quality for the price. Highly recommend to everyone.,101,Verified Purchase
+1309,36,321,2021-07-06,5,Absolutely love this product! Exceeded all my expectations.,3,Verified Purchase
+1310,44,114,2022-09-03,4,Absolutely love this product! Exceeded all my expectations.,181,Verified Purchase
+1311,55,438,2022-04-28,1,Stopped working after 2 weeks. Very disappointed.,175,Verified Purchase
+1312,42,141,2022-03-15,4,Works perfectly. Easy setup and exactly what I needed.,120,Unverified
+1313,49,122,2023-12-23,5,Top notch quality. Fast delivery. Amazon delivered as promised.,125,Verified Purchase
+1314,46,339,2023-05-23,4,Five stars! Cannot imagine my life without this product now.,170,Verified Purchase
+1315,42,17,2024-04-19,4,Outstanding quality for the price. Highly recommend to everyone.,216,Verified Purchase
+1316,28,393,2024-09-03,5,Incredible value. This has become my favorite purchase this year.,5,Verified Purchase
+1317,9,162,2022-04-19,1,Terrible quality. Complete waste of money. Avoid this seller.,10,Verified Purchase
+1318,42,369,2022-08-30,4,Great quality and fast shipping. Would definitely buy again.,225,Verified Purchase
+1319,1,60,2023-09-11,7,Incredible value. This has become my favorite purchase this year.,177,Verified Purchase
+1320,21,465,2022-06-01,5,Incredible value. This has become my favorite purchase this year.,180,Verified Purchase
+1321,13,167,2023-03-25,3,Good overall but a bit overpriced for what you get.,1,Verified Purchase
+1322,36,306,2022-04-18,5,Five stars! Cannot imagine my life without this product now.,160,Unverified
+1323,44,208,2023-07-18,5,Outstanding quality for the price. Highly recommend to everyone.,80,Verified Purchase
+1324,10,245,2024-03-23,4,Outstanding quality for the price. Highly recommend to everyone.,140,Verified Purchase
+1325,33,37,2023-09-05,4,Works perfectly. Easy setup and exactly what I needed.,143,Verified Purchase
+1326,6,215,2023-04-15,3,Good overall but a bit overpriced for what you get.,45,Verified Purchase
+1327,52,38,2024-05-31,5,Works perfectly. Easy setup and exactly what I needed.,172,Unverified
+1328,3,486,2023-11-12,3,,199,Verified Purchase
+1330,12,281,2024-06-03,5,Outstanding quality for the price. Highly recommend to everyone.,210,Verified Purchase
+1331,53,238,2024-01-14,5,Top notch quality. Fast delivery. Amazon delivered as promised.,19,Verified Purchase
+1332,11,408,2022-08-11,5,Great quality and fast shipping. Would definitely buy again.,32,Verified Purchase
+1333,38,355,2021-09-16,4,Outstanding quality for the price. Highly recommend to everyone.,191,Verified Purchase
+1334,12,328,2021-10-12,1,Terrible quality. Complete waste of money. Avoid this seller.,27,Verified Purchase
+1335,40,273,2022-06-22,3,Good overall but a bit overpriced for what you get.,115,Verified Purchase
+1336,13,130,2022-08-06,5,Works perfectly. Easy setup and exactly what I needed.,130,Verified Purchase
+1337,32,460,2023-02-25,4,Works perfectly. Easy setup and exactly what I needed.,161,Verified Purchase
+1338,43,322,2022-12-12,5,Works perfectly. Easy setup and exactly what I needed.,93,Verified Purchase
+1339,31,85,2022-04-28,3,Good overall but a bit overpriced for what you get.,111,Verified Purchase
+1340,36,264,2022-11-01,4,Outstanding quality for the price. Highly recommend to everyone.,56,Verified Purchase
+1341,20,284,2021-03-10,5,Absolutely love this product! Exceeded all my expectations.,240,Verified Purchase
+1342,14,73,2024-08-18,5,Great quality and fast shipping. Would definitely buy again.,33,Verified Purchase
+1343,29,314,2021-03-18,4,Works perfectly. Easy setup and exactly what I needed.,182,Verified Purchase
+1344,2,378,2024-03-19,5,Great quality and fast shipping. Would definitely buy again.,18,Verified Purchase
+1345,30,22,2023-10-12,3,Good overall but a bit overpriced for what you get.,138,Verified Purchase
+1346,26,208,2023-08-12,3,Average quality. Instructions could be clearer.,132,Verified Purchase
+1347,23,262,2024-10-01,5,Outstanding quality for the price. Highly recommend to everyone.,194,Verified Purchase
+1348,4,126,2023-07-29,1,,39,Unverified
+1349,5,309,2024-02-19,2,Terrible quality. Complete waste of money. Avoid this seller.,203,Verified Purchase
+1350,20,325,2024-02-16,5,Top notch quality. Fast delivery. Amazon delivered as promised.,78,Verified Purchase
+1351,25,448,2022-05-24,3,Good overall but a bit overpriced for what you get.,3,Verified Purchase
+1352,24,82,2022-10-06,5,Great quality and fast shipping. Would definitely buy again.,180,Verified Purchase
+1353,53,267,2021-07-24,5,Incredible value. This has become my favorite purchase this year.,5,Verified Purchase
+1354,33,296,2022-02-14,3,Decent product but packaging was damaged on arrival.,225,Verified Purchase
+1355,55,205,2023-03-17,4,Outstanding quality for the price. Highly recommend to everyone.,156,Verified Purchase
+1356,41,215,2022-05-11,5,Five stars! Cannot imagine my life without this product now.,145,Unverified
+1357,14,6,2021-10-15,4,Great quality and fast shipping. Would definitely buy again.,246,Verified Purchase
+1358,43,461,2024-07-01,5,Absolutely love this product! Exceeded all my expectations.,190,Verified Purchase
+1359,33,451,2023-06-20,4,Absolutely love this product! Exceeded all my expectations.,196,Verified Purchase
+1360,18,96,2021-09-20,5,Top notch quality. Fast delivery. Amazon delivered as promised.,31,Unverified
+1361,26,128,2022-05-17,5,Outstanding quality for the price. Highly recommend to everyone.,102,Verified Purchase
+1362,32,498,2024-05-23,5,Works perfectly. Easy setup and exactly what I needed.,207,Verified Purchase
+1363,24,278,2023-11-28,4,Works perfectly. Easy setup and exactly what I needed.,68,Verified Purchase
+1364,32,442,2023-04-06,5,Great quality and fast shipping. Would definitely buy again.,194,Unverified
+1365,41,13,2022-10-02,4,Works perfectly. Easy setup and exactly what I needed.,196,Verified Purchase
+1366,38,41,2022-04-13,4,Absolutely love this product! Exceeded all my expectations.,217,Verified Purchase
+1367,26,72,2021-10-12,5,Outstanding quality for the price. Highly recommend to everyone.,22,Verified Purchase
+1368,30,148,2022-05-30,4,Great quality and fast shipping. Would definitely buy again.,61,Verified Purchase
+1369,7,496,2023-04-26,5,Works perfectly. Easy setup and exactly what I needed.,218,Unverified
+1370,29,332,2022-01-28,4,Outstanding quality for the price. Highly recommend to everyone.,20,Verified Purchase
+1371,40,88,2023-09-08,5,Absolutely love this product! Exceeded all my expectations.,216,Unverified
+1372,51,160,2021-12-28,5,Absolutely love this product! Exceeded all my expectations.,105,Verified Purchase
+1373,54,324,2023-08-06,4,Absolutely love this product! Exceeded all my expectations.,195,Unverified
+1374,42,320,2023-12-16,5,Five stars! Cannot imagine my life without this product now.,80,Unverified
+1375,25,24,2023-06-14,0,Absolutely love this product! Exceeded all my expectations.,5,Verified Purchase
+1376,10,154,2022-04-06,2,,41,Verified Purchase
+1377,45,456,2022-05-18,4,Outstanding quality for the price. Highly recommend to everyone.,188,Verified Purchase
+1378,29,7,2022-03-01,5,Top notch quality. Fast delivery. Amazon delivered as promised.,145,Verified Purchase
+1379,28,237,2024-08-30,5,Five stars! Cannot imagine my life without this product now.,200,Unverified
+1380,33,386,2023-03-31,4,Works perfectly. Easy setup and exactly what I needed.,163,Verified Purchase
+1381,21,385,2021-06-06,5,Outstanding quality for the price. Highly recommend to everyone.,101,Unverified
+1382,10,85,2023-10-10,5,Incredible value. This has become my favorite purchase this year.,37,Unverified
+1383,10,174,2023-06-22,5,Outstanding quality for the price. Highly recommend to everyone.,138,Unverified
+1384,16,297,2023-12-25,4,Absolutely love this product! Exceeded all my expectations.,95,Verified Purchase
+1385,37,123,2021-07-30,5,Works perfectly. Easy setup and exactly what I needed.,101,Verified Purchase
+1386,31,342,2022-04-13,5,Five stars! Cannot imagine my life without this product now.,62,Verified Purchase
+1387,50,197,2022-09-05,5,Absolutely love this product! Exceeded all my expectations.,160,Verified Purchase
+1388,32,102,2022-03-26,5,Absolutely love this product! Exceeded all my expectations.,189,Verified Purchase
+1389,28,488,2021-10-14,3,Okay product. Shipping took longer than expected.,156,Verified Purchase
+1390,15,437,2022-12-28,4,Five stars! Cannot imagine my life without this product now.,138,Verified Purchase
+1391,23,334,2023-09-15,5,Perfect product. Exactly as described. Very happy with purchase.,66,Verified Purchase
+1392,37,112,2022-09-25,7,Outstanding quality for the price. Highly recommend to everyone.,236,Unverified
+1393,34,459,2023-10-05,5,Outstanding quality for the price. Highly recommend to everyone.,224,Verified Purchase
+1394,18,109,2022-04-06,4,Incredible value. This has become my favorite purchase this year.,18,Verified Purchase
+1395,11,381,2021-03-03,5,Top notch quality. Fast delivery. Amazon delivered as promised.,108,Verified Purchase
+1396,21,348,2023-07-29,5,Incredible value. This has become my favorite purchase this year.,117,Verified Purchase
+1397,36,181,2021-03-16,5,Absolutely love this product! Exceeded all my expectations.,171,Unverified
+1398,10,213,2022-12-30,5,Perfect product. Exactly as described. Very happy with purchase.,101,Verified Purchase
+1399,21,299,2023-05-20,4,Outstanding quality for the price. Highly recommend to everyone.,0,Unverified
+1400,24,214,2024-01-22,5,Five stars! Cannot imagine my life without this product now.,162,Verified Purchase
+1401,11,198,2023-01-12,4,Outstanding quality for the price. Highly recommend to everyone.,165,Verified Purchase
+1402,8,456,2023-02-27,3,Decent product but packaging was damaged on arrival.,202,Unverified
+1403,41,182,2021-12-21,5,Works perfectly. Easy setup and exactly what I needed.,86,Unverified
+1405,12,138,2022-05-24,5,Great quality and fast shipping. Would definitely buy again.,61,Verified Purchase
+1406,5,36,2022-09-13,4,Incredible value. This has become my favorite purchase this year.,85,Verified Purchase
+1407,7,77,2023-12-22,1,Terrible quality. Complete waste of money. Avoid this seller.,192,Verified Purchase
+1408,14,142,2026-03-09,5,Works perfectly. Easy setup and exactly what I needed.,27,Verified Purchase
+1409,20,164,2023-09-22,5,Outstanding quality for the price. Highly recommend to everyone.,164,Unverified
+1410,18,397,2023-07-25,1,,23,Verified Purchase
+1411,17,223,2023-03-03,3,Decent product but packaging was damaged on arrival.,44,Verified Purchase
+1412,22,75,2021-07-19,4,Perfect product. Exactly as described. Very happy with purchase.,140,Unverified
+1413,41,173,2023-03-18,5,Incredible value. This has become my favorite purchase this year.,48,Verified Purchase
+1414,55,270,2024-03-25,5,Incredible value. This has become my favorite purchase this year.,3,Verified Purchase
+1415,50,407,2023-05-13,5,Perfect product. Exactly as described. Very happy with purchase.,195,Verified Purchase
+1416,22,69,2024-01-04,4,Five stars! Cannot imagine my life without this product now.,55,Verified Purchase
+1417,24,324,2024-03-17,5,Great quality and fast shipping. Would definitely buy again.,157,Unverified
+1418,36,165,2021-08-13,5,Absolutely love this product! Exceeded all my expectations.,241,Verified Purchase
+1419,2,439,2022-05-09,4,Outstanding quality for the price. Highly recommend to everyone.,121,Verified Purchase
+1420,20,301,2023-07-01,4,Great quality and fast shipping. Would definitely buy again.,135,Verified Purchase
+1421,43,248,2021-03-13,1,Arrived broken. Seller refused to help. Zero stars if possible.,39,Verified Purchase
+1422,10,490,2022-10-05,4,Five stars! Cannot imagine my life without this product now.,67,Verified Purchase
+1423,55,178,2024-06-14,5,Incredible value. This has become my favorite purchase this year.,62,Verified Purchase
+1424,4,73,2021-08-10,5,,229,Verified Purchase
+1425,34,492,2022-04-21,3,Works as advertised. Nothing special but does the job.,239,Verified Purchase
+1426,24,398,2022-01-28,3,Average quality. Instructions could be clearer.,164,Unverified
+1427,55,59,2022-08-02,4,,62,Verified Purchase
+1428,22,410,2023-05-15,5,Incredible value. This has become my favorite purchase this year.,40,Verified Purchase
+1429,55,258,2022-09-13,5,Outstanding quality for the price. Highly recommend to everyone.,159,Verified Purchase
+1430,47,119,2021-05-24,5,Works perfectly. Easy setup and exactly what I needed.,185,Verified Purchase
+1431,54,265,2021-10-17,5,Perfect product. Exactly as described. Very happy with purchase.,209,Unverified
+1432,30,113,2024-06-28,-1,Top notch quality. Fast delivery. Amazon delivered as promised.,134,Verified Purchase
+1434,13,53,2022-03-01,5,Incredible value. This has become my favorite purchase this year.,194,Unverified
+1435,29,218,2024-07-05,5,Top notch quality. Fast delivery. Amazon delivered as promised.,61,Verified Purchase
+1436,43,29,2024-01-30,4,Perfect product. Exactly as described. Very happy with purchase.,129,Verified Purchase
+1437,31,99,2021-08-25,4,Perfect product. Exactly as described. Very happy with purchase.,119,Verified Purchase
+1438,26,166,2023-10-04,5,Perfect product. Exactly as described. Very happy with purchase.,93,Verified Purchase
+1439,4,495,2024-06-06,5,Works perfectly. Easy setup and exactly what I needed.,75,Verified Purchase
+1440,42,188,2021-03-24,2,Terrible quality. Complete waste of money. Avoid this seller.,81,Verified Purchase
+1441,29,403,2022-01-01,2,Product looks nothing like the pictures. Misleading listing.,80,Verified Purchase
+1442,41,130,2024-02-08,2,Product looks nothing like the pictures. Misleading listing.,190,Unverified
+1443,33,21,2022-01-28,4,Absolutely love this product! Exceeded all my expectations.,232,Unverified
+1444,47,489,2021-12-02,5,Top notch quality. Fast delivery. Amazon delivered as promised.,194,Verified Purchase
+1445,54,121,2024-02-06,5,Great quality and fast shipping. Would definitely buy again.,232,Unverified
+1446,1,236,2024-09-10,5,Works perfectly. Easy setup and exactly what I needed.,146,Verified Purchase
+1448,42,280,2024-05-29,5,Five stars! Cannot imagine my life without this product now.,77,Unverified
+1449,21,133,2023-04-04,5,Absolutely love this product! Exceeded all my expectations.,6,Unverified
+1450,16,189,2021-06-01,5,Incredible value. This has become my favorite purchase this year.,35,Verified Purchase
+1451,20,288,2025-06-29,4,,118,Verified Purchase
+1452,2,91,2024-01-19,2,Stopped working after 2 weeks. Very disappointed.,133,Verified Purchase
+1453,37,411,2021-10-10,5,Outstanding quality for the price. Highly recommend to everyone.,224,Verified Purchase
+1454,45,255,2021-07-23,5,Works perfectly. Easy setup and exactly what I needed.,104,Verified Purchase
+1455,6,373,2021-03-02,4,Absolutely love this product! Exceeded all my expectations.,50,Unverified
+1456,21,107,2023-03-14,5,Top notch quality. Fast delivery. Amazon delivered as promised.,78,Unverified
+1457,29,385,2024-08-06,4,Outstanding quality for the price. Highly recommend to everyone.,33,Verified Purchase
+1458,31,148,2021-05-14,5,Five stars! Cannot imagine my life without this product now.,239,Verified Purchase
+1459,52,76,2024-04-19,5,Incredible value. This has become my favorite purchase this year.,243,Verified Purchase
+1460,3,66,2022-08-06,5,Great quality and fast shipping. Would definitely buy again.,243,Verified Purchase
+1461,17,438,2024-01-05,5,Incredible value. This has become my favorite purchase this year.,149,Unverified
+1462,52,250,2021-11-29,5,Five stars! Cannot imagine my life without this product now.,242,Verified Purchase
+1463,25,237,2024-02-21,5,Outstanding quality for the price. Highly recommend to everyone.,149,Verified Purchase
+1465,29,228,2022-09-29,4,Great quality and fast shipping. Would definitely buy again.,11,Verified Purchase
+1466,44,231,2024-07-21,4,Five stars! Cannot imagine my life without this product now.,25,Verified Purchase
+1467,54,28,2023-11-19,5,Incredible value. This has become my favorite purchase this year.,111,Unverified
+1468,9,179,2022-02-17,5,Five stars! Cannot imagine my life without this product now.,66,Verified Purchase
+1469,11,333,2024-09-17,4,Five stars! Cannot imagine my life without this product now.,124,Verified Purchase
+1470,25,33,2021-09-25,5,Outstanding quality for the price. Highly recommend to everyone.,246,Verified Purchase
+1471,52,491,2021-03-12,5,Perfect product. Exactly as described. Very happy with purchase.,60,Verified Purchase
+1472,14,382,2023-11-03,3,Average quality. Instructions could be clearer.,7,Verified Purchase
+1473,32,477,2023-03-20,5,Great quality and fast shipping. Would definitely buy again.,34,Verified Purchase
+1474,4,217,2023-07-21,4,Five stars! Cannot imagine my life without this product now.,235,Unverified
+1475,25,395,2021-04-03,4,Works perfectly. Easy setup and exactly what I needed.,223,Verified Purchase
+1476,42,443,2023-02-05,5,Incredible value. This has become my favorite purchase this year.,70,Verified Purchase
+1477,25,364,2022-10-08,5,Five stars! Cannot imagine my life without this product now.,65,Verified Purchase
+1478,8,286,2021-07-04,4,,245,Verified Purchase
+1479,15,168,2023-05-06,5,Works perfectly. Easy setup and exactly what I needed.,173,Verified Purchase
+1480,47,463,2024-07-16,3,Okay product. Shipping took longer than expected.,117,Unverified
+1481,51,134,2023-09-04,5,Five stars! Cannot imagine my life without this product now.,183,Verified Purchase
+1482,7,247,2021-06-02,3,Okay product. Shipping took longer than expected.,187,Verified Purchase
+1483,37,243,2022-07-10,3,Average quality. Instructions could be clearer.,120,Unverified
+1484,21,390,2021-06-26,3,Works as advertised. Nothing special but does the job.,9,Unverified
+1485,43,40,2023-01-21,4,Perfect product. Exactly as described. Very happy with purchase.,202,Unverified
+1486,56,182,2022-03-06,5,Perfect product. Exactly as described. Very happy with purchase.,91,Verified Purchase
+1487,6,376,2022-12-08,5,Great quality and fast shipping. Would definitely buy again.,177,Verified Purchase
+1488,7,418,2021-03-05,4,Incredible value. This has become my favorite purchase this year.,195,Verified Purchase
+1489,18,195,2021-12-29,5,Absolutely love this product! Exceeded all my expectations.,17,Verified Purchase
+1490,49,206,2023-12-28,5,Absolutely love this product! Exceeded all my expectations.,149,Verified Purchase
+1491,18,88,2023-03-07,2,Product looks nothing like the pictures. Misleading listing.,5,Verified Purchase
+1492,32,47,2022-10-13,5,Absolutely love this product! Exceeded all my expectations.,190,Unverified
+1493,38,187,2022-04-16,4,Outstanding quality for the price. Highly recommend to everyone.,70,Verified Purchase
+1494,50,445,2022-01-04,5,Outstanding quality for the price. Highly recommend to everyone.,34,Verified Purchase
+1495,35,83,2022-01-31,7,Terrible quality. Complete waste of money. Avoid this seller.,38,Verified Purchase
+1496,28,384,2024-03-29,5,Absolutely love this product! Exceeded all my expectations.,136,Verified Purchase
+1497,54,10,2024-06-18,5,Top notch quality. Fast delivery. Amazon delivered as promised.,99,Verified Purchase
+1498,45,268,2023-07-23,5,Top notch quality. Fast delivery. Amazon delivered as promised.,41,Verified Purchase
+1499,34,187,2023-11-13,5,Perfect product. Exactly as described. Very happy with purchase.,124,Verified Purchase
+1500,8,489,2021-09-22,5,Outstanding quality for the price. Highly recommend to everyone.,183,Verified Purchase
+1501,39,119,2022-03-18,4,Absolutely love this product! Exceeded all my expectations.,121,Verified Purchase
+1502,37,220,2023-10-22,5,,184,Unverified
+1503,8,394,2024-02-17,7,Product looks nothing like the pictures. Misleading listing.,168,Verified Purchase
+1504,30,455,2023-12-06,4,Great quality and fast shipping. Would definitely buy again.,152,Verified Purchase
+1505,16,114,2021-08-17,4,Perfect product. Exactly as described. Very happy with purchase.,187,Verified Purchase
+1506,54,174,2021-03-24,5,Works perfectly. Easy setup and exactly what I needed.,132,Verified Purchase
+1507,2,26,2023-02-04,5,Incredible value. This has become my favorite purchase this year.,175,Verified Purchase
+1508,25,479,2022-10-03,5,Perfect product. Exactly as described. Very happy with purchase.,103,Verified Purchase
+1509,1,437,2023-08-04,-1,Absolutely love this product! Exceeded all my expectations.,42,Verified Purchase
+1510,36,437,2022-02-13,5,Incredible value. This has become my favorite purchase this year.,58,Verified Purchase
+1511,8,470,2024-01-24,3,Average quality. Instructions could be clearer.,73,Verified Purchase
+1512,40,459,2022-09-10,5,Outstanding quality for the price. Highly recommend to everyone.,148,Verified Purchase
+1513,47,168,2022-08-03,-1,Great quality and fast shipping. Would definitely buy again.,120,Unverified
+1514,43,455,2023-08-08,5,Five stars! Cannot imagine my life without this product now.,228,Verified Purchase
+1515,14,188,2022-09-01,5,Five stars! Cannot imagine my life without this product now.,21,Unverified
+1516,41,241,2021-05-13,4,Perfect product. Exactly as described. Very happy with purchase.,159,Unverified
+1517,28,298,2022-10-23,3,Good overall but a bit overpriced for what you get.,31,Verified Purchase
+1518,55,239,2022-04-05,3,Good overall but a bit overpriced for what you get.,4,Verified Purchase
+1519,2,186,2021-04-25,4,Great quality and fast shipping. Would definitely buy again.,130,Unverified
+1520,3,149,2021-04-06,1,Stopped working after 2 weeks. Very disappointed.,36,Verified Purchase
+1521,10,422,2024-04-10,7,Absolutely love this product! Exceeded all my expectations.,70,Verified Purchase
+1522,50,497,2024-02-18,2,Arrived broken. Seller refused to help. Zero stars if possible.,194,Verified Purchase
+1524,3,189,2022-04-03,5,Works perfectly. Easy setup and exactly what I needed.,157,Verified Purchase
+1525,41,166,2022-10-20,5,Great quality and fast shipping. Would definitely buy again.,61,Verified Purchase
+1526,55,238,2024-07-02,4,Works perfectly. Easy setup and exactly what I needed.,154,Verified Purchase
+1527,21,357,2024-09-01,5,Great quality and fast shipping. Would definitely buy again.,61,Unverified
+1528,24,98,2021-08-28,5,Outstanding quality for the price. Highly recommend to everyone.,61,Verified Purchase
+1529,55,140,2023-06-10,7,Average quality. Instructions could be clearer.,25,Verified Purchase
+1530,56,69,2022-01-16,4,Incredible value. This has become my favorite purchase this year.,12,Verified Purchase
+1531,4,58,2022-10-20,5,Works perfectly. Easy setup and exactly what I needed.,70,Verified Purchase
+1532,30,134,2024-01-06,5,Perfect product. Exactly as described. Very happy with purchase.,204,Unverified
+1533,45,487,2021-09-16,5,Great quality and fast shipping. Would definitely buy again.,50,Verified Purchase
+1534,50,308,2021-07-29,3,Works as advertised. Nothing special but does the job.,163,Verified Purchase
+1535,17,413,2021-05-05,3,Decent product but packaging was damaged on arrival.,72,Verified Purchase
+1536,6,136,2021-09-05,0,Great quality and fast shipping. Would definitely buy again.,200,Verified Purchase
+1538,20,438,2024-04-13,5,Top notch quality. Fast delivery. Amazon delivered as promised.,15,Verified Purchase
+1539,28,263,2022-05-21,6,Absolutely love this product! Exceeded all my expectations.,49,Verified Purchase
+1540,55,468,2023-07-18,3,Decent product but packaging was damaged on arrival.,10,Unverified
+1541,20,228,2023-02-25,4,Top notch quality. Fast delivery. Amazon delivered as promised.,20,Verified Purchase
+1542,31,494,2023-05-20,5,Works perfectly. Easy setup and exactly what I needed.,109,Verified Purchase
+1543,52,347,2024-02-09,4,Top notch quality. Fast delivery. Amazon delivered as promised.,178,Verified Purchase
+1544,18,223,2021-05-06,5,Great quality and fast shipping. Would definitely buy again.,102,Verified Purchase
+1545,51,450,2021-04-18,5,Five stars! Cannot imagine my life without this product now.,23,Verified Purchase
+1546,28,427,2024-03-23,4,Outstanding quality for the price. Highly recommend to everyone.,113,Unverified
+1547,34,367,2022-09-25,5,Outstanding quality for the price. Highly recommend to everyone.,139,Unverified
+1548,42,445,2022-05-02,5,Great quality and fast shipping. Would definitely buy again.,216,Verified Purchase
+1549,45,83,2023-03-20,5,Works perfectly. Easy setup and exactly what I needed.,95,Verified Purchase
+1550,15,62,2022-06-08,5,Absolutely love this product! Exceeded all my expectations.,241,Verified Purchase
+1551,29,89,2024-09-27,-1,Absolutely love this product! Exceeded all my expectations.,250,Verified Purchase
+1552,21,87,2022-10-11,5,Works perfectly. Easy setup and exactly what I needed.,250,Verified Purchase
+1553,42,45,2022-04-30,3,Okay product. Shipping took longer than expected.,111,Unverified
+1554,56,290,2023-11-03,2,Terrible quality. Complete waste of money. Avoid this seller.,84,Unverified
+1555,50,307,2024-02-14,5,Works perfectly. Easy setup and exactly what I needed.,41,Unverified
+1556,47,113,2021-03-08,4,Great quality and fast shipping. Would definitely buy again.,205,Verified Purchase
+1557,33,488,2021-08-02,5,Outstanding quality for the price. Highly recommend to everyone.,83,Unverified
+1558,12,222,2023-09-02,5,Five stars! Cannot imagine my life without this product now.,103,Verified Purchase
+1559,22,310,2021-09-03,5,Five stars! Cannot imagine my life without this product now.,140,Verified Purchase
+1560,17,408,2023-07-27,3,Average quality. Instructions could be clearer.,55,Verified Purchase
+1561,5,31,2024-08-25,5,Incredible value. This has become my favorite purchase this year.,2,Verified Purchase
+1562,32,273,2021-12-12,5,Perfect product. Exactly as described. Very happy with purchase.,183,Verified Purchase
+1563,6,182,2023-02-06,5,Top notch quality. Fast delivery. Amazon delivered as promised.,19,Unverified
+1564,42,313,2021-10-15,5,Perfect product. Exactly as described. Very happy with purchase.,6,Verified Purchase
+1565,8,170,2022-07-18,4,Great quality and fast shipping. Would definitely buy again.,201,Verified Purchase
+1566,4,491,2021-04-05,5,Incredible value. This has become my favorite purchase this year.,88,Unverified
+1568,44,327,2021-06-02,5,Great quality and fast shipping. Would definitely buy again.,128,Verified Purchase
+1569,53,367,2022-08-06,4,Five stars! Cannot imagine my life without this product now.,232,Verified Purchase
+1570,33,362,2024-02-28,4,Incredible value. This has become my favorite purchase this year.,170,Verified Purchase
+1571,13,192,2023-04-22,4,Great quality and fast shipping. Would definitely buy again.,0,Unverified
+1572,52,254,2024-02-01,5,,238,Verified Purchase
+1573,22,459,2022-07-12,3,Works as advertised. Nothing special but does the job.,6,Verified Purchase
+1574,43,72,2023-04-13,5,Perfect product. Exactly as described. Very happy with purchase.,188,Verified Purchase
+1575,49,304,2022-09-16,5,Five stars! Cannot imagine my life without this product now.,112,Unverified
+1576,37,66,2022-07-26,4,Incredible value. This has become my favorite purchase this year.,84,Verified Purchase
+1578,8,25,2021-04-27,5,Great quality and fast shipping. Would definitely buy again.,38,Verified Purchase
+1579,54,425,2022-08-16,2,Stopped working after 2 weeks. Very disappointed.,18,Verified Purchase
+1580,33,213,2024-07-05,5,Works perfectly. Easy setup and exactly what I needed.,54,Verified Purchase
+1581,6,126,2023-09-18,3,Good overall but a bit overpriced for what you get.,243,Unverified
+1582,48,124,2023-11-03,2,Stopped working after 2 weeks. Very disappointed.,124,Verified Purchase
+1583,29,309,2022-08-31,2,Product looks nothing like the pictures. Misleading listing.,61,Verified Purchase
+1584,20,141,2023-07-23,5,,139,Verified Purchase
+1585,43,252,2024-08-06,4,,158,Verified Purchase
+1586,15,130,2023-10-17,5,Incredible value. This has become my favorite purchase this year.,219,Verified Purchase
+1587,39,224,2021-06-13,3,Decent product but packaging was damaged on arrival.,3,Verified Purchase
+1588,11,145,2023-09-30,3,Okay product. Shipping took longer than expected.,239,Verified Purchase
+1589,26,405,2022-06-13,5,Works perfectly. Easy setup and exactly what I needed.,129,Unverified
+1590,40,437,2022-06-06,4,Perfect product. Exactly as described. Very happy with purchase.,26,Verified Purchase
+1591,28,269,2024-08-02,4,Outstanding quality for the price. Highly recommend to everyone.,193,Unverified
+1592,44,195,2023-07-31,5,Top notch quality. Fast delivery. Amazon delivered as promised.,121,Unverified
+1593,50,456,2023-02-14,5,,198,Verified Purchase
+1594,51,270,2022-05-13,4,,173,Unverified
+1595,30,171,2023-07-06,4,Top notch quality. Fast delivery. Amazon delivered as promised.,217,Verified Purchase
+1596,26,246,2022-05-03,5,Incredible value. This has become my favorite purchase this year.,108,Unverified
+1597,52,141,2023-03-08,5,Absolutely love this product! Exceeded all my expectations.,227,Verified Purchase
+1599,43,438,2023-04-21,4,Absolutely love this product! Exceeded all my expectations.,148,Verified Purchase
+1600,30,77,2022-12-11,5,Works perfectly. Easy setup and exactly what I needed.,98,Verified Purchase
+1601,11,222,2025-06-04,4,Great quality and fast shipping. Would definitely buy again.,8,Verified Purchase
+1602,15,412,2023-10-23,5,Top notch quality. Fast delivery. Amazon delivered as promised.,113,Verified Purchase
+1603,18,173,2024-07-30,5,Perfect product. Exactly as described. Very happy with purchase.,124,Verified Purchase
+1604,6,65,2022-10-31,4,Perfect product. Exactly as described. Very happy with purchase.,179,Unverified
+1605,39,96,2022-07-18,2,Product looks nothing like the pictures. Misleading listing.,223,Verified Purchase
+1606,25,20,2022-03-28,4,Outstanding quality for the price. Highly recommend to everyone.,26,Verified Purchase
+1608,20,439,2022-05-01,5,Absolutely love this product! Exceeded all my expectations.,129,Verified Purchase
+1609,17,30,2024-06-25,4,Top notch quality. Fast delivery. Amazon delivered as promised.,18,Verified Purchase
+1610,55,244,2022-12-22,5,Outstanding quality for the price. Highly recommend to everyone.,28,Verified Purchase
+1611,41,43,2023-09-03,4,Great quality and fast shipping. Would definitely buy again.,198,Unverified
+1612,48,136,2023-09-28,3,Good overall but a bit overpriced for what you get.,184,Verified Purchase
+1613,30,206,2021-07-26,4,Absolutely love this product! Exceeded all my expectations.,172,Verified Purchase
+1614,42,395,2021-07-06,4,Top notch quality. Fast delivery. Amazon delivered as promised.,203,Unverified
+1615,44,367,2024-04-02,5,Great quality and fast shipping. Would definitely buy again.,70,Unverified
+1616,6,432,2025-10-22,5,,12,Verified Purchase
+1617,38,258,2024-06-12,5,Incredible value. This has become my favorite purchase this year.,31,Unverified
+1618,12,208,2023-11-02,5,Outstanding quality for the price. Highly recommend to everyone.,72,Verified Purchase
+1619,17,234,2022-02-01,3,Okay product. Shipping took longer than expected.,108,Verified Purchase
+1620,10,378,2023-06-27,5,Great quality and fast shipping. Would definitely buy again.,217,Unverified
+1621,41,104,2021-07-08,5,Top notch quality. Fast delivery. Amazon delivered as promised.,226,Verified Purchase
+1622,16,308,2023-08-09,4,,131,Unverified
+1623,29,275,2021-03-01,5,Absolutely love this product! Exceeded all my expectations.,10,Verified Purchase
+1625,38,416,2022-05-07,5,Absolutely love this product! Exceeded all my expectations.,5,Verified Purchase
+1626,52,204,2022-02-11,4,Incredible value. This has become my favorite purchase this year.,52,Verified Purchase
+1628,37,189,2024-05-14,2,Terrible quality. Complete waste of money. Avoid this seller.,46,Verified Purchase
+1629,18,281,2021-08-07,4,Perfect product. Exactly as described. Very happy with purchase.,199,Unverified
+1630,9,454,2023-12-02,4,Great quality and fast shipping. Would definitely buy again.,8,Verified Purchase
+1631,54,497,2021-05-26,5,Five stars! Cannot imagine my life without this product now.,6,Unverified
+1632,43,187,2022-01-31,4,Five stars! Cannot imagine my life without this product now.,231,Verified Purchase
+1633,30,393,2021-07-27,1,Product looks nothing like the pictures. Misleading listing.,101,Verified Purchase
+1634,33,205,2022-07-28,4,Perfect product. Exactly as described. Very happy with purchase.,182,Unverified
+1635,6,382,2021-09-18,4,Perfect product. Exactly as described. Very happy with purchase.,83,Unverified
+1636,18,68,2023-05-26,4,Outstanding quality for the price. Highly recommend to everyone.,90,Verified Purchase
+1637,23,59,2021-07-29,4,Outstanding quality for the price. Highly recommend to everyone.,158,Unverified
+1638,45,38,2024-05-14,4,Great quality and fast shipping. Would definitely buy again.,187,Verified Purchase
+1639,50,373,2024-09-10,5,Five stars! Cannot imagine my life without this product now.,218,Verified Purchase
+1640,10,437,2023-10-13,4,Incredible value. This has become my favorite purchase this year.,63,Verified Purchase
+1641,29,389,2022-10-27,5,Works perfectly. Easy setup and exactly what I needed.,102,Unverified
+1642,43,130,2022-08-05,5,Top notch quality. Fast delivery. Amazon delivered as promised.,102,Unverified
+1643,49,377,2022-09-23,5,Absolutely love this product! Exceeded all my expectations.,129,Verified Purchase
+1644,29,448,2021-11-13,4,Incredible value. This has become my favorite purchase this year.,183,Verified Purchase
+1645,31,330,2021-09-12,5,Top notch quality. Fast delivery. Amazon delivered as promised.,135,Verified Purchase
+1646,5,200,2024-01-13,4,Great quality and fast shipping. Would definitely buy again.,58,Verified Purchase
+1647,41,268,2021-10-24,4,Five stars! Cannot imagine my life without this product now.,170,Verified Purchase
+1648,44,58,2024-07-31,3,Average quality. Instructions could be clearer.,233,Unverified
+1649,35,305,2022-10-03,4,Perfect product. Exactly as described. Very happy with purchase.,191,Unverified
+1650,2,251,2021-10-08,5,Absolutely love this product! Exceeded all my expectations.,34,Verified Purchase
+1651,5,355,2022-04-07,5,Absolutely love this product! Exceeded all my expectations.,118,Verified Purchase
+1652,16,226,2024-09-30,4,Works perfectly. Easy setup and exactly what I needed.,174,Verified Purchase
+1653,16,165,2024-04-18,4,Five stars! Cannot imagine my life without this product now.,123,Unverified
+1654,37,47,2022-05-09,4,Absolutely love this product! Exceeded all my expectations.,98,Verified Purchase
+1655,26,245,2023-04-16,4,Top notch quality. Fast delivery. Amazon delivered as promised.,220,Verified Purchase
+1656,26,282,2023-04-06,4,Five stars! Cannot imagine my life without this product now.,185,Verified Purchase
+1657,35,74,2024-08-05,5,Five stars! Cannot imagine my life without this product now.,203,Verified Purchase
+1658,12,78,2023-10-04,4,Incredible value. This has become my favorite purchase this year.,169,Verified Purchase
+1659,48,173,2022-07-04,5,Works perfectly. Easy setup and exactly what I needed.,142,Unverified
+1660,46,213,2022-08-13,4,Absolutely love this product! Exceeded all my expectations.,4,Unverified
+1661,48,351,2022-09-08,5,Works perfectly. Easy setup and exactly what I needed.,5,Verified Purchase
+1662,37,461,2024-01-13,2,Arrived broken. Seller refused to help. Zero stars if possible.,45,Verified Purchase
+1663,44,197,2024-01-15,4,Top notch quality. Fast delivery. Amazon delivered as promised.,133,Unverified
+1664,56,318,2021-10-01,5,Outstanding quality for the price. Highly recommend to everyone.,100,Verified Purchase
+1665,39,280,2021-11-26,2,Stopped working after 2 weeks. Very disappointed.,153,Verified Purchase
+1666,34,366,2024-01-24,5,Perfect product. Exactly as described. Very happy with purchase.,204,Verified Purchase
+1667,55,437,2021-05-09,5,,61,Unverified
+1668,56,45,2022-10-03,3,Okay product. Shipping took longer than expected.,111,Verified Purchase
+1669,26,455,2022-09-13,4,Outstanding quality for the price. Highly recommend to everyone.,139,Verified Purchase
+1670,23,248,2022-08-05,5,Perfect product. Exactly as described. Very happy with purchase.,240,Unverified
+1671,47,230,2022-04-27,1,Product looks nothing like the pictures. Misleading listing.,108,Verified Purchase
+1672,3,264,2023-09-08,5,Incredible value. This has become my favorite purchase this year.,154,Verified Purchase
+1673,42,19,2022-12-03,5,Great quality and fast shipping. Would definitely buy again.,130,Unverified
+1674,17,305,2022-08-06,4,Perfect product. Exactly as described. Very happy with purchase.,17,Verified Purchase
+1675,4,334,2023-11-17,5,Great quality and fast shipping. Would definitely buy again.,150,Unverified
+1676,23,386,2023-06-29,5,Outstanding quality for the price. Highly recommend to everyone.,68,Verified Purchase
+1677,48,472,2023-08-08,5,Five stars! Cannot imagine my life without this product now.,230,Unverified
+1678,22,129,2023-10-04,5,Perfect product. Exactly as described. Very happy with purchase.,193,Verified Purchase
+1679,40,115,2024-03-28,5,Five stars! Cannot imagine my life without this product now.,131,Verified Purchase
+1680,11,416,2021-04-08,4,Five stars! Cannot imagine my life without this product now.,224,Verified Purchase
+1681,16,46,2026-12-28,3,Average quality. Instructions could be clearer.,129,Unverified
+1682,46,32,2022-04-14,4,Works perfectly. Easy setup and exactly what I needed.,118,Unverified
+1683,13,390,2023-12-22,5,Outstanding quality for the price. Highly recommend to everyone.,241,Verified Purchase
+1684,21,304,2023-06-08,5,Incredible value. This has become my favorite purchase this year.,139,Verified Purchase
+1685,23,23,2022-12-15,3,Okay product. Shipping took longer than expected.,97,Verified Purchase
+1687,20,452,2021-05-29,5,Absolutely love this product! Exceeded all my expectations.,247,Verified Purchase
+1688,40,71,2022-09-01,5,Works perfectly. Easy setup and exactly what I needed.,63,Verified Purchase
+1689,31,339,2023-10-14,4,Works perfectly. Easy setup and exactly what I needed.,112,Unverified
+1690,24,220,2023-01-03,4,Incredible value. This has become my favorite purchase this year.,177,Verified Purchase
+1691,35,43,2023-05-05,4,Works perfectly. Easy setup and exactly what I needed.,96,Verified Purchase
+1692,23,85,2022-08-07,4,Incredible value. This has become my favorite purchase this year.,147,Verified Purchase
+1693,25,44,2023-04-28,4,Outstanding quality for the price. Highly recommend to everyone.,168,Unverified
+1694,28,130,2022-02-22,4,Incredible value. This has become my favorite purchase this year.,110,Verified Purchase
+1695,7,493,2026-10-03,5,Top notch quality. Fast delivery. Amazon delivered as promised.,0,Verified Purchase
+1696,37,389,2021-10-01,5,Five stars! Cannot imagine my life without this product now.,54,Verified Purchase
+1697,13,72,2022-04-30,5,Outstanding quality for the price. Highly recommend to everyone.,54,Unverified
+1698,7,45,2024-05-09,3,Average quality. Instructions could be clearer.,248,Unverified
+1699,1,152,2023-02-22,4,Absolutely love this product! Exceeded all my expectations.,45,Verified Purchase
+1700,42,368,2021-07-05,2,Stopped working after 2 weeks. Very disappointed.,94,Verified Purchase
+1701,6,70,2024-03-02,5,Five stars! Cannot imagine my life without this product now.,130,Verified Purchase
+1702,42,295,2023-01-22,4,Works perfectly. Easy setup and exactly what I needed.,7,Verified Purchase
+1703,13,170,2023-02-12,5,Perfect product. Exactly as described. Very happy with purchase.,103,Verified Purchase
+1704,2,43,2023-10-07,4,Five stars! Cannot imagine my life without this product now.,149,Unverified
+1705,42,215,2024-08-25,5,Great quality and fast shipping. Would definitely buy again.,137,Verified Purchase
+1706,15,196,2023-02-18,5,Works perfectly. Easy setup and exactly what I needed.,130,Verified Purchase
+1707,36,41,2023-07-12,5,Works perfectly. Easy setup and exactly what I needed.,65,Verified Purchase
+1708,36,438,2021-06-21,3,Good overall but a bit overpriced for what you get.,137,Unverified
+1709,6,51,2023-06-23,5,Great quality and fast shipping. Would definitely buy again.,93,Verified Purchase
+1710,7,26,2024-06-12,4,Five stars! Cannot imagine my life without this product now.,76,Verified Purchase
+1711,2,210,2023-04-10,4,Great quality and fast shipping. Would definitely buy again.,77,Verified Purchase
+1712,56,136,2021-12-27,1,Arrived broken. Seller refused to help. Zero stars if possible.,65,Verified Purchase
+1713,34,289,2022-04-05,5,Works perfectly. Easy setup and exactly what I needed.,17,Verified Purchase
+1714,9,336,2022-03-20,5,Perfect product. Exactly as described. Very happy with purchase.,228,Verified Purchase
+1715,33,272,2023-09-15,4,Five stars! Cannot imagine my life without this product now.,3,Verified Purchase
+1716,16,125,2024-05-28,5,Absolutely love this product! Exceeded all my expectations.,223,Unverified
+1717,26,116,2021-03-05,5,Absolutely love this product! Exceeded all my expectations.,129,Unverified
+1718,26,123,2021-09-23,5,Outstanding quality for the price. Highly recommend to everyone.,62,Verified Purchase
+1719,16,150,2024-06-28,4,Five stars! Cannot imagine my life without this product now.,220,Unverified
+1720,25,285,2021-03-20,5,Five stars! Cannot imagine my life without this product now.,53,Verified Purchase
+1721,48,7,2023-08-06,5,Absolutely love this product! Exceeded all my expectations.,96,Verified Purchase
+1722,47,40,2023-04-30,4,,37,Verified Purchase
+1723,7,287,2024-08-08,5,Outstanding quality for the price. Highly recommend to everyone.,21,Verified Purchase
+1724,52,261,2024-04-17,2,Arrived broken. Seller refused to help. Zero stars if possible.,162,Unverified
+1725,11,311,2021-12-30,3,Average quality. Instructions could be clearer.,113,Verified Purchase
+1726,24,177,2022-05-29,5,Outstanding quality for the price. Highly recommend to everyone.,122,Unverified
+1727,16,154,2023-05-25,5,Outstanding quality for the price. Highly recommend to everyone.,228,Verified Purchase
+1728,8,458,2022-08-05,5,Incredible value. This has become my favorite purchase this year.,54,Verified Purchase
+1729,54,347,2021-05-13,5,Incredible value. This has become my favorite purchase this year.,132,Verified Purchase
+1730,40,341,2022-07-29,5,Great quality and fast shipping. Would definitely buy again.,131,Verified Purchase
+1731,25,62,2024-04-28,4,Absolutely love this product! Exceeded all my expectations.,227,Verified Purchase
+1732,51,258,2024-06-19,5,,224,Verified Purchase
+1733,35,44,2022-08-03,2,Product looks nothing like the pictures. Misleading listing.,241,Verified Purchase
+1734,5,269,2021-07-11,1,Arrived broken. Seller refused to help. Zero stars if possible.,175,Unverified
+1735,16,254,2023-11-09,4,Outstanding quality for the price. Highly recommend to everyone.,114,Verified Purchase
+1736,18,444,2023-05-18,2,Terrible quality. Complete waste of money. Avoid this seller.,44,Verified Purchase
+1737,20,145,2021-05-18,5,Great quality and fast shipping. Would definitely buy again.,181,Unverified
+1738,28,379,2022-07-18,3,Decent product but packaging was damaged on arrival.,63,Unverified
+1739,52,202,2023-03-17,-1,Good overall but a bit overpriced for what you get.,53,Verified Purchase
+1740,36,132,2022-06-10,5,Top notch quality. Fast delivery. Amazon delivered as promised.,113,Unverified
+1741,3,200,2021-12-26,5,Outstanding quality for the price. Highly recommend to everyone.,247,Verified Purchase

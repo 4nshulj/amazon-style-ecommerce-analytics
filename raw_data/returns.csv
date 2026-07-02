@@ -1,0 +1,181 @@
+return_id,order_id,return_date,reason,refund_amount,status
+1,158,2024-08-08,,3180.29,Pending
+2,795,2024-07-15,Arrived too late,2467.01,Rejected
+3,1422,2022-03-07,Defective or damaged product,296.37,Approved
+4,1948,2023-03-27,Better price available elsewhere,408.51,Rejected
+5,1436,2024-07-27,Size doesn't fit,2673.86,Approved
+6,1409,2024-06-11,Changed my mind,847.48,Approved
+7,1724,2022-08-10,Better price available elsewhere,948.13,Approved
+8,733,2024-06-28,Quality not as expected,326.54,Approved
+9,496,2021-05-18,Arrived too late,947.73,Pending
+10,2250,2024-08-30,Changed my mind,1615.45,Approved
+11,169,2024-02-19,No longer needed,1207.6,Approved
+12,1485,2023-07-10,Arrived too late,1754.41,Pending
+13,384,2024-01-30,Arrived too late,39.86,pending
+14,1594,2022-09-27,Quality not as expected,1146.13,Pending
+15,2038,2022-07-05,Defective or damaged product,199.44,Approved
+16,879,2023-02-06,Quality not as expected,177.2,Pending
+17,307,2024-08-17,Wrong item sent,341.89,Approved
+18,1530,2021-04-15,Quality not as expected,1001.59,Pending
+19,1867,2021-04-18,Quality not as expected,1480.74,Approved
+20,1644,2022-09-07,Item not as described,602.56,Approved
+21,1685,2022-06-16,Arrived too late,2025.89,Rejected
+22,809,2023-03-21,Changed my mind,1545.16,Pending
+23,1211,2023-12-03,No longer needed,2396.21,Rejected
+24,1704,2023-05-15,No longer needed,2773.71,Rejected
+25,935,2022-07-02,Quality not as expected,97.89,Pending
+26,1607,2022-10-29,Wrong item sent,74.76,Rejected
+27,1970,2023-09-23,Item not as described,1622.47,Approved
+28,789,2022-11-26,Changed my mind,2243.56,Pending
+29,1443,2022-04-18,,953.59,Approved
+30,363,2023-11-05,Arrived too late,2210.15,Pending
+31,601,2023-03-28,Arrived too late,347.92,Pending
+32,1178,2024-05-26,Item not as described,2864.72,Pending
+33,1931,2021-05-02,Changed my mind,1970.13,Approved
+34,1523,2024-04-12,No longer needed,1664.57,Pending
+35,1234,2023-04-20,Arrived too late,1135.19,Rejected
+36,766,2021-02-25,Quality not as expected,118.87,Approved
+37,1883,2022-11-28,Item not as described,166.17,Approved
+38,559,2024-05-27,Quality not as expected,1762.12,Approved
+39,1209,2024-01-22,Quality not as expected,2018.74,Pending
+40,1654,2023-12-23,Size doesn't fit,922.83,Approved
+41,336,2023-11-07,Arrived too late,701.14,Approved
+42,429,2024-04-02,Arrived too late,1288.79,Pending
+43,1517,2024-03-09,Item not as described,627.91,Approved
+44,202,2021-06-29,No longer needed,1439.55,Pending
+45,2182,2022-07-14,Quality not as expected,2088.57,Rejected
+46,239,2021-11-04,Wrong item sent,1895.32,Approved
+47,1413,2021-04-13,Defective or damaged product,1078.89,Rejected
+48,635,2024-01-22,Size doesn't fit,752.24,Approved
+49,1985,2022-08-25,Defective or damaged product,2636.67,Pending
+50,224,2024-06-08,Better price available elsewhere,2536.93,Rejected
+51,8,2024-06-13,Defective or damaged product,1131.07,Approved
+52,915,2021-04-07,Item not as described,1148.99,Rejected
+53,479,2021-04-18,Duplicate order,1468.22,Pending
+54,2011,2024-10-03,Duplicate order,2221.81,Approved
+55,2203,2024-01-09,Duplicate order,1644.6,Approved
+56,2214,2022-08-17,,3274.45,Approved
+57,236,2022-02-05,Wrong item sent,555.75,Approved
+58,953,2023-11-04,Size doesn't fit,470.4,Pending
+59,535,2023-06-06,Quality not as expected,1348.45,Rejected
+60,1460,2022-12-11,Changed my mind,1136.87,Approved
+61,1642,2022-05-05,Changed my mind,1140.57,Approved
+62,2180,2021-02-01,No longer needed,557.3,Approved
+63,608,2021-10-06,Arrived too late,1877.45,Approved
+64,211,2024-09-22,Size doesn't fit,1730.79,Approved
+65,2338,2021-04-22,Size doesn't fit,2111.85,Approved
+66,369,2024-08-20,Size doesn't fit,1710.37,Approved
+67,664,2024-02-19,Wrong item sent,1106.81,Approved
+68,806,2024-03-20,Item not as described,1887.44,Rejected
+69,427,2024-06-08,Changed my mind,1368.43,Rejected
+70,1808,2021-09-04,Duplicate order,556.36,Pending
+71,2014,2023-04-18,Quality not as expected,1066.09,Approved
+72,1880,2024-06-13,Size doesn't fit,1071.1,Approved
+73,1786,2021-06-12,Defective or damaged product,1145.24,Pending
+74,481,2022-03-10,Quality not as expected,255.71,Approved
+75,1122,2023-07-11,Item not as described,2091.59,Approved
+76,753,2022-06-04,Quality not as expected,2025.77,Pending
+77,1401,2021-08-28,Defective or damaged product,780.99,Rejected
+78,1123,2023-08-23,Quality not as expected,1243.53,Approved
+79,1914,2023-02-15,Arrived too late,1543.61,Approved
+80,1783,2022-08-02,Quality not as expected,1273.48,Approved
+81,1213,2023-12-31,Size doesn't fit,2090.75,Rejected
+82,922,2024-06-30,Item not as described,690.01,Pending
+83,153,2024-02-14,Better price available elsewhere,1249.3,Pending
+84,727,2021-07-23,Duplicate order,95.01,Pending
+85,41,2023-08-01,Item not as described,389.11,Approved
+86,192,2023-09-14,Duplicate order,2065.34,Pending
+87,2353,2021-01-09,No longer needed,2971.52,Pending
+88,1548,2021-05-06,Changed my mind,1826.28,Pending
+89,975,2022-01-17,Better price available elsewhere,1788.28,Pending
+90,60,2023-01-13,No longer needed,2017.78,Approved
+91,1317,2023-01-04,Wrong item sent,709.45,Rejected
+92,1882,2024-05-13,Changed my mind,432.67,Pending
+93,1420,2022-10-19,Size doesn't fit,1961.63,Pending
+94,554,2021-04-21,Quality not as expected,2586.3,Approved
+95,93,2021-11-29,Quality not as expected,2588.09,Pending
+96,1828,2021-10-28,Size doesn't fit,2381.37,Pending
+97,1086,2023-07-25,Item not as described,1509.72,Approved
+98,991,2021-10-16,Item not as described,3025.35,Pending
+99,1976,2024-02-04,Duplicate order,1047.69,Approved
+100,1791,2022-06-23,Wrong item sent,1327.62,Rejected
+101,2154,2021-06-10,Defective or damaged product,1090.97,Rejected
+102,1438,2021-01-12,Wrong item sent,883.74,Pending
+103,1313,2021-03-21,Duplicate order,408.98,Pending
+104,1851,2022-03-22,Duplicate order,345.31,Approved
+105,337,2023-04-16,Defective or damaged product,1262.93,Rejected
+106,782,2022-12-12,Duplicate order,2509.26,Pending
+107,622,2021-03-07,Size doesn't fit,170.36,Pending
+108,1853,2022-09-17,Duplicate order,1379.88,Approved
+109,2357,2021-06-05,,720.71,Pending
+110,1901,2022-06-08,Size doesn't fit,839.61,Pending
+111,2042,2023-05-09,Defective or damaged product,1466.36,Approved
+112,1265,2024-02-14,Item not as described,1693.53,Pending
+113,1667,2023-04-02,Duplicate order,926.88,Pending
+114,2186,2021-06-15,,82.84,Pending
+115,282,2024-07-15,Size doesn't fit,1762.43,Rejected
+116,1300,2023-07-14,Size doesn't fit,556.79,Rejected
+117,923,2022-10-06,Wrong item sent,1711.14,Approved
+118,254,2021-05-31,Better price available elsewhere,2479.31,Approved
+119,2356,2024-05-16,Defective or damaged product,1946.44,Rejected
+120,380,2022-07-19,Item not as described,378.21,Rejected
+121,173,2021-06-27,Defective or damaged product,882.74,Approved
+122,821,2022-11-19,Size doesn't fit,2207.33,Pending
+123,1107,2023-01-09,Arrived too late,142.41,approved
+124,883,2023-07-22,Item not as described,1064.26,Rejected
+125,851,2023-10-19,Arrived too late,1775.97,Pending
+126,849,2023-01-17,Duplicate order,1882.95,Pending
+127,1186,2021-07-22,No longer needed,3163.49,Approved
+128,377,2022-01-05,Duplicate order,689.25,Approved
+129,1372,2022-08-17,Duplicate order,1154.56,Approved
+130,780,2021-11-25,No longer needed,627.52,Approved
+131,203,2022-11-12,Arrived too late,1757.0,Pending
+132,620,2022-05-17,Size doesn't fit,1875.3,Pending
+133,1996,2021-10-26,Better price available elsewhere,1116.97,Pending
+134,1781,2023-06-02,Arrived too late,242.06,Rejected
+135,1227,2022-06-13,No longer needed,666.58,Approved
+136,1188,2024-02-02,No longer needed,119.43,Approved
+137,1675,2022-05-06,Size doesn't fit,2895.49,Pending
+138,2318,2021-02-22,Arrived too late,1590.2,Approved
+139,674,2022-07-12,No longer needed,1351.24,Approved
+140,877,2021-07-31,Item not as described,2594.49,Approved
+141,2109,2021-02-19,No longer needed,115.23,Approved
+142,1266,2022-07-02,Defective or damaged product,118.47,Approved
+143,2288,2023-12-19,Defective or damaged product,599.57,Approved
+144,868,2023-05-09,Quality not as expected,1029.71,Pending
+145,1751,2023-04-08,Duplicate order,2841.64,Approved
+146,177,2023-01-28,Wrong item sent,483.48,Approved
+147,1037,2023-11-26,Wrong item sent,488.79,Pending
+148,2030,2022-07-02,Arrived too late,1970.11,Rejected
+149,1348,2021-05-15,Item not as described,2715.48,Pending
+150,903,2024-07-28,Size doesn't fit,329.78,Approved
+151,477,2024-09-02,Defective or damaged product,755.0,Approved
+152,1324,2022-11-19,Better price available elsewhere,1094.92,Approved
+153,502,2024-02-19,Duplicate order,2057.95,Rejected
+154,2231,2021-05-26,Better price available elsewhere,517.08,Approved
+155,891,2022-04-30,Arrived too late,374.75,Rejected
+156,1633,2023-01-09,Quality not as expected,411.02,Approved
+157,1916,2022-03-12,Better price available elsewhere,2865.44,Pending
+158,1217,2024-09-22,No longer needed,680.75,Approved
+159,588,2023-01-17,Defective or damaged product,1906.74,Rejected
+160,312,2022-09-05,Size doesn't fit,1346.34,Rejected
+161,1961,2022-10-25,Changed my mind,638.42,Approved
+162,204,2021-03-13,,1027.98,Approved
+163,699,2022-05-20,Item not as described,282.71,pending
+164,801,2024-03-30,Wrong item sent,195.01,Pending
+165,593,2024-05-25,Duplicate order,1003.17,Approved
+166,649,2024-10-07,Duplicate order,2120.92,Approved
+167,1884,2021-03-19,Changed my mind,1247.34,Rejected
+168,1657,2024-01-02,Quality not as expected,1021.73,Approved
+169,276,2024-01-21,Better price available elsewhere,766.18,Approved
+170,445,2023-08-19,Item not as described,1586.12,Approved
+171,35,2023-08-20,No longer needed,139.11,Pending
+172,1915,2024-01-04,Item not as described,318.72,Rejected
+173,1258,2023-02-27,,1456.19,approved
+174,76,2024-04-19,Changed my mind,2879.28,Approved
+175,1396,2021-06-17,Changed my mind,132.55,Rejected
+176,1119,2024-08-01,Size doesn't fit,3317.14,Rejected
+177,428,2024-04-21,Better price available elsewhere,1639.09,Approved
+178,1124,2022-12-19,Wrong item sent,1195.27,Rejected
+179,986,2023-11-30,Size doesn't fit,1111.34,Approved
+180,92,2021-08-07,Better price available elsewhere,2355.38,Pending
