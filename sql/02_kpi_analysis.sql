@@ -233,8 +233,6 @@ ORDER  BY avg_delivery_days;
 -- ============================================================================================================================
 -- Q-13 : EXECUTIVE SUMMARY DASHBOARD — SINGLE-QUERY KPI SNAPSHOT (2023)
 -- Business use : One-row executive summary for leadership reporting; maps directly to a Power BI card row.
--- Fixes       : Original query had a syntax error (ROUND(c.avg_order_value,2) AS ,) and wrong
---               CROSS JOIN target (CTE instead of ranks CTE). Corrected below.
 -- ============================================================================================================================
 
 WITH kpis AS (
