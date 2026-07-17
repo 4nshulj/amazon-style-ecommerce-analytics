@@ -13,8 +13,6 @@
 -- ============================================================================================================================
 -- Q-01 : TOP 10 CUSTOMERS BY LIFETIME VALUE (LTV)
 -- Business use : Identify highest-value customers for VIP treatment, retention offers, and upsell targeting.
--- Fix         : Original used COALESCE(SUM(o.total_amount::NUMERIC),0) — total_amount is already NUMERIC
---               in the clean view; the redundant cast is removed.
 -- ============================================================================================================================
 
 SELECT
@@ -40,8 +38,6 @@ LIMIT  10;
 -- ============================================================================================================================
 -- Q-02 : CUSTOMERS WITH ABOVE-AVERAGE LIFETIME VALUE
 -- Business use : Distinguish high-value customers from the base; input for tiered loyalty programmes.
--- Fix         : Original joined CTE incorrectly (cross-joining avg onto the clv CTE without a proper alias).
---               Corrected using a scalar subquery for the average, which is cleaner and unambiguous.
 -- ============================================================================================================================
 
 WITH customer_ltv AS (
@@ -98,8 +94,6 @@ ORDER  BY segment, segment_rank;
 -- ============================================================================================================================
 -- Q-04 : PRIME VS NON-PRIME REVENUE BY QUARTER
 -- Business use : Quantify the revenue impact of Prime membership; inform membership pricing decisions.
--- Fix         : Original GROUP BY used c.prime_member which could miss combinations — changed to the
---               CASE expression to ensure clean grouping on the derived label.
 -- ============================================================================================================================
 
 SELECT
@@ -120,8 +114,6 @@ ORDER  BY DATE_TRUNC('quarter', o.order_date), customer_type;
 -- ============================================================================================================================
 -- Q-05 : REPEAT CUSTOMERS — ORDERED IN 3 OR MORE DISTINCT MONTHS
 -- Business use : Measure purchase loyalty beyond simple order counts; identify habitual buyers.
--- Fix         : Original SELECT had CONCAT() aliased as 'active_months' then used as a GROUP BY alias —
---               that is invalid SQL. Corrected with explicit column references in GROUP BY.
 -- ============================================================================================================================
 
 SELECT
@@ -141,9 +133,6 @@ ORDER  BY active_months DESC, total_orders DESC;
 -- Q-06 : AVERAGE GAP BETWEEN CONSECUTIVE ORDERS PER CUSTOMER
 -- Business use : Understand purchase cadence; feed into churn prediction (customers exceeding their
 --               average gap are at risk of churning).
--- Fix         : Original subtracted DATE from DATE using order_date column directly — works in PostgreSQL
---               but only because order_date in the clean view is already DATE type. Added explicit cast
---               comment for clarity. HAVING changed from > 3 to >= 3 to include 3-order customers.
 -- ============================================================================================================================
 
 WITH order_sequence AS (
@@ -177,9 +166,6 @@ ORDER  BY avg_days_between_orders;
 -- Q-07 : Q1 2022 COHORT RETENTION ANALYSIS
 -- Business use : Measure how well the platform retains first-time buyers over subsequent quarters.
 --               A core metric for subscription and marketplace businesses.
--- Fix         : Original queried raw orders table for the cohort build but clean view for retention;
---               unified to use orders_clean throughout. Also fixed: cohort CTE alias 'c' clashed with
---               the JOIN alias — renamed to 'coh'.
 -- ============================================================================================================================
 
 WITH first_order_per_customer AS (
@@ -223,11 +209,6 @@ LEFT   JOIN orders_clean o
 -- Q-08 : RFM CUSTOMER SEGMENTATION
 -- Business use : Score every customer on Recency, Frequency, and Monetary value to assign a behaviour
 --               segment — used directly for targeted marketing and churn-prevention campaigns.
--- Fix         : Original used CURRENT_DATE - MAX(o.order_date) which would fail if order_date is DATE
---               type in the view (it is) — but the subtraction of two DATEs returns an INTEGER in
---               PostgreSQL, which is correct. Added explicit alias clarity and ensured NTILE direction
---               is correct (low recency_days = more recent = higher score, hence ORDER BY recency_days ASC
---               for r_score so rank 4 = most recent).
 -- ============================================================================================================================
 
 WITH rfm_base AS (
@@ -274,8 +255,6 @@ ORDER BY rfm_score DESC;
 -- ============================================================================================================================
 -- Q-09 : TOP 10% CUSTOMERS BY REVENUE AND THEIR SHARE OF TOTAL REVENUE
 -- Business use : Pareto analysis — quantify how much revenue concentration exists in the top decile.
--- Fix         : Original CROSS JOINed Threshold onto the wrong CTE. Corrected: the WHERE filter must
---               reference the threshold value, not the CTE name.
 -- ============================================================================================================================
 
 WITH customer_revenue AS (
