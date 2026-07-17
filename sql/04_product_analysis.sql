@@ -56,9 +56,6 @@ ORDER  BY revenue DESC;
 -- ============================================================================================================================
 -- Q-03 : CATEGORY REVENUE MONTH-OVER-MONTH GROWTH
 -- Business use : Trend analysis per category — spot which are growing vs declining to adjust investment.
--- Fix         : Original formula was ROUND((revenue - prev_revenue * 100.0) / prev_revenue, 2) which
---               applies the ×100 to the wrong operand. Corrected to standard MoM formula:
---               (revenue - prev_revenue) * 100.0 / prev_revenue.
 -- ============================================================================================================================
 
 WITH monthly_category_revenue AS (
@@ -163,9 +160,6 @@ ORDER  BY category_name, revenue_rank;
 -- ============================================================================================================================
 -- Q-06 : TOP 5 CATEGORIES BY TOTAL REFUND AMOUNT
 -- Business use : Return cost analysis — high refund categories warrant quality or listing audits.
--- Fix         : Original query joined returns via order_items but returns link directly to orders.
---               Corrected join path: returns → orders → order_items → products → categories.
---               Also added WHERE r.status = 'Approved' to count only approved refunds.
 -- ============================================================================================================================
 
 WITH category_refunds AS (
